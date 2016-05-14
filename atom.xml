@@ -4,13 +4,21 @@
   <title><![CDATA[品モノラジオ]]></title>
   <link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
   <link href="http://shinamonoradio.github.io/"/>
-  <updated>2016-05-14T16:50:01+09:00</updated>
+  <updated>2016-05-14T17:31:29+09:00</updated>
   <id>http://shinamonoradio.github.io/</id>
   <author>
     <name><![CDATA[Tsubasa Yumura & Koji Tsukaya]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
+
+  <itunes:author>品モノラジオ</itunes:author>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:subtitle>品モノラボがお送りするメイカーとメーカーのためのモノづくり系ポッドキャスト</itunes:subtitle>
+  <itunes:owner>
+    <itunes:name>品モノラジオ</itunes:name>
+    <itunes:email>shinamonolab+shinamonoradio@gmail.com</itunes:email>
+  </itunes:owner>
 
   
   <entry>
@@ -21,6 +29,16 @@
     <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/lOyQN3BrJzA?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ]]></content>
-  </entry>
-  
-</feed>
+    <itunes:duration>01:09:20</itunes:duration>
+    <itunes:author>品モノラジオ</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>プロジェクションカードバンド / 100品ラボ / 品モノマガジン
+      Talk: Keiko Inagaki &amp; yumu19 &amp; ajimitei
+    </itunes:summary>
+    <itunes:subtitle>プロジェクションカードバンド / 100品ラボ / 品モノマガジン
+      Talk: Keiko Ina…</itunes:subtitle>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/255406691-shinamonoradio-003a.mp3" length="66570909"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000154444975-r2as5y-original.jpg"/>
+    </entry>
+    
+  </feed>

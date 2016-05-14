@@ -4,7 +4,7 @@
     <title><![CDATA[品モノラジオ]]></title>
     <link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <link href="http://shinamonoradio.github.io/"/>
-    <updated>2016-05-14T18:31:14+09:00</updated>
+    <updated>2016-05-14T18:32:41+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <author>
       <name><![CDATA[Tsubasa Yumura & Koji Tsukaya]]></name>
@@ -43,13 +43,13 @@
       </item>
       
     <item>
-      <title>001 田中 章愛 & 舘野 祐一</title>
+      <title>001 田中 章愛 ＆ 舘野 祐一</title>
       <link href="http://shinamonoradio.github.io/blog/2016/02/16/001/"/>
       <updated>2016-02-16T21:00:00+09:00</updated>
       <guid>http://shinamonoradio.github.io/blog/2016/02/16/001</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle>品川クリエイティブラウンジ / 品モノラボ立ち上げ</itunes:subtitle>
-      <itunes:duration>3870.0</itunes:duration>
+      <itunes:duration>1:04:30</itunes:duration>
       <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/001.mp3" type="audio/mpeg" length="61932802"/>
       </item>
       

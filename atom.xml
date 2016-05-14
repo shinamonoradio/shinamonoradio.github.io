@@ -4,7 +4,7 @@
     <title><![CDATA[品モノラジオ]]></title>
     <link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <link href="http://shinamonoradio.github.io/"/>
-    <updated>2016-05-14T17:46:05+09:00</updated>
+    <updated>2016-05-14T18:09:16+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <author>
       <name><![CDATA[Tsubasa Yumura & Koji Tsukaya]]></name>
@@ -21,6 +21,39 @@
 
     
     <item>
+      <title type="html"><![CDATA[003 稲垣 敬子]]></title>
+      <link href="http://shinamonoradio.github.io/blog/2016/01/31/003/"/>
+      <updated>2016-01-31T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/01/31/003</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:duration></itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/003.mp3" type="audio/mpeg" length="66570909"/>
+      </item>
+      
+    <item>
+      <title type="html"><![CDATA[000]]></title>
+      <link href="http://shinamonoradio.github.io/blog/2016/01/31/002/"/>
+      <updated>2016-01-31T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/01/31/002</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:duration></itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/000.mp3" type="audio/mpeg" length="42894347"/>
+      </item>
+      
+    <item>
+      <title type="html"><![CDATA[000]]></title>
+      <link href="http://shinamonoradio.github.io/blog/2016/01/31/001/"/>
+      <updated>2016-01-31T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/01/31/001</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:duration></itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/000.mp3" type="audio/mpeg" length="42894347"/>
+      </item>
+      
+    <item>
       <title type="html"><![CDATA[000]]></title>
       <link href="http://shinamonoradio.github.io/blog/2016/01/31/000/"/>
       <updated>2016-01-31T22:00:00+09:00</updated>
@@ -28,7 +61,7 @@
       <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle></itunes:subtitle>
       <itunes:duration></itunes:duration>
-      <enclosure url="" type="audio/mpeg" length=""/>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/000.mp3" type="audio/mpeg" length="42894347"/>
       </item>
       
     </channel>

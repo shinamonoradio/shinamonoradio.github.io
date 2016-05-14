@@ -4,7 +4,7 @@
     <title><![CDATA[品モノラジオ]]></title>
     <link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <link href="http://shinamonoradio.github.io/"/>
-    <updated>2016-05-14T18:09:16+09:00</updated>
+    <updated>2016-05-14T18:25:02+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <author>
       <name><![CDATA[Tsubasa Yumura & Koji Tsukaya]]></name>
@@ -22,35 +22,35 @@
     
     <item>
       <title type="html"><![CDATA[003 稲垣 敬子]]></title>
-      <link href="http://shinamonoradio.github.io/blog/2016/01/31/003/"/>
-      <updated>2016-01-31T22:00:00+09:00</updated>
-      <guid>http://shinamonoradio.github.io/blog/2016/01/31/003</guid>
+      <link href="http://shinamonoradio.github.io/blog/2016/03/27/003/"/>
+      <updated>2016-03-27T22:10:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/03/27/003</guid>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle></itunes:subtitle>
-      <itunes:duration></itunes:duration>
+      <itunes:subtitle>プロジェクションカードバンド / 100品ラボ / 品モノマガジン</itunes:subtitle>
+      <itunes:duration>4160.0</itunes:duration>
       <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/003.mp3" type="audio/mpeg" length="66570909"/>
       </item>
       
     <item>
-      <title type="html"><![CDATA[000]]></title>
-      <link href="http://shinamonoradio.github.io/blog/2016/01/31/002/"/>
-      <updated>2016-01-31T22:00:00+09:00</updated>
-      <guid>http://shinamonoradio.github.io/blog/2016/01/31/002</guid>
+      <title type="html"><![CDATA[002 古賀 由希子]]></title>
+      <link href="http://shinamonoradio.github.io/blog/2016/02/28/002/"/>
+      <updated>2016-02-28T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/02/28/002</guid>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle></itunes:subtitle>
-      <itunes:duration></itunes:duration>
-      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/000.mp3" type="audio/mpeg" length="42894347"/>
+      <itunes:subtitle>上モノラボ前日工場見学 / 上モノラボ参加報告 / コミュニティデザイン</itunes:subtitle>
+      <itunes:duration>3864.0</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/002.mp3" type="audio/mpeg" length="61838775"/>
       </item>
       
     <item>
-      <title type="html"><![CDATA[000]]></title>
-      <link href="http://shinamonoradio.github.io/blog/2016/01/31/001/"/>
-      <updated>2016-01-31T22:00:00+09:00</updated>
-      <guid>http://shinamonoradio.github.io/blog/2016/01/31/001</guid>
+      <title type="html"><![CDATA[001 田中 章愛 & 舘野 祐一]]></title>
+      <link href="http://shinamonoradio.github.io/blog/2016/02/16/001/"/>
+      <updated>2016-02-16T21:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/02/16/001</guid>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle></itunes:subtitle>
-      <itunes:duration></itunes:duration>
-      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/000.mp3" type="audio/mpeg" length="42894347"/>
+      <itunes:subtitle>品川クリエイティブラウンジ / 品モノラボ立ち上げ</itunes:subtitle>
+      <itunes:duration>3870.0</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/001.mp3" type="audio/mpeg" length="61932802"/>
       </item>
       
     <item>
@@ -59,8 +59,8 @@
       <updated>2016-01-31T22:00:00+09:00</updated>
       <guid>http://shinamonoradio.github.io/blog/2016/01/31/000</guid>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle></itunes:subtitle>
-      <itunes:duration></itunes:duration>
+      <itunes:subtitle>品モノラジオについて</itunes:subtitle>
+      <itunes:duration>2681.0</itunes:duration>
       <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/000.mp3" type="audio/mpeg" length="42894347"/>
       </item>
       

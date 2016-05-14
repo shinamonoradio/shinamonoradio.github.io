@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <link href="http://shinamonoradio.github.io/"/>
-    <updated>2016-05-15T02:20:47+09:00</updated>
+    <updated>2016-05-15T02:21:39+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -55,8 +55,8 @@
       <itunes:subtitle>ニコ技深センツアー / 「メイカーズのエコシステム」出版記念イベント</itunes:subtitle>
       <itunes:duration>1:30:01</itunes:duration>
       <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/004.mp3" type="audio/mpeg" length="86417269" />
-      </item>
-      
+    </item>
+    
     <item>
       <title>003 稲垣 敬子</title>
       <description>&lt;p&gt;プロジェクションカードバンド / 100品ラボ / 品モノマガジン&lt;/p&gt;
@@ -73,8 +73,8 @@
       <itunes:subtitle>プロジェクションカードバンド / 100品ラボ / 品モノマガジン</itunes:subtitle>
       <itunes:duration>1:09:20</itunes:duration>
       <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/003.mp3" type="audio/mpeg" length="66570909" />
-      </item>
-      
+    </item>
+    
     <item>
       <title>002 古賀 由希子</title>
       <description>&lt;p&gt;上モノラボ前日工場見学 / 上モノラボ参加報告 / コミュニティデザイン&lt;/p&gt;
@@ -91,8 +91,8 @@
       <itunes:subtitle>上モノラボ前日工場見学 / 上モノラボ参加報告 / コミュニティデザイン</itunes:subtitle>
       <itunes:duration>1:04:24</itunes:duration>
       <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/002.mp3" type="audio/mpeg" length="61838775" />
-      </item>
-      
+    </item>
+    
     <item>
       <title>001 田中 章愛 ＆ 舘野 祐一</title>
       <description>&lt;p&gt;品川クリエイティブラウンジ / 品モノラボ立ち上げ&lt;/p&gt;
@@ -109,8 +109,8 @@
       <itunes:subtitle>品川クリエイティブラウンジ / 品モノラボ立ち上げ</itunes:subtitle>
       <itunes:duration>1:04:30</itunes:duration>
       <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/001.mp3" type="audio/mpeg" length="61932802" />
-      </item>
-      
+    </item>
+    
     <item>
       <title>000 湯村 翼 ＆ 塚谷 浩司</title>
       <description>&lt;p&gt;品モノラジオについて&lt;/p&gt;
@@ -127,7 +127,7 @@
       <itunes:subtitle>品モノラジオについて</itunes:subtitle>
       <itunes:duration>0:44:41</itunes:duration>
       <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/000.mp3" type="audio/mpeg" length="42894347" />
-      </item>
-      
-    </channel>
-  </rss>
+    </item>
+    
+  </channel>
+</rss>

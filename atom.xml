@@ -4,17 +4,18 @@
     <title>品モノラジオ></title>
     <link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <link href="http://shinamonoradio.github.io/"/>
-    <updated>2016-05-14T18:47:12+09:00</updated>
+    <updated>2016-05-15T02:20:47+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
-      <name>Tsubasa Yumura ＆ Koji Tsukaya</name>
+      <name>Tsubasa Yumura, Koji Tsukaya</name>
     </author>
     <description>品モノラボがお送りするメイカーとメーカーのためのモノづくり系ポッドキャスト</description>
     <generator uri="http://octopress.org/">Octopress</generator>
     <itunes:author>品モノラジオ</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:subtitle>品モノラボがお送りするメイカーとメーカーのためのモノづくり系ポッドキャスト</itunes:subtitle>
+    <itunes:keywords>maker,makers,hack,hacker,engineering,tech</itunes:keywords>
     <itunes:owner>
       <itunes:name>品モノラジオ</itunes:name>
       <itunes:email>shinamonolab+shinamonoradio@gmail.com</itunes:email>
@@ -26,50 +27,106 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
-
     
     <item>
+      <title>004 湯村 翼 ＆ 塚谷 浩司</title>
+      <description>&lt;p&gt;ニコ技深センツアー / 「メイカーズのエコシステム」出版記念イベント&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://ch.nicovideo.jp/tks/blomaga/ar1010715&quot;&gt;第４回 ニコ技深圳観察会 2016年04月　感想まとめ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://togetter.com/li/962309&quot;&gt;Togetter ニコ技深圳観察会2016春&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://photos.google.com/share/AF1QipMfW0j1mF3ToT88lkqEF4VxcuEjqECQ1-KF0T5oBkLMrvu78_bepq20THaOE9PoUA?key=cVBqeU1mR1JvQlFwX0pJZHZpWm5jX21xblRmM1Jn&quot;&gt;Googleフォト ニコ技深圳観察会2016春&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;Maker Faire Tokyo 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB2016&quot;&gt;NTシンガポール2016(Maker Faire Singapore 日本出展組)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22016&quot;&gt;NT金沢2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/ouch.hack/permalink/1873563616203978/&quot;&gt;おうちハック発表会 #5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kfH8zhwNRJs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2016/05/14/004/"/>
+      <pubDate>Sat, 14 May 2016 22:10:00 +0900</pubDate>
+      <updated>2016-05-14T22:10:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/05/14/004</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ニコ技深センツアー / 「メイカーズのエコシステム」出版記念イベント</itunes:summary>
+      <itunes:subtitle>ニコ技深センツアー / 「メイカーズのエコシステム」出版記念イベント</itunes:subtitle>
+      <itunes:duration>1:30:01</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/004.mp3" type="audio/mpeg" length="86417269" />
+      </item>
+      
+    <item>
       <title>003 稲垣 敬子</title>
+      <description>&lt;p&gt;プロジェクションカードバンド / 100品ラボ / 品モノマガジン&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ptFbX_trn9s?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
       <link href="http://shinamonoradio.github.io/blog/2016/03/27/003/"/>
+      <pubDate>Sun, 27 Mar 2016 22:10:00 +0900</pubDate>
       <updated>2016-03-27T22:10:00+09:00</updated>
       <guid>http://shinamonoradio.github.io/blog/2016/03/27/003</guid>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>プロジェクションカードバンド / 100品ラボ / 品モノマガジン</itunes:summary>
       <itunes:subtitle>プロジェクションカードバンド / 100品ラボ / 品モノマガジン</itunes:subtitle>
       <itunes:duration>1:09:20</itunes:duration>
-      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/003.mp3" type="audio/mpeg" length="66570909"/>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/003.mp3" type="audio/mpeg" length="66570909" />
       </item>
       
     <item>
       <title>002 古賀 由希子</title>
+      <description>&lt;p&gt;上モノラボ前日工場見学 / 上モノラボ参加報告 / コミュニティデザイン&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/drjDxEcAFkU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
       <link href="http://shinamonoradio.github.io/blog/2016/02/28/002/"/>
+      <pubDate>Sun, 28 Feb 2016 22:00:00 +0900</pubDate>
       <updated>2016-02-28T22:00:00+09:00</updated>
       <guid>http://shinamonoradio.github.io/blog/2016/02/28/002</guid>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>上モノラボ前日工場見学 / 上モノラボ参加報告 / コミュニティデザイン</itunes:summary>
       <itunes:subtitle>上モノラボ前日工場見学 / 上モノラボ参加報告 / コミュニティデザイン</itunes:subtitle>
       <itunes:duration>1:04:24</itunes:duration>
-      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/002.mp3" type="audio/mpeg" length="61838775"/>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/002.mp3" type="audio/mpeg" length="61838775" />
       </item>
       
     <item>
       <title>001 田中 章愛 ＆ 舘野 祐一</title>
+      <description>&lt;p&gt;品川クリエイティブラウンジ / 品モノラボ立ち上げ&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/uDxcqSjxIL0?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
       <link href="http://shinamonoradio.github.io/blog/2016/02/16/001/"/>
+      <pubDate>Tue, 16 Feb 2016 21:00:00 +0900</pubDate>
       <updated>2016-02-16T21:00:00+09:00</updated>
       <guid>http://shinamonoradio.github.io/blog/2016/02/16/001</guid>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>品川クリエイティブラウンジ / 品モノラボ立ち上げ</itunes:summary>
       <itunes:subtitle>品川クリエイティブラウンジ / 品モノラボ立ち上げ</itunes:subtitle>
       <itunes:duration>1:04:30</itunes:duration>
-      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/001.mp3" type="audio/mpeg" length="61932802"/>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/001.mp3" type="audio/mpeg" length="61932802" />
       </item>
       
     <item>
       <title>000 湯村 翼 ＆ 塚谷 浩司</title>
+      <description>&lt;p&gt;品モノラジオについて&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lOyQN3BrJzA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
       <link href="http://shinamonoradio.github.io/blog/2016/01/31/000/"/>
+      <pubDate>Sun, 31 Jan 2016 22:00:00 +0900</pubDate>
       <updated>2016-01-31T22:00:00+09:00</updated>
       <guid>http://shinamonoradio.github.io/blog/2016/01/31/000</guid>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>品モノラジオについて</itunes:summary>
       <itunes:subtitle>品モノラジオについて</itunes:subtitle>
       <itunes:duration>0:44:41</itunes:duration>
-      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/000.mp3" type="audio/mpeg" length="42894347"/>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/000.mp3" type="audio/mpeg" length="42894347" />
       </item>
       
     </channel>

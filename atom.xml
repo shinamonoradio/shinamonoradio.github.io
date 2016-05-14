@@ -4,11 +4,13 @@
     <title>品モノラジオ></title>
     <link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <link href="http://shinamonoradio.github.io/"/>
-    <updated>2016-05-14T18:39:10+09:00</updated>
+    <updated>2016-05-14T18:47:12+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
+    <language>ja</language>
     <author>
       <name>Tsubasa Yumura ＆ Koji Tsukaya</name>
     </author>
+    <description>品モノラボがお送りするメイカーとメーカーのためのモノづくり系ポッドキャスト</description>
     <generator uri="http://octopress.org/">Octopress</generator>
     <itunes:author>品モノラジオ</itunes:author>
     <itunes:explicit>no</itunes:explicit>
@@ -17,6 +19,13 @@
       <itunes:name>品モノラジオ</itunes:name>
       <itunes:email>shinamonolab+shinamonoradio@gmail.com</itunes:email>
     </itunes:owner>
+    <itunes:image href="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/img.png"/>
+    <image>
+      <url>https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/img.png</url>
+      <title>品モノラジオ</title>
+      <link>http://shinamonoradio.github.io</link>
+    </image>
+    <itunes:category text="Technology"/>
 
     
     <item>

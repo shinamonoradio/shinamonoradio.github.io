@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2016-05-15T02:31:08+09:00</updated>
+    <updated>2016-06-06T02:29:00+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,36 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>005 豊田 淳</title>
+      <description>&lt;p&gt;べゼリー / Maker Faire Bay Area&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://bezelie.com/blog/&quot;&gt;Bezelie Official – Situation Robot, Bezeli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/T_SONOYAMA/status/651997999787184128&quot;&gt;肩のせべゼリー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.donya.jp/item/73739.html&quot;&gt;小型ロボット『ベゼリー』 ロボット開発はじめてキット (913981)の通信販売【上海問屋】 | 上海問屋&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/mft2016/&quot;&gt;Maker Faire Tokyo 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://techbookfest.github.io/&quot;&gt;技術書典：技術書オンリーイベント&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/ouch.hack/permalink/1873563616203978/&quot;&gt;おうちハック発表会 #5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB2016&quot;&gt;NTシンガポール2016(Maker Faire Singapore 日本出展組)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22016&quot;&gt;NT金沢2016&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/82AwICKNCVw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2016/06/05/005/"/>
+      <pubDate>Sun, 05 Jun 2016 22:02:00 +0900</pubDate>
+      <updated>2016-06-05T22:02:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/06/05/005</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>べゼリー / Maker Faire Bay Area</itunes:summary>
+      <itunes:subtitle>べゼリー / Maker Faire Bay Area</itunes:subtitle>
+      <itunes:duration>1:01:56</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/005.mp3" type="audio/mpeg" length="86417269" />
+    </item>
     
     <item>
       <title>004 湯村 翼 ＆ 塚谷 浩司</title>

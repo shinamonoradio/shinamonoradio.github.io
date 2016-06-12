@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2016-06-06T02:29:00+09:00</updated>
+    <updated>2016-06-13T00:10:35+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,35 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>006「Makerのつながりの作り方」高須 正和＆伊豫田 旭彦</title>
+      <description>&lt;p&gt;コミュニティ / ニコ技深セン / Maker Faire / 海外&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/mft2016/&quot;&gt;Maker Faire Tokyo 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ch.nicovideo.jp/tks/blomaga/ar1044754&quot;&gt;8月7日 秋葉原メイカーズ倶楽部2016,そしてNT東京2016 #Akiparty #NT東京 #ニコニコ技術部:tks(高須 正和)のブロマガ - ブロマガ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/ouch.hack/permalink/1873563616203978/&quot;&gt;おうちハック発表会 #5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cbec-titech.connpass.com/event/30229/&quot;&gt;TdX講演会#03「チームとニコニコ学会βづくり」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB2016&quot;&gt;NTシンガポール2016(Maker Faire Singapore 日本出展組)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22016&quot;&gt;NT金沢2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ch.nicovideo.jp/iyokan_nico/blomaga/ar996586&quot;&gt;海外メディアVice.comに英語で取材された動画がアップされた（クレイジーキッチン）:伊予柑ブロマガ - ブロマガ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/90xp6i7OzbY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2016/06/12/006/"/>
+      <pubDate>Sun, 12 Jun 2016 22:00:00 +0900</pubDate>
+      <updated>2016-06-12T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/06/12/006</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>コミュニティ / ニコ技深セン / Maker Faire / 海外</itunes:summary>
+      <itunes:subtitle>コミュニティ / ニコ技深セン / Maker Faire / 海外</itunes:subtitle>
+      <itunes:duration>1:18:40</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/006.mp3" type="audio/mpeg" length="75517311" />
+    </item>
     
     <item>
       <title>005 豊田 淳</title>

@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2016-08-01T01:11:55+09:00</updated>
+    <updated>2016-08-01T01:15:50+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -29,7 +29,7 @@
     <itunes:category text="Technology"/>
     
     <item>
-      <title>008</title>
+      <title>008「Maker Faire Tokyo 2016 直前特集」古賀 由希子＆塚谷 浩司＆湯村 翼</title>
       <description>&lt;p&gt;Maker Faire&lt;/p&gt;
 
 &lt;ul&gt;
@@ -57,14 +57,14 @@
 
 </description>
       <link href="http://shinamonoradio.github.io/blog/2016/07/31/008/"/>
-      <pubDate>Sun, 31 Jul 2016 00:00:00 +0900</pubDate>
-      <updated>2016-07-31T00:00:00+09:00</updated>
+      <pubDate>Sun, 31 Jul 2016 22:00:00 +0900</pubDate>
+      <updated>2016-07-31T22:00:00+09:00</updated>
       <guid>http://shinamonoradio.github.io/blog/2016/07/31/008</guid>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:summary></itunes:summary>
-      <itunes:subtitle></itunes:subtitle>
-      <itunes:duration></itunes:duration>
-      <enclosure url="" type="audio/mpeg" length="" />
+      <itunes:summary>Maker Faire</itunes:summary>
+      <itunes:subtitle>Maker Faire</itunes:subtitle>
+      <itunes:duration>1:08:16</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/007.mp3" type="audio/mpeg" length="65373859" />
     </item>
     
     <item>

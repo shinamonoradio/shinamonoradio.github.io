@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "008「Maker Faire Tokyo 2016 直前特集」古賀 由希子＆塚谷 浩司＆湯村 翼""
+title: "008「Maker Faire Tokyo 2016 直前特集」古賀 由希子＆塚谷 浩司＆湯村 翼"
 date: 2016-07-31 22:00:00 +0900
 comments: true
 categories:

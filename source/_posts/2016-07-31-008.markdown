@@ -1,0 +1,32 @@
+---
+layout: post
+title: "008「Maker Faire Tokyo 2016 直前特集」古賀 由希子＆塚谷 浩司＆湯村 翼""
+date: 2016-07-31 22:00:00 +0900
+comments: true
+categories:
+audio-src: https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/007.mp3
+audio-length: 65373859
+audio-duration: "1:08:16"
+description: Maker Faire
+---
+Maker Faire
+
+- [Maker Faire Tokyo 2016](http://makezine.jp/event/mft2016/)
+- [品モノPARTY by 品モノラボ](http://makezine.jp/event/makers2016/shinamonolab/)
+- [おうちハック作品紹介 - おうちハック同好会](http://makezine.jp/event/makers2016/ouchihackdoukoukai/)
+- [ロボットアーム書道 - 山口自動機械](http://makezine.jp/event/makers2016/yamaguchijidoukikai/)
+- [記事で作った工作展示とミニヘボコン、デカ顔ワークショップ - デイリーポータルZ](http://makezine.jp/event/makers2016/dailyportalz/)
+- [ニフティ30周年 ヘボコン・ワールドチャンピオンシップ2016](http://tcc.nifty.com/cs/catalog/tcc_schedule/catalog_160701205266_1.htm)
+- [和田永「エレクトロニコス・ファンタスティコス！」](http://makezine.jp/event/makers2016/wada-ei_electronicos-fantasticos/)
+- [ソーシャルメディア衛星開発プロジェクト SOMESAT](http://makezine.jp/event/makers2016/somesat/)
+- [リーマンサット・プロジェクト](http://makezine.jp/event/makers2016/rymansat-project/)
+- [クレイジーキッチン 拡張ディナー - ［NKH］ニコ生企画放送局](http://makezine.jp/event/makers2016/nkh_niconamakikaku/)
+- [CUCUMBER-9（自動きゅうり選果マシーン） - Workpiles](http://makezine.jp/event/makers2016/workpiles/)
+- [シャボン玉ロボット　しゃぼ～ん（仮） - ロボットアートテクノ株式会社](http://makezine.jp/event/makers2016/robotarttechno/)
+- [3Dプリンタ子供用VRヘッドセットと光るシャボン玉アンブレラ - ゆめカワ☆ふぁぶりけーしょんズ](http://makezine.jp/event/makers2016/yumekawa-fablications/)
+- [テスラコイル - 高エネルギー技術研究室](http://makezine.jp/event/makers2016/kouenergygijutsukenkyuushitsu/)
+- [家族に嫌がられない小型自作ボール盤 - ススガ全自動P](http://makezine.jp/event/makers2016/susugazenjidoup/)
+- [ウェアラブルシンセサイザー "Cardiaction!" - u.kokolab](http://makezine.jp/event/makers2016/u-kokolab/)
+- [Maker Faire Tokyo 2016 カウントダウンタイマー](http://s3-ap-northeast-1.amazonaws.com/mftimer/mftimer2016.html)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gF_voSeyCA4?rel=0" frameborder="0" allowfullscreen></iframe>

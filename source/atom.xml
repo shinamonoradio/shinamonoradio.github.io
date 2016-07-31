@@ -1,0 +1,49 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>{{ site.title | cdata_escape }}></title>
+    <atom:link href="{{ site.url }}/atom.xml" rel="self"/>
+    <atom:link href="{{ site.url }}/"/>
+    <updated>{{ site.time | date_to_xmlschema }}</updated>
+    <id>{{ site.url }}/</id>
+    <language>ja</language>
+    <author>
+      <name>{{ site.author | strip_html }}</name>
+    </author>
+    <description>品モノラボがお送りするメイカーとメーカーのためのモノづくり系ポッドキャスト</description>
+    <generator uri="http://octopress.org/">Octopress</generator>
+    <itunes:author>品モノラジオ</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:subtitle>品モノラボがお送りするメイカーとメーカーのためのモノづくり系ポッドキャスト</itunes:subtitle>
+    <itunes:keywords>maker,makers,hack,hacker,engineering,tech</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>品モノラジオ</itunes:name>
+      <itunes:email>shinamonolab+shinamonoradio@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/img.png"/>
+    <image>
+      <url>https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/img.png</url>
+      <title>品モノラジオ</title>
+      <link>http://shinamonoradio.github.io</link>
+    </image>
+    <itunes:category text="Technology"/>
+    {% for post in site.posts %}
+    <item>
+      <title>{{ post.title }}</title>
+      <description>{{ post.content | xml_escape }}</description>
+      <link href="{{ site.url }}{{ post.url }}"/>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <updated>{{ post.date | date_to_xmlschema }}</updated>
+      <guid>{{ site.url }}{{ post.id }}</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>{{ post.description }}</itunes:summary>
+      <itunes:subtitle>{{ post.description }}</itunes:subtitle>
+      <itunes:duration>{{ post.audio-duration }}</itunes:duration>
+      <enclosure url="{{ post.audio-src }}" type="audio/mpeg" length="{{ post.audio-length }}" />
+    </item>
+    {% endfor %}
+  </channel>
+</rss>

@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://shinamonoradio.github.io
+title: 品モノラジオ
+subtitle: 品モノラボがお送りするメイカーとメーカーのためのモノづくり系ポッドキャスト
+author: Tsubasa Yumura, Koji Tsukaya
 simple_search: https://www.google.com/search
 description:
 
@@ -16,7 +16,7 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /feed.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:

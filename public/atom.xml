@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>品モノラジオ></title>
+    <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
+    <atom:link href="http://shinamonoradio.github.io/"/>
+    <updated>2016-07-04T00:07:24+09:00</updated>
+    <id>http://shinamonoradio.github.io/</id>
+    <language>ja</language>
+    <author>
+      <name>Tsubasa Yumura, Koji Tsukaya</name>
+    </author>
+    <description>品モノラボがお送りするメイカーとメーカーのためのモノづくり系ポッドキャスト</description>
+    <generator uri="http://octopress.org/">Octopress</generator>
+    <itunes:author>品モノラジオ</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:subtitle>品モノラボがお送りするメイカーとメーカーのためのモノづくり系ポッドキャスト</itunes:subtitle>
+    <itunes:keywords>maker,makers,hack,hacker,engineering,tech</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>品モノラジオ</itunes:name>
+      <itunes:email>shinamonolab+shinamonoradio@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/img.png"/>
+    <image>
+      <url>https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/img.png</url>
+      <title>品モノラジオ</title>
+      <link>http://shinamonoradio.github.io</link>
+    </image>
+    <itunes:category text="Technology"/>
+    
+    <item>
+      <title>007「Maker Faire Singapore 2016 出展報告」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;Maker Faire / シンガポール / 海外&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://makerfairesingapore.com/&quot;&gt;Maker Faire Singapore | Make • Create • Craft • Build • Play&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://togetter.com/li/993791&quot;&gt;Maker Faire Singapore 2016ツイートまとめ #MFシンガポール - Togetterまとめ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB2016&quot;&gt;NTシンガポール2016(Maker Faire Singapore 日本出展組)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://exhibition.team-lab.net/singapore/&quot;&gt;Art Science Museum &amp;amp; teamLab Present | FUTURE WORLD WHERE ART MEETS SCIENCE | From March 12, 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.science.edu.sg/Pages/SCBHome.aspx&quot;&gt;Science Center Singapore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/mft2016/&quot;&gt;Maker Faire Tokyo 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ch.nicovideo.jp/tks/blomaga/ar1044754&quot;&gt;8月7日 秋葉原メイカーズ倶楽部2016,そしてNT東京2016 #Akiparty #NT東京 #ニコニコ技術部:tks(高須 正和)のブロマガ - ブロマガ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://connpass.com/event/34528/&quot;&gt;マーハッカソン - connpass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22016&quot;&gt;NT金沢2016&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7dQgW2z__Iw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2016/07/03/007/"/>
+      <pubDate>Sun, 03 Jul 2016 22:00:00 +0900</pubDate>
+      <updated>2016-07-03T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/07/03/007</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Maker Faire / シンガポール / 海外</itunes:summary>
+      <itunes:subtitle>Maker Faire / シンガポール / 海外</itunes:subtitle>
+      <itunes:duration>1:07:25</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/007.mp3" type="audio/mpeg" length="64726858" />
+    </item>
+    
+    <item>
+      <title>006「Makerのつながりの作り方」高須 正和＆伊豫田 旭彦</title>
+      <description>&lt;p&gt;コミュニティ / ニコ技深セン / Maker Faire / 海外&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B01AXRCDTU&quot;&gt;Amazon.co.jp: メイカーズのエコシステム　新しいモノづくりがとまらない。 (OnDeck Books（NextPublishing）) 電子書籍: 高須 正和: Kindleストア&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ch.nicovideo.jp/asagin/blomaga/ar257580&quot;&gt;TDSの感想文リンク集:さえきあさぎさんのブロマガ - ブロマガ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ch.nicovideo.jp/tks/blomaga/ar1029058&quot;&gt;ニコ技深圳観察会の運営状況:tks(高須 正和)のブロマガ - ブロマガ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/mft2016/&quot;&gt;Maker Faire Tokyo 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ch.nicovideo.jp/tks/blomaga/ar1044754&quot;&gt;8月7日 秋葉原メイカーズ倶楽部2016,そしてNT東京2016 #Akiparty #NT東京 #ニコニコ技術部:tks(高須 正和)のブロマガ - ブロマガ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/ouch.hack/permalink/1873563616203978/&quot;&gt;おうちハック発表会 #5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cbec-titech.connpass.com/event/30229/&quot;&gt;TdX講演会#03「チームとニコニコ学会βづくり」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB2016&quot;&gt;NTシンガポール2016(Maker Faire Singapore 日本出展組)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22016&quot;&gt;NT金沢2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ch.nicovideo.jp/iyokan_nico/blomaga/ar996586&quot;&gt;海外メディアVice.comに英語で取材された動画がアップされた（クレイジーキッチン）:伊予柑ブロマガ - ブロマガ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/90xp6i7OzbY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2016/06/12/006/"/>
+      <pubDate>Sun, 12 Jun 2016 22:00:00 +0900</pubDate>
+      <updated>2016-06-12T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/06/12/006</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>コミュニティ / ニコ技深セン / Maker Faire / 海外</itunes:summary>
+      <itunes:subtitle>コミュニティ / ニコ技深セン / Maker Faire / 海外</itunes:subtitle>
+      <itunes:duration>1:18:40</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/006.mp3" type="audio/mpeg" length="75517311" />
+    </item>
+    
+    <item>
+      <title>005「べゼリーができるまで」豊田 淳</title>
+      <description>&lt;p&gt;べゼリー / Maker Faire Bay Area&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://bezelie.com/blog/&quot;&gt;Bezelie Official – Situation Robot, Bezeli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/T_SONOYAMA/status/651997999787184128&quot;&gt;肩のせべゼリー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.donya.jp/item/73739.html&quot;&gt;小型ロボット『ベゼリー』 ロボット開発はじめてキット (913981)の通信販売【上海問屋】 | 上海問屋&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/mft2016/&quot;&gt;Maker Faire Tokyo 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://techbookfest.github.io/&quot;&gt;技術書典：技術書オンリーイベント&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/ouch.hack/permalink/1873563616203978/&quot;&gt;おうちハック発表会 #5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB2016&quot;&gt;NTシンガポール2016(Maker Faire Singapore 日本出展組)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22016&quot;&gt;NT金沢2016&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/82AwICKNCVw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2016/06/05/005/"/>
+      <pubDate>Sun, 05 Jun 2016 22:02:00 +0900</pubDate>
+      <updated>2016-06-05T22:02:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/06/05/005</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>べゼリー / Maker Faire Bay Area</itunes:summary>
+      <itunes:subtitle>べゼリー / Maker Faire Bay Area</itunes:subtitle>
+      <itunes:duration>1:01:56</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/005.mp3" type="audio/mpeg" length="86417269" />
+    </item>
+    
+    <item>
+      <title>004「ニコ技深センツアー・出版イベント報告」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;ニコ技深センツアー / 「メイカーズのエコシステム」出版記念イベント&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://ch.nicovideo.jp/tks/blomaga/ar1010715&quot;&gt;第４回 ニコ技深圳観察会 2016年04月　感想まとめ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://togetter.com/li/962309&quot;&gt;Togetter ニコ技深圳観察会2016春&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://photos.google.com/share/AF1QipMfW0j1mF3ToT88lkqEF4VxcuEjqECQ1-KF0T5oBkLMrvu78_bepq20THaOE9PoUA?key=cVBqeU1mR1JvQlFwX0pJZHZpWm5jX21xblRmM1Jn&quot;&gt;Googleフォト ニコ技深圳観察会2016春&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;Maker Faire Tokyo 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB2016&quot;&gt;NTシンガポール2016(Maker Faire Singapore 日本出展組)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22016&quot;&gt;NT金沢2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/ouch.hack/permalink/1873563616203978/&quot;&gt;おうちハック発表会 #5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kfH8zhwNRJs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2016/05/14/004/"/>
+      <pubDate>Sat, 14 May 2016 22:10:00 +0900</pubDate>
+      <updated>2016-05-14T22:10:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/05/14/004</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ニコ技深センツアー / 「メイカーズのエコシステム」出版記念イベント</itunes:summary>
+      <itunes:subtitle>ニコ技深センツアー / 「メイカーズのエコシステム」出版記念イベント</itunes:subtitle>
+      <itunes:duration>1:30:01</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/004.mp3" type="audio/mpeg" length="86417269" />
+    </item>
+    
+    <item>
+      <title>003「プロジェクションカードバンドの軌跡」稲垣 敬子</title>
+      <description>&lt;p&gt;プロジェクションカードバンド / 100品ラボ / 品モノマガジン&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ptFbX_trn9s?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2016/03/27/003/"/>
+      <pubDate>Sun, 27 Mar 2016 22:10:00 +0900</pubDate>
+      <updated>2016-03-27T22:10:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/03/27/003</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>プロジェクションカードバンド / 100品ラボ / 品モノマガジン</itunes:summary>
+      <itunes:subtitle>プロジェクションカードバンド / 100品ラボ / 品モノマガジン</itunes:subtitle>
+      <itunes:duration>1:09:20</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/003.mp3" type="audio/mpeg" length="66570909" />
+    </item>
+    
+    <item>
+      <title>002「旅するコミュニティ」古賀 由希子</title>
+      <description>&lt;p&gt;上モノラボ前日工場見学 / 上モノラボ参加報告 / コミュニティデザイン&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/drjDxEcAFkU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2016/02/28/002/"/>
+      <pubDate>Sun, 28 Feb 2016 22:00:00 +0900</pubDate>
+      <updated>2016-02-28T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/02/28/002</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>上モノラボ前日工場見学 / 上モノラボ参加報告 / コミュニティデザイン</itunes:summary>
+      <itunes:subtitle>上モノラボ前日工場見学 / 上モノラボ参加報告 / コミュニティデザイン</itunes:subtitle>
+      <itunes:duration>1:04:24</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/002.mp3" type="audio/mpeg" length="61838775" />
+    </item>
+    
+    <item>
+      <title>001「品モノラボとクリエイティブラウンジ」田中 章愛＆舘野 祐一</title>
+      <description>&lt;p&gt;品川クリエイティブラウンジ / 品モノラボ立ち上げ&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/uDxcqSjxIL0?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2016/02/16/001/"/>
+      <pubDate>Tue, 16 Feb 2016 21:00:00 +0900</pubDate>
+      <updated>2016-02-16T21:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/02/16/001</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>品川クリエイティブラウンジ / 品モノラボ立ち上げ</itunes:summary>
+      <itunes:subtitle>品川クリエイティブラウンジ / 品モノラボ立ち上げ</itunes:subtitle>
+      <itunes:duration>1:04:30</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/001.mp3" type="audio/mpeg" length="61932802" />
+    </item>
+    
+    <item>
+      <title>000「品モノラジオ始めてみた」湯村 翼 ＆ 塚谷 浩司</title>
+      <description>&lt;p&gt;品モノラジオについて&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lOyQN3BrJzA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2016/01/31/000/"/>
+      <pubDate>Sun, 31 Jan 2016 22:00:00 +0900</pubDate>
+      <updated>2016-01-31T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/01/31/000</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>品モノラジオについて</itunes:summary>
+      <itunes:subtitle>品モノラジオについて</itunes:subtitle>
+      <itunes:duration>0:44:41</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/000.mp3" type="audio/mpeg" length="42894347" />
+    </item>
+    
+  </channel>
+</rss>

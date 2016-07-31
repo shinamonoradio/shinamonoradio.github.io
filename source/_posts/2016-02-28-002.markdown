@@ -1,0 +1,13 @@
+---
+layout: post
+title: "002「旅するコミュニティ」古賀 由希子"
+date: 2016-02-28 22:00:00 +0900
+comments: true
+categories:
+audio-src: https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/002.mp3
+audio-length: 61838775
+audio-duration: "1:04:24"
+description: 上モノラボ前日工場見学 / 上モノラボ参加報告 / コミュニティデザイン
+---
+上モノラボ前日工場見学 / 上モノラボ参加報告 / コミュニティデザイン
+<iframe width="560" height="315" src="https://www.youtube.com/embed/drjDxEcAFkU?rel=0" frameborder="0" allowfullscreen></iframe>

@@ -1,0 +1,22 @@
+---
+layout: post
+title: "004「ニコ技深センツアー・出版イベント報告」湯村 翼＆塚谷 浩司"
+date: 2016-05-14 22:10:00 +0900
+comments: true
+categories:
+audio-src: https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/004.mp3
+audio-length: 86417269
+audio-duration: "1:30:01"
+description: ニコ技深センツアー / 「メイカーズのエコシステム」出版記念イベント
+---
+ニコ技深センツアー / 「メイカーズのエコシステム」出版記念イベント
+
+- [第４回 ニコ技深圳観察会 2016年04月　感想まとめ](http://ch.nicovideo.jp/tks/blomaga/ar1010715)
+- [Togetter ニコ技深圳観察会2016春](http://togetter.com/li/962309)
+- [Googleフォト ニコ技深圳観察会2016春](https://photos.google.com/share/AF1QipMfW0j1mF3ToT88lkqEF4VxcuEjqECQ1-KF0T5oBkLMrvu78_bepq20THaOE9PoUA?key=cVBqeU1mR1JvQlFwX0pJZHZpWm5jX21xblRmM1Jn)
+- [Maker Faire Tokyo 2016]()
+- [NTシンガポール2016(Maker Faire Singapore 日本出展組)](http://wiki.nicotech.jp/nico_tech/index.php?NT%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB2016)
+- [NT金沢2016](http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22016)
+- [おうちハック発表会 #5](https://www.facebook.com/groups/ouch.hack/permalink/1873563616203978/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kfH8zhwNRJs?rel=0" frameborder="0" allowfullscreen></iframe>

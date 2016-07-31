@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://shinamonoradio.github.io/sitemap.xml 

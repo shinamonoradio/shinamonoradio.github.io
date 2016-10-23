@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2016-08-01T01:23:56+09:00</updated>
+    <updated>2016-08-01T01:29:28+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,45 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>008「Maker Faire Tokyo 2016 直前特集」古賀 由希子＆塚谷 浩司＆湯村 翼</title>
+      <description>&lt;p&gt;Maker Faire&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/mft2016/&quot;&gt;Maker Faire Tokyo 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2016/shinamonolab/&quot;&gt;品モノPARTY by 品モノラボ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2016/ouchihackdoukoukai/&quot;&gt;おうちハック作品紹介 - おうちハック同好会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2016/yamaguchijidoukikai/&quot;&gt;ロボットアーム書道 - 山口自動機械&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2016/dailyportalz/&quot;&gt;記事で作った工作展示とミニヘボコン、デカ顔ワークショップ - デイリーポータルZ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://tcc.nifty.com/cs/catalog/tcc_schedule/catalog_160701205266_1.htm&quot;&gt;ニフティ30周年 ヘボコン・ワールドチャンピオンシップ2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2016/wada-ei_electronicos-fantasticos/&quot;&gt;和田永「エレクトロニコス・ファンタスティコス！」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2016/somesat/&quot;&gt;ソーシャルメディア衛星開発プロジェクト SOMESAT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2016/rymansat-project/&quot;&gt;リーマンサット・プロジェクト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2016/nkh_niconamakikaku/&quot;&gt;クレイジーキッチン 拡張ディナー - ［NKH］ニコ生企画放送局&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2016/workpiles/&quot;&gt;CUCUMBER-9（自動きゅうり選果マシーン） - Workpiles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2016/robotarttechno/&quot;&gt;シャボン玉ロボット　しゃぼ～ん（仮） - ロボットアートテクノ株式会社&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2016/yumekawa-fablications/&quot;&gt;3Dプリンタ子供用VRヘッドセットと光るシャボン玉アンブレラ - ゆめカワ☆ふぁぶりけーしょんズ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2016/kouenergygijutsukenkyuushitsu/&quot;&gt;テスラコイル - 高エネルギー技術研究室&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2016/susugazenjidoup/&quot;&gt;家族に嫌がられない小型自作ボール盤 - ススガ全自動P&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2016/u-kokolab/&quot;&gt;ウェアラブルシンセサイザー &amp;ldquo;Cardiaction!&amp;rdquo; - u.kokolab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://s3-ap-northeast-1.amazonaws.com/mftimer/mftimer2016.html&quot;&gt;Maker Faire Tokyo 2016 カウントダウンタイマー&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gF_voSeyCA4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2016/07/31/008/"/>
+      <pubDate>Sun, 31 Jul 2016 22:00:00 +0900</pubDate>
+      <updated>2016-07-31T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/07/31/008</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Maker Faire</itunes:summary>
+      <itunes:subtitle>Maker Faire</itunes:subtitle>
+      <itunes:duration>1:08:16</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/007.mp3" type="audio/mpeg" length="65373859" />
+    </item>
     
     <item>
       <title>007「Maker Faire Singapore 2016 出展報告」湯村 翼＆塚谷 浩司</title>

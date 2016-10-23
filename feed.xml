@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2016-08-01T01:29:28+09:00</updated>
+    <updated>2016-10-24T00:42:59+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,37 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>009「MFT2016振り返り＆ABProで寿司が止まって見える装置」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;Maker Faire / ABPro
+- &lt;a href=&quot;https://www.oreilly.co.jp/books/9784873117478/&quot;&gt;物を作って生きるには――23人のMaker Proが語る仕事と生活&lt;/a&gt;
+- &lt;a href=&quot;http://makezine.jp/event/mft2016/&quot;&gt;Maker Faire Tokyo 2016&lt;/a&gt;
+- &lt;a href=&quot;http://makezine.jp/event/makers2016/workpiles/&quot;&gt;CUCUMBER-9（自動きゅうり選果マシーン） - Workpiles&lt;/a&gt;
+- &lt;a href=&quot;http://makezine.jp/event/makers2016/wada-ei_electronicos-fantasticos/&quot;&gt;和田永「エレクトロニコス・ファンタスティコス！」&lt;/a&gt;
+- &lt;a href=&quot;http://makezine.jp/event/makers2016/morirobo/&quot;&gt;モリロボ 自動クレープ焼きロボット ”クレプ” - Make&lt;/a&gt;
+- &lt;a href=&quot;http://ommf.iamas.ac.jp/&quot;&gt;Ogaki Mini Maker Faire&lt;/a&gt;
+- &lt;a href=&quot;http://portal.nifty.com/kiji/161019197846_1.htm&quot;&gt;レーザーカッターで燻製を作る！「普通じゃないプログラム」発表会 - デイリーポータルZ：@nifty&lt;/a&gt;
+- &lt;a href=&quot;http://abpro.jp/2016/&quot;&gt;ABPro 2016&lt;/a&gt;
+- &lt;a href=&quot;http://yumulog.hatenablog.com/entry/2016/09/25/234038&quot;&gt;年収800万円以下でも寿司が止まって見える装置をABPro2016で発表した #ABPro - yumulog | 社会人博士の日記&lt;/a&gt;
+- &lt;a href=&quot;http://makezine.jp/event/makers2015/pffamily/&quot;&gt;ストロボ実験と芸術的物理シミュレーション | Maker Faire Tokyo 2015 | Make: Japan&lt;/a&gt;
+- &lt;a href=&quot;http://portal.nifty.com/kiji/140924165234_1.htm&quot;&gt;プログラムで笑わせろ！「普通じゃないプログラム」発表会 - デイリーポータルZ：@nifty&lt;/a&gt;
+- &lt;a href=&quot;http://mashupaward.jp/&quot;&gt;Mashup Awards 2016&lt;/a&gt;
+- &lt;a href=&quot;https://gugen.jp/&quot;&gt;GUGEN 2016&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KvN4FDxwu7w&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2016/10/23/009/"/>
+      <pubDate>Sun, 23 Oct 2016 22:00:00 +0900</pubDate>
+      <updated>2016-10-23T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/10/23/009</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Maker Faire / ABPro</itunes:summary>
+      <itunes:subtitle>Maker Faire / ABPro</itunes:subtitle>
+      <itunes:duration>1:01:50</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/009.mp3" type="audio/mpeg" length="59373220" />
+    </item>
     
     <item>
       <title>008「Maker Faire Tokyo 2016 直前特集」古賀 由希子＆塚谷 浩司＆湯村 翼</title>
@@ -64,7 +95,7 @@
       <itunes:summary>Maker Faire</itunes:summary>
       <itunes:subtitle>Maker Faire</itunes:subtitle>
       <itunes:duration>1:08:16</itunes:duration>
-      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/007.mp3" type="audio/mpeg" length="65373859" />
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/008.mp3" type="audio/mpeg" length="65373859" />
     </item>
     
     <item>

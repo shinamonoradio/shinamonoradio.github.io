@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2016-10-24T00:43:37+09:00</updated>
+    <updated>2016-11-14T00:16:08+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,35 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>010「Maker Faireに行ったら人生が変わった」岡田 貴裕</title>
+      <description>&lt;p&gt;Maker Faire / 深セン&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/blog/2011/12/mtm07.html&quot;&gt;Make Tokyo Meeting 07&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://pigmal.com/blog/2012/04/16/mini-maker-faire-in-shenzhen/&quot;&gt;Mini Maker Faire in ShenZhen にて新作「ウェアラブルタブレット」の展示を行いました | pigmal, LLC / 合同会社ピグマル&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/kopanitsa/maker-faire-bay-area-2013-report&quot;&gt;Maker faire bay area 2013 report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.hills-marche.com/&quot;&gt;ヒルズマルシェ in アークヒルズ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ux-xu.com/news/release/%E4%BB%A3%E5%AE%98%E5%B1%B1-%E8%94%A6%E5%B1%8B%E6%9B%B8%E5%BA%97%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%80%8Cdaikanyama-design-department-2016%E3%80%8D-2&quot;&gt;代官山 蔦屋書店のデザインイベント「Daikanyama Design Department 2016」に参加します | ユカイ工学&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://qiita.com/advent-calendar/2016/podcast&quot;&gt;Podcast Advent Calendar 2016 - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://qiita.com/advent-calendar/2016/iot-gadgets&quot;&gt;今年買った(ハックした)IoTガジェット Advent Calendar 2016 - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/iOrF0qIvkek&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2016/11/13/010/"/>
+      <pubDate>Sun, 13 Nov 2016 22:00:00 +0900</pubDate>
+      <updated>2016-11-13T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/11/13/010</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Maker Faire / 深セン</itunes:summary>
+      <itunes:subtitle>Maker Faire / 深セン</itunes:subtitle>
+      <itunes:duration>1:07:05</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/010.mp3" type="audio/mpeg" length="64410888" />
+    </item>
     
     <item>
       <title>009「MFT2016振り返り＆ABProで寿司が止まって見える装置」湯村 翼＆塚谷 浩司</title>

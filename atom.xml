@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2016-11-14T00:18:45+09:00</updated>
+    <updated>2017-01-12T00:15:31+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,33 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>011「デザインからMakerへ」やまざき☆はるき</title>
+      <description>&lt;p&gt;コミケ / Personal Fabrication&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/yumu19/status/779586109571411968&quot;&gt;トロンボーン型ゲームコントローラ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.techshop.jp/&quot;&gt;Tech Shop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://tokyomotioncontrol.net/&quot;&gt;TMCN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/events/233572820418431/&quot;&gt;品テク meetup Vol.04&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://4ok.jp/pets/&quot;&gt;プログラミング脳を養うツール「PETS」&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/t5iUKmrgNYQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2016/12/29/011/"/>
+      <pubDate>Thu, 29 Dec 2016 16:10:00 +0900</pubDate>
+      <updated>2016-12-29T16:10:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/12/29/011</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>コミケ / Personal Fabrication</itunes:summary>
+      <itunes:subtitle>コミケ / Personal Fabrication</itunes:subtitle>
+      <itunes:duration>1:08:16</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/011.mp3" type="audio/mpeg" length="65544387" />
+    </item>
     
     <item>
       <title>010「Maker Faireに行ったら人生が変わった」岡田 貴裕</title>

@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2017-01-12T00:23:42+09:00</updated>
+    <updated>2017-02-05T00:37:05+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,33 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>012「品モノラジオ1周年ふりかえり」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;品モノラジオ&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://info.wamazing.jp/&quot;&gt;WAmazing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/bangkokmakerfaire/&quot;&gt;Bangkok Mini Maker Faire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makerfaire.com/map/&quot;&gt;Maker Faire | Find a Faire Near You&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.makerfaire.com.tw/&quot;&gt;Maker Faire Taipei&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCFkkumrDa6BBLTh1SEpp5SQ&quot;&gt;ajimitei channel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/L-xXzf1Tr6U&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2017/02/05/012/"/>
+      <pubDate>Sun, 05 Feb 2017 22:00:00 +0900</pubDate>
+      <updated>2017-02-05T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2017/02/05/012</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>品モノラジオ</itunes:summary>
+      <itunes:subtitle>品モノラジオ</itunes:subtitle>
+      <itunes:duration>0:59:25</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/012.mp3" type="audio/mpeg" length="57043514" />
+    </item>
     
     <item>
       <title>011「デザインからMakerへ」やまざき☆はるき</title>

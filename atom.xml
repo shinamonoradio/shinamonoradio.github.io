@@ -4,11 +4,11 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2017-02-06T21:22:59+09:00</updated>
+    <updated>2017-02-06T21:28:46+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
-      <name>Tsubasa Yumura, Koji Tsukaya</name>
+      <name>ShinamonoLab</name>
     </author>
     <description>品モノラボがお送りするメイカーとメーカーのためのモノづくり系ポッドキャスト</description>
     <generator uri="http://octopress.org/">Octopress</generator>

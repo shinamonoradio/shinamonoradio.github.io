@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2017-02-12T01:51:53+09:00</updated>
+    <updated>2017-03-05T00:41:48+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,35 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>013「新里さんとものづくり」新里 祐教</title>
+      <description>&lt;p&gt;新里祐教(@hirotakaster)さんに、海外のMaker Faire体験談、基板の物々交換などについての話を聞きました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.siprop.org/ja/2.0/index.php&quot;&gt;SIProp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://rocketnews24.com/2012/04/05/199230/&quot;&gt;【中国】偽ミネラルウォーター工場摘発に捜査員も驚愕！ 「水はトイレから伸びている管から採水」 | ロケットニュース24&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.hirotakaster.com/weblog/intel-realsense-usb-3-0-original-board/&quot;&gt;Intel RealSense USB 3.0 original board | Natural Days&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://voyagegroup.com/culture/environment/ajito/&quot;&gt;ぼくらにはAJITOがある | 株式会社VOYAGE GROUP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://akizukidenshi.com/catalog/g/gM-10731/&quot;&gt;ドーム型スクリーン用カラー液晶プロジェクタ（球体液晶・光学表示ユニット）: ディスプレイ関連 秋月電子通商 電子部品 ネット通販&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/1594199947539602/&quot;&gt;秋月「ドーム型スクリーン用カラー液晶プロジェクタ（球体液晶・光学表示ユニット）」友の会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=LYr06tfNRQI&quot;&gt;『磁性流体とピアノ』 藤本直明＋スミイ酸 （ダイジェスト）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZMSR7gbcHzo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2017/03/04/013/"/>
+      <pubDate>Sat, 04 Mar 2017 22:00:00 +0900</pubDate>
+      <updated>2017-03-04T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2017/03/04/013</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>新里祐教(@hirotakaster)さんに、海外のMaker Faire体験談、基板の物々交換などについての話を聞きました。</itunes:summary>
+      <itunes:subtitle>新里祐教(@hirotakaster)さんに、海外のMaker Faire体験談、基板の物々交換などについての話を聞きました。</itunes:subtitle>
+      <itunes:duration>1:22:41</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/013.mp3" type="audio/mpeg" length="79372566" />
+    </item>
     
     <item>
       <title>012「品モノラジオ1周年ふりかえり」湯村 翼＆塚谷 浩司</title>

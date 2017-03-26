@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2017-03-05T00:43:58+09:00</updated>
+    <updated>2017-03-27T00:38:27+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,43 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>014「MESHとプログラミング」萩原 丈博</title>
+      <description>&lt;p&gt;萩原丈博さんに、品モノラボの立ち上げ、MESH、ビジュアルプログラミング、学生時代のプログラミング、プログラミング教育などについての話を聞きました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.meetup.com/ja-JP/Shinamonolab/&quot;&gt;品モノラボ meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/events/389881007777016/&quot;&gt;品モノラボ #1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://meshprj.com/&quot;&gt;MESH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://recipe.meshprj.com/jp/contest/iine-design-2016&quot;&gt;MESH DESIGN CONTEST 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://hacklog.jp/works/50042&quot;&gt;どこでもMステ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ifttt.com/&quot;&gt;IFTTT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://japan.unity3d.com/&quot;&gt;Unity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.unrealengine.com&quot;&gt;Unreal Engine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://minecraft.net/ja-jp/&quot;&gt;MINECRAFT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/LOGO&quot;&gt;LOGO - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/QuickBASIC&quot;&gt;QuickBASIC - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://qiita.com/sgrowd/items/6a3e8576be49760db5eb&quot;&gt;MESHでECHONET Lite家電を動かす - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/events/219770381765510/&quot;&gt;ふれる。あそぶ。プログラミング。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://coderdojo.jp/&quot;&gt;CoderDojo Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://techbookfest.org/event/tbf02&quot;&gt;技術書典2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1IgOnk2Twwc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2017/03/26/014/"/>
+      <pubDate>Sun, 26 Mar 2017 22:00:00 +0900</pubDate>
+      <updated>2017-03-26T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2017/03/26/014</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>萩原丈博さんに、品モノラボの立ち上げ、MESH、ビジュアルプログラミング、学生時代のプログラミング、プログラミング教育などについての話を聞きました。</itunes:summary>
+      <itunes:subtitle>萩原丈博さんに、品モノラボの立ち上げ、MESH、ビジュアルプログラミング、学生時代のプログラミング、プログラミング教育などについての話を聞きました。</itunes:subtitle>
+      <itunes:duration>1:10:34</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/014.mp3" type="audio/mpeg" length="67691027" />
+    </item>
     
     <item>
       <title>013「新里さんとものづくり」新里 祐教</title>

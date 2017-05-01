@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2017-03-27T00:38:27+09:00</updated>
+    <updated>2017-05-02T01:24:41+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,56 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>015「未来」落合 陽一</title>
+      <description>&lt;p&gt;落合陽一さんに、研究の民主化、研究資金、新しい受験の姿、日本の未来などについての話を聞きました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://about.yahoo.co.jp/info/event/japanese_technium/&quot;&gt;Yahoo! JAPAN Technology Art #01 ジャパニーズテクニウム展 by 落合陽一とデジタルネイチャーグループ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://readyfor.jp/projects/ochyaigogo&quot;&gt;21世紀をコンピュータによる｢奴隷の世紀｣ではなく｢魔法の世紀｣に（落合陽一（筑波大学 助教）） - READYFOR (レディーフォー)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://digitalnature.slis.tsukuba.ac.jp/&quot;&gt;Digital Nature Group - 落合陽一 デジタルネイチャー研究室&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://mediaambitiontokyo.jp/&quot;&gt;MEDIA AMBITION TOKYO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/mtm/05/&quot;&gt;Make: Tokyo Meeting 05&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/mtm/06/&quot;&gt;Make: Tokyo Meeting 06&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/mtm/07/&quot;&gt;Make: Tokyo Meeting 07&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=nsL8t_pgPjs&quot;&gt;電気がみえるデバイス  &amp;ldquo;The Visible Breadboard&amp;rdquo; - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=42GF6pXASA0&quot;&gt;Cyclone Display: Rotation, Reflection, Flicker and Recognition combined to the Pixels - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ImSC4U5GAgA&quot;&gt;視野闘争のための万華鏡 / Kaleidoscopes for Binocular Rivalry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://niconicogakkai.tumblr.com/&quot;&gt;ニコニコ学会β&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.dcexpo.jp/&quot;&gt;DCEXPO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://pixiedusttech.com/&quot;&gt;Pixie Dust Technologies, Inc.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B01AXRCDTU&quot;&gt;『メイカーズのエコシステム　新しいモノづくりがとまらない。』高須 正和&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.maywadenki.com/blog/2017/04/06/%E4%B8%AD%E5%9B%BD%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC%E5%B8%82%E5%A0%B4%EF%BC%9C%E5%89%8D%E7%AF%87%EF%BC%9E/&quot;&gt;驚愕！中国のコピー商品市場　＜前編＞ | 明和電機社長ブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.maywadenki.com/blog/2017/04/10/%E9%A9%9A%E6%84%95%EF%BC%81%E4%B8%AD%E5%9B%BD%E3%81%AE%E3%83%91%E3%83%81%E3%83%A2%E3%83%B3%E5%B8%82%E5%A0%B4%EF%BC%9C%E4%B8%AD%E7%B7%A8%EF%BC%9E/&quot;&gt;驚愕！中国のパチモン市場＜中編＞ | 明和電機社長ブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.maywadenki.com/blog/2017/04/22/%E8%A1%9D%E6%92%83%EF%BC%81%E4%B8%AD%E5%9B%BD%E3%81%AE%E3%83%91%E3%83%81%E3%83%A2%E3%83%B3%E5%B8%82%E5%A0%B4%EF%BC%9C%E5%BE%8C%E7%B7%A8%EF%BC%9E/&quot;&gt;衝撃！中国のパチモン市場＜後編＞ | 明和電機社長ブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://sciencecity.tsukuba.ch/e305157.html&quot;&gt;筑波大が敷地内にアリーナ新設へ！ - 研究学園の生活&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://lounge.dmm.com/detail/48/&quot;&gt;落合陽一 - 落合陽一の解体魔術講座 - DMM オンラインサロン&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mast.tsukuba.ac.jp/&quot;&gt;筑波大学情報学群 情報メディア創成学類／University of Tsukuba&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;ja&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;今我々の国が積極的にやらないと行けないのは研究の民主化によるトップダウン型アカデミズムの破壊．それによる脱近代化．収益構造の多層化．&lt;/p&gt;&amp;mdash; 落合陽一/Dr.YoichiOchiai (@ochyai) &lt;a href=&quot;https://twitter.com/ochyai/status/854660788077772800&quot;&gt;2017年4月19日&lt;/a&gt;&lt;/blockquote&gt;
+
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1dSvHj_W0AM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2017/05/01/015/"/>
+      <pubDate>Mon, 01 May 2017 22:00:00 +0900</pubDate>
+      <updated>2017-05-01T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2017/05/01/015</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>落合陽一さんに、研究の民主化、研究資金、新しい受験の姿、日本の未来などについての話を聞きました。</itunes:summary>
+      <itunes:subtitle>落合陽一さんに、研究の民主化、研究資金、新しい受験の姿、日本の未来などについての話を聞きました。</itunes:subtitle>
+      <itunes:duration>1:07:15</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/015.mp3" type="audio/mpeg" length="64565108" />
+    </item>
     
     <item>
       <title>014「MESHとプログラミング」萩原 丈博</title>

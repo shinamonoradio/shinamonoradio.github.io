@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>品モノラジオ></title>
+    <title>品モノラジオ</title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2017-05-04T19:11:28+09:00</updated>
+    <updated>2017-05-04T19:54:16+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -12,7 +12,7 @@
     </author>
     <description>品モノラボがお送りするメイカーとメーカーのためのモノづくり系ポッドキャスト</description>
     <generator uri="http://octopress.org/">Octopress</generator>
-    <itunes:author>品モノラジオ</itunes:author>
+    <itunes:author>品モノラボ(@yumu19/@ajimitei)</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:subtitle>品モノラボがお送りするメイカーとメーカーのためのモノづくり系ポッドキャスト</itunes:subtitle>
     <itunes:keywords>maker,makers,hack,hacker,engineering,tech</itunes:keywords>

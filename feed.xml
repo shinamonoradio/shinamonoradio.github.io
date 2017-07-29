@@ -4,7 +4,7 @@
     <title>品モノラジオ</title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2017-05-04T19:54:16+09:00</updated>
+    <updated>2017-07-30T00:11:41+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,50 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>016「Maker Faire Tokyo 2017 直前特集」古賀 由希子＆塚谷 浩司＆湯村 翼</title>
+      <description>&lt;p&gt;古賀、塚谷、湯村の3名でMaker Faire Tokyo2017の注目展示を紹介しています。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/mft2017/&quot;&gt;Maker Faire Tokyo 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/mft2017/presentations/&quot;&gt;プレゼンテーション&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0244/&quot;&gt;光るヘルメット | 猫とロボット社&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0136/&quot;&gt;FRISKおじさんのヘッドホンアンプ付きUSB-DAC | FRISKおじさん&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0153/&quot;&gt;ニキシー管時計、ゲコゲコボタン、Happy Hat | だめだめだん&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0158/&quot;&gt;スゴイシリーズ・プロダクト 今年の新作 | スゴイラボ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/mesh/&quot;&gt;MESHでつくったスポーツを楽しもう！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/toio/&quot;&gt;toio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0109/&quot;&gt;おばけパズル&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0299/&quot;&gt;本格だしメーカー「BUSHI」 | 野本 かもめ、西岡 勇人&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0348/&quot;&gt;クレープロボット「クレプ」 | モリロボ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0044/&quot;&gt;WATA-PON 2.0 | baby toi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0284/&quot;&gt;花粉観測器「ポールンロボ」シリーズほか、オリジナル観測機器 | ウェザーニュースSOLiVE24&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0161/&quot;&gt;YOYOPOV | SMD工房&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0222/&quot;&gt;ANIPOV | Suns &amp;amp; Moon Laboratory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0311/&quot;&gt;SIProp All LED | 新里 祐教&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0033/&quot;&gt;MRファミコン | KOALAB.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0277/&quot;&gt;LEDサンバ衣装 | 電飾サンバProject&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0137/&quot;&gt;ヒートガンで作るフルカラー・ポップコーン | sweet electronics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0154/&quot;&gt;GIFカメラ | projectOTO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0270/&quot;&gt;マイコンLEDネイル、ウェアラブル真空管アンプとハンズオン | SRSIV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://akiparty2017.cs8.biz/&quot;&gt;Akiparty&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2IBBGEBO7Ho&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2017/07/29/016/"/>
+      <pubDate>Sat, 29 Jul 2017 22:00:00 +0900</pubDate>
+      <updated>2017-07-29T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2017/07/29/016</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>古賀、塚谷、湯村の3名でMaker Faire Tokyo2017の注目展示を紹介しています。</itunes:summary>
+      <itunes:subtitle>古賀、塚谷、湯村の3名でMaker Faire Tokyo2017の注目展示を紹介しています。</itunes:subtitle>
+      <itunes:duration>1:05:09</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/016.mp3" type="audio/mpeg" length="62558487" />
+    </item>
     
     <item>
       <title>015「研究の民主化、日本の未来、デジタルネイチャー」落合 陽一</title>

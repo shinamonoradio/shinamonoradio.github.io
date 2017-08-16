@@ -1,0 +1,38 @@
+---
+layout: post
+title: "016「Maker Faire Tokyo 2017 直前特集」古賀 由希子＆塚谷 浩司＆湯村 翼"
+date: 2017-07-29 22:00:00 +0900
+comments: true
+categories:
+audio-src: https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/016.mp3
+audio-length: 62558487
+audio-duration: "1:05:09"
+description: 古賀、塚谷、湯村の3名でMaker Faire Tokyo2017の注目展示を紹介しています。
+---
+古賀、塚谷、湯村の3名でMaker Faire Tokyo2017の注目展示を紹介しています。
+
+- [Maker Faire Tokyo 2017](http://makezine.jp/event/mft2017/)
+- [プレゼンテーション](http://makezine.jp/event/mft2017/presentations/)
+- [光るヘルメット | 猫とロボット社](http://makezine.jp/event/makers2017/m0244/)
+- [FRISKおじさんのヘッドホンアンプ付きUSB-DAC | FRISKおじさん](http://makezine.jp/event/makers2017/m0136/)
+- [ニキシー管時計、ゲコゲコボタン、Happy Hat | だめだめだん](http://makezine.jp/event/makers2017/m0153/)
+- [スゴイシリーズ・プロダクト 今年の新作 | スゴイラボ](http://makezine.jp/event/makers2017/m0158/)
+- [MESHでつくったスポーツを楽しもう！](http://makezine.jp/event/makers2017/mesh/)
+- [toio](http://makezine.jp/event/makers2017/toio/)
+- [おばけパズル](http://makezine.jp/event/makers2017/m0109/)
+- [本格だしメーカー「BUSHI」 | 野本 かもめ、西岡 勇人](http://makezine.jp/event/makers2017/m0299/)
+- [クレープロボット「クレプ」 | モリロボ](http://makezine.jp/event/makers2017/m0348/)
+- [WATA-PON 2.0 | baby toi](http://makezine.jp/event/makers2017/m0044/)
+- [花粉観測器「ポールンロボ」シリーズほか、オリジナル観測機器 | ウェザーニュースSOLiVE24](http://makezine.jp/event/makers2017/m0284/)
+- [YOYOPOV | SMD工房](http://makezine.jp/event/makers2017/m0161/)
+- [ANIPOV | Suns & Moon Laboratory](http://makezine.jp/event/makers2017/m0222/)
+- [SIProp All LED | 新里 祐教](http://makezine.jp/event/makers2017/m0311/)
+- [MRファミコン | KOALAB.](http://makezine.jp/event/makers2017/m0033/)
+- [LEDサンバ衣装 | 電飾サンバProject](http://makezine.jp/event/makers2017/m0277/)
+- [ヒートガンで作るフルカラー・ポップコーン | sweet electronics](http://makezine.jp/event/makers2017/m0137/)
+- [GIFカメラ | projectOTO](http://makezine.jp/event/makers2017/m0154/)
+- [マイコンLEDネイル、ウェアラブル真空管アンプとハンズオン | SRSIV](http://makezine.jp/event/makers2017/m0270/)
+- [宇宙や地球観測のデータを使ったアプリケーション | Space Apps Japan](http://makezine.jp/event/makers2017/m0288/)
+- [Akiparty](http://akiparty2017.cs8.biz/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2IBBGEBO7Ho" frameborder="0" allowfullscreen></iframe>

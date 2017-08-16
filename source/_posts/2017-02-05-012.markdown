@@ -1,0 +1,20 @@
+---
+layout: post
+title: "012「品モノラジオ1周年ふりかえり」湯村 翼＆塚谷 浩司"
+date: 2017-02-05 22:00:00 +0900
+comments: true
+categories:
+audio-src: https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/012.mp3
+audio-length: 57043514
+audio-duration: "0:59:25"
+description: 品モノラジオ
+---
+品モノラジオ
+
+- [WAmazing](https://info.wamazing.jp/)
+- [Bangkok Mini Maker Faire](https://www.facebook.com/bangkokmakerfaire/)
+- [Maker Faire | Find a Faire Near You](http://makerfaire.com/map/)
+- [Maker Faire Taipei](http://www.makerfaire.com.tw/)
+- [ajimitei channel](https://www.youtube.com/channel/UCFkkumrDa6BBLTh1SEpp5SQ)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L-xXzf1Tr6U" frameborder="0" allowfullscreen></iframe>

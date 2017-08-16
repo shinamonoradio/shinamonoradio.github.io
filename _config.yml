@@ -4,8 +4,8 @@
 
 url: http://shinamonoradio.github.io
 title: 品モノラジオ
-subtitle: 品モノラボがお送りするメイカーとメーカーのためのモノづくり系ポッドキャスト
-author: Tsubasa Yumura, Koji Tsukaya
+subtitle: 品モノラボがお送りする“メイカー”と“メーカー”のためのモノづくり系ポッドキャスト
+author: ShinamonoLab
 simple_search: https://www.google.com/search
 description:
 
@@ -95,7 +95,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-91482343-1
 
 # Facebook Like
 facebook_like: false

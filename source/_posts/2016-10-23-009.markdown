@@ -1,0 +1,28 @@
+---
+layout: post
+title: "009「MFT2016振り返り＆ABProで寿司が止まって見える装置」湯村 翼＆塚谷 浩司"
+date: 2016-10-23 22:00:00 +0900
+comments: true
+categories:
+audio-src: https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/009.mp3
+audio-length: 59373220
+audio-duration: "1:01:50"
+description: Maker Faire / ABPro
+---
+Maker Faire / ABPro
+
+- [物を作って生きるには――23人のMaker Proが語る仕事と生活](https://www.oreilly.co.jp/books/9784873117478/)
+- [Maker Faire Tokyo 2016](http://makezine.jp/event/mft2016/)
+- [CUCUMBER-9（自動きゅうり選果マシーン） - Workpiles](http://makezine.jp/event/makers2016/workpiles/)
+- [和田永「エレクトロニコス・ファンタスティコス！」](http://makezine.jp/event/makers2016/wada-ei_electronicos-fantasticos/)
+- [モリロボ 自動クレープ焼きロボット ”クレプ” - Make](http://makezine.jp/event/makers2016/morirobo/)
+- [Ogaki Mini Maker Faire](http://ommf.iamas.ac.jp/)
+- [レーザーカッターで燻製を作る！「普通じゃないプログラム」発表会 - デイリーポータルZ：@nifty](http://portal.nifty.com/kiji/161019197846_1.htm)
+- [ABPro 2016](http://abpro.jp/2016/)
+- [年収800万円以下でも寿司が止まって見える装置をABPro2016で発表した #ABPro - yumulog | 社会人博士の日記](http://yumulog.hatenablog.com/entry/2016/09/25/234038)
+- [ストロボ実験と芸術的物理シミュレーション | Maker Faire Tokyo 2015 | Make: Japan](http://makezine.jp/event/makers2015/pffamily/)
+- [プログラムで笑わせろ！「普通じゃないプログラム」発表会 - デイリーポータルZ：@nifty](http://portal.nifty.com/kiji/140924165234_1.htm)
+- [Mashup Awards 2016](http://mashupaward.jp/)
+- [GUGEN 2016](https://gugen.jp/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KvN4FDxwu7w" frameborder="0" allowfullscreen></iframe>

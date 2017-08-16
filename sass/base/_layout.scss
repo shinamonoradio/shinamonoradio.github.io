@@ -96,7 +96,7 @@ article {
 }
 
 .full-single-article {
-  padding-top: 30px;
+  padding-top: 64px;
 
   p {
     font-weight: 300;
@@ -111,28 +111,36 @@ article {
   position: fixed;
   top: 10px;
   left: 10px;
-  width: 44px;
-  height: 44px;
+  width: 64px;
+  height: 64px;
   z-index: 700;
-  background-color: #333332;
+  background-color: #FFFFFF;
   text-align: center;
   border: 0;
 
   img {
     border: none;
-    width: 25px;
-    height: 25px;
-    margin-top: 9px;
+    width: 64px;
+    height: 64px;
+    margin-top: 0px;
   }
 }
 
 .social-icon-list a {
-  opacity: 0.3;
+  opacity: 0.4;
 
   &:hover {
-    opacity: 0.6;
+    opacity: 0.8;
   }
 }
+
+.social-icon-list a img {
+  margin-left: 12px;
+  margin-right: 12px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
 
 .divider {
   display: block;
@@ -156,7 +164,7 @@ article {
     line-height: 2.0;
 
     .social-icon-list {
-      margin-top: 22px;
+      margin-top: 0px;
     }
   }
 }
@@ -196,5 +204,24 @@ article {
     margin: 0px;
     padding: 6px 0px 0px 0px;
     text-transform: none;
+  }
+}
+
+.personality-list-area{
+  text-align: center;
+}
+
+.personality-list{
+  display: flex;
+	justify-content: center;
+}
+
+.personality {
+  margin:48px;
+  img {
+    width: 128px;
+    height: 128px;
+    border-radius: 64px;
+    margin-bottom: 12px;
   }
 }

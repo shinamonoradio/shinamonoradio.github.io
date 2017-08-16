@@ -1,0 +1,31 @@
+---
+layout: post
+title: "014「MESHとプログラミング」萩原 丈博"
+date: 2017-03-26 22:00:00 +0900
+comments: true
+categories:
+audio-src: https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/014.mp3
+audio-length: 67691027
+audio-duration: "1:10:34"
+description: 萩原丈博さんに、品モノラボの立ち上げ、MESH、ビジュアルプログラミング、学生時代のプログラミング、プログラミング教育などについての話を聞きました。
+
+---
+萩原丈博さんに、品モノラボの立ち上げ、MESH、ビジュアルプログラミング、学生時代のプログラミング、プログラミング教育などについての話を聞きました。
+
+- [品モノラボ meetup](https://www.meetup.com/ja-JP/Shinamonolab/)
+- [品モノラボ #1](https://www.facebook.com/events/389881007777016/)
+- [MESH](http://meshprj.com/)
+- [MESH DESIGN CONTEST 2016](https://recipe.meshprj.com/jp/contest/iine-design-2016)
+- [どこでもMステ](http://hacklog.jp/works/50042)
+- [IFTTT](https://ifttt.com/)
+- [Unity](http://japan.unity3d.com/)
+- [Unreal Engine](https://www.unrealengine.com)
+- [MINECRAFT](https://minecraft.net/ja-jp/)
+- [LOGO - Wikipedia](https://ja.wikipedia.org/wiki/LOGO)
+- [QuickBASIC - Wikipedia](https://ja.wikipedia.org/wiki/QuickBASIC)
+- [MESHでECHONET Lite家電を動かす - Qiita](http://qiita.com/sgrowd/items/6a3e8576be49760db5eb)
+- [ふれる。あそぶ。プログラミング。](https://www.facebook.com/events/219770381765510/)
+- [CoderDojo Japan](https://coderdojo.jp/)
+- [技術書典2](https://techbookfest.org/event/tbf02)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1IgOnk2Twwc" frameborder="0" allowfullscreen></iframe>

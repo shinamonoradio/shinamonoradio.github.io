@@ -4,7 +4,7 @@ layout: null
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>{{ site.title | cdata_escape }}></title>
+    <title>{{ site.title | cdata_escape }}</title>
     <atom:link href="{{ site.url }}/atom.xml" rel="self"/>
     <atom:link href="{{ site.url }}/"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
@@ -15,7 +15,7 @@ layout: null
     </author>
     <description>品モノラボがお送りするメイカーとメーカーのためのモノづくり系ポッドキャスト</description>
     <generator uri="http://octopress.org/">Octopress</generator>
-    <itunes:author>品モノラジオ</itunes:author>
+    <itunes:author>品モノラボ(@yumu19/@ajimitei)</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:subtitle>品モノラボがお送りするメイカーとメーカーのためのモノづくり系ポッドキャスト</itunes:subtitle>
     <itunes:keywords>maker,makers,hack,hacker,engineering,tech</itunes:keywords>

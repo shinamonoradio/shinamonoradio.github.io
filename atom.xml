@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2017-07-30T00:11:41+09:00</updated>
+    <updated>2018-01-21T23:54:05+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,87 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>018「2017年振り返り」塚谷 浩司＆湯村 翼</title>
+      <description>&lt;p&gt;2017年のメイカーシーンを振り返ってお話ししました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLBFqluYwygv8QvJ6qV61O4407dKRNcaKE&quot;&gt;バーチャルのじゃロリ狐娘youtuberおじさん&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/mft2017/&quot;&gt;Maker Faire Tokyo 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://fes.uemonolab.com/&quot;&gt;上モノフェス&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22017&quot;&gt;NT金沢2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makersbazaar.jp/&quot;&gt;メイカーズバザール大阪&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E5%8A%A0%E8%B3%802017&quot;&gt;NT加賀2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://microbit.org/&quot;&gt;micro:bit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/galden999&quot;&gt;ギャル電(@galden999)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://careerhack.en-japan.com/report/detail/845&quot;&gt;世界をポジティブにぶっ壊す！ ド派手な電子工作ユニット『ギャル電』が起こす小さな革命 | CAREER HACK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.asahi.com/articles/ASKDF62G1KDFULFA035.html&quot;&gt;メイカーズ祭典仕掛け人、実感した「日本に必要なこと」：朝日新聞デジタル&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCFUceuYHOlm1v9JnyTXqGHg&quot;&gt;スイッチサイエンスチャンネル&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hacklog.jp/works/52274&quot;&gt;Water Melon Sound&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://cloudplatform-jp.googleblog.com/2016/08/tensorflow_5.html&quot;&gt;Google Cloud Platform Japan 公式ブログ: キュウリ農家とディープラーニングをつなぐ TensorFlow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://dl4us.com/&quot;&gt;DL4US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.coursera.org/specializations/deep-learning#courses&quot;&gt;Deep Learning | Coursera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B009QWIWJO/&quot;&gt;バイオパンク ―ＤＩＹ科学者たちのＤＮＡハック！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/blog/2017/12/young-maker-bayarea-challenge.html&quot;&gt;Make: Japan | 学生を対象にMaker Faire Bay Area 2018の出展をサポートする「Young Maker ベイエリア遠征チャレンジ」参加者を募集！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://iotlt.connpass.com/event/75673/&quot;&gt;IoTLT新年会2018 with おうちハック &amp;amp; TMCN &amp;amp; Mashup Awards&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tvWcFA271yc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2018/01/07/018/"/>
+      <pubDate>Sun, 07 Jan 2018 22:00:00 +0900</pubDate>
+      <updated>2018-01-07T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2018/01/07/018</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>2017年のメイカーシーン振り返り</itunes:summary>
+      <itunes:subtitle>2017年のメイカーシーン振り返り</itunes:subtitle>
+      <itunes:duration>1:22:25</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/018.mp3" type="audio/mpeg" length="118695419" />
+    </item>
+    
+    <item>
+      <title>017「Maker Faire Tokyo 2017 振り返り」古賀 由希子＆塚谷 浩司＆湯村 翼</title>
+      <description>&lt;p&gt;古賀、塚谷、湯村の3名でMaker Faire Tokyo2017を振り返って話しました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/mft2017/&quot;&gt;Maker Faire Tokyo 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0288/&quot;&gt;宇宙や地球観測のデータを使ったアプリケーション | Space Apps Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0214/&quot;&gt;和田永「エレクトロニコス・ファンタスティコス！」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0019/&quot;&gt;畳を使って製作した楽器の数々を展示、体験していただきます。 | 日本畳楽器製造&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1137599&quot;&gt;MakerFaireTokyo2017当日まとめ - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1137982&quot;&gt;MakerFaireTokyo2017 Fav30以上 まとめ - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0228/&quot;&gt;デルモンテ | 柴田 和弥&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0161/&quot;&gt;YOYOPOV | SMD工房&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0350/&quot;&gt;手作りドーム3D映像 | ヒゲキタ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0207/&quot;&gt;BreadBoard Baking feat. Sunbaked Sweets | クラッカー・オシレーター、回路図アイシングクッキー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.creema.jp/&quot;&gt;Creema（クリーマ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://minne.com/&quot;&gt;minne&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0144/&quot;&gt;お台場ダイバーズ | ゆめカワ☆ふぁぶりけーしょんズ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0080/&quot;&gt;リーマンサット・プロジェクト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://portal.nifty.com/hebocon/whats.htm&quot;&gt;ヘボコンとは？ - デイリーポータルZ：@nifty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/toio/&quot;&gt;toio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=jG62-LARm7g&quot;&gt;NT金沢2017 ブース紹介(前編)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=6oFVuNwcG7s&quot;&gt;NT金沢2017 ブース紹介(後編)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://fes.uemonolab.com/&quot;&gt;上モノフェス&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2xoMAlGH8eo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2017/08/11/017/"/>
+      <pubDate>Fri, 11 Aug 2017 22:00:00 +0900</pubDate>
+      <updated>2017-08-11T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2017/08/11/017</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>古賀、塚谷、湯村の3名でMaker Faire Tokyo2017の振り返り。</itunes:summary>
+      <itunes:subtitle>古賀、塚谷、湯村の3名でMaker Faire Tokyo2017の振り返り。</itunes:subtitle>
+      <itunes:duration>1:03:49</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/017.mp3" type="audio/mpeg" length="91898802" />
+    </item>
     
     <item>
       <title>016「Maker Faire Tokyo 2017 直前特集」古賀 由希子＆塚谷 浩司＆湯村 翼</title>
@@ -54,6 +135,7 @@
 &lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0137/&quot;&gt;ヒートガンで作るフルカラー・ポップコーン | sweet electronics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0154/&quot;&gt;GIFカメラ | projectOTO&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0270/&quot;&gt;マイコンLEDネイル、ウェアラブル真空管アンプとハンズオン | SRSIV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0288/&quot;&gt;宇宙や地球観測のデータを使ったアプリケーション | Space Apps Japan&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://akiparty2017.cs8.biz/&quot;&gt;Akiparty&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 

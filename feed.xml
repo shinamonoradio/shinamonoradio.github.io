@@ -4,7 +4,7 @@
     <title>品モノラジオ</title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2018-03-05T00:21:20+09:00</updated>
+    <updated>2018-03-05T00:23:04+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -29,7 +29,7 @@
     <itunes:category text="Technology"/>
     
     <item>
-      <title>020「Mashup Awardsのこれまでとこれから」伴野智樹 & 鈴木まなみ</title>
+      <title>020「Mashup Awardsのこれまでとこれから」伴野 智樹 & 鈴木 まなみ</title>
       <description>&lt;p&gt;伴野智樹さん、鈴木まなみさんにMashup Awardsのコミュニティづくりや一般社団法人化の話を聞きました。&lt;/p&gt;
 
 &lt;ul&gt;
@@ -51,8 +51,8 @@
       <updated>2018-03-04T20:00:00+09:00</updated>
       <guid>http://shinamonoradio.github.io/blog/2018/03/04/020</guid>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>伴野 智樹さん、鈴木まなみさんにMashup Awardsのコミュニティづくりや一般社団法人化の話を聞きました。</itunes:summary>
-      <itunes:subtitle>伴野 智樹さん、鈴木まなみさんにMashup Awardsのコミュニティづくりや一般社団法人化の話を聞きました。</itunes:subtitle>
+      <itunes:summary>伴野智樹さん、鈴木まなみさんにMashup Awardsのコミュニティづくりや一般社団法人化の話を聞きました。</itunes:summary>
+      <itunes:subtitle>伴野智樹さん、鈴木まなみさんにMashup Awardsのコミュニティづくりや一般社団法人化の話を聞きました。</itunes:subtitle>
       <itunes:duration>1:09:09</itunes:duration>
       <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/020.mp3" type="audio/mpeg" length="99587579" />
     </item>

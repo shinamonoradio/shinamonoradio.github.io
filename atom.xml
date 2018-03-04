@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2018-02-03T23:29:49+09:00</updated>
+    <updated>2018-03-05T00:21:20+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,35 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>020「Mashup Awardsのこれまでとこれから」伴野智樹 & 鈴木まなみ</title>
+      <description>&lt;p&gt;伴野智樹さん、鈴木まなみさんにMashup Awardsのコミュニティづくりや一般社団法人化の話を聞きました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://mashupaward.jp/&quot;&gt;Mashup Awards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://mashupaward.jp/2018/03/ma2018-birthdayparty/&quot;&gt;一般社団法人MAがうまれたってよ【生誕会】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://tukuddo.com/&quot;&gt;モノづくりスペース TUKUDDO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://teruaki-tsubokura.com/&quot;&gt;坪倉さん&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.fisc.jp/it/mashup-summit-in-fukui-2018/&quot;&gt;「Mashup Summit in FUKUI 2018 ～次の未来のつくり方とはじめかた～」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hacklog.jp/works/52180&quot;&gt;T-shirtizer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hacklog.jp/&quot;&gt;Hacklog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/duQHv8QXZw0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2018/03/04/020/"/>
+      <pubDate>Sun, 04 Mar 2018 20:00:00 +0900</pubDate>
+      <updated>2018-03-04T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2018/03/04/020</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>伴野 智樹さん、鈴木まなみさんにMashup Awardsのコミュニティづくりや一般社団法人化の話を聞きました。</itunes:summary>
+      <itunes:subtitle>伴野 智樹さん、鈴木まなみさんにMashup Awardsのコミュニティづくりや一般社団法人化の話を聞きました。</itunes:subtitle>
+      <itunes:duration>1:09:09</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/020.mp3" type="audio/mpeg" length="99587579" />
+    </item>
     
     <item>
       <title>019「IoTLTとコミュニティ」菅原 のびすけ</title>

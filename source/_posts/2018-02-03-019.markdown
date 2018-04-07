@@ -1,0 +1,30 @@
+---
+layout: post
+title: "019「IoTLTとコミュニティ」菅原 のびすけ"
+date: 2018-02-03 20:00:00 +0900
+comments: true
+categories:
+audio-src: https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/019.mp3
+audio-length: 127931482
+audio-duration: "1:28:50"
+description: 菅原のびすけさんにIoTLT、DevRel、コミュニティ運営、ハッカソン審査員の話を聞きました。
+---
+菅原のびすけさんにIoTLT、DevRel、コミュニティ運営、ハッカソン審査員の話を聞きました。
+
+
+- [IoTLT ~ IoT縛りの勉強会/LT会~](https://www.facebook.com/groups/IoTLT/)
+- [IoT縛りの勉強会 ! IoTLT - connpass](https://iotlt.connpass.com/)
+- [IoT縛りの勉強会! IoTLT vol.36 @ 東京商工会議所](https://iotlt.connpass.com/event/74835/)
+- [IoTLT新年会2018 with おうちハック & TMCN & Mashup Awards](https://iotlt.connpass.com/event/75673/)
+- [放課後イノベーション展](https://www.facebook.com/AfterWorkInnovations)
+- [2018年1月の月次報告【ニコ技深セン観察会】次回募集,ミートアップ,新著「世界ハッカースペースガイド」](https://medium.com/ecosystembymakers/201802-b48c0e9127d2)
+- [Developers Summit 2018](http://event.shoeisha.jp/devsumi/20180215/)
+- [デブサミで「大集合おうちハックLT祭」を開催しました(資料まとめあり) #devsumi #おうちハック - yumulog | 社会人博士の日記](http://yumulog.hatenablog.com/entry/2016/02/22/213025)
+- [DevRel Meetup in Tokyo - Connpass](https://devrel.connpass.com/)
+- [JAWS-UG – AWS User Group](https://jaws-ug.jp/)
+- [マイクロソフト MVP アワード プログラムとは](https://www.microsoft.com/ja-jp/communities/mvp/default.aspx)
+- [O'Reilly Japan - アート・オブ・コミュニティ](https://www.oreilly.co.jp/books/9784873114958/)
+- [日本再興戦略: 落合 陽一](https://www.amazon.co.jp/dp/B0797K44CH/)
+- [Community Drive | Lets Share the Culture of Community](https://community-drive.com/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6B77tW4E_fo" frameborder="0" allowfullscreen></iframe>

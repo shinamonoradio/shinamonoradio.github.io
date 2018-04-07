@@ -1,0 +1,22 @@
+---
+layout: post
+title: "020「Mashup Awardsのこれまでとこれから」伴野 智樹 ＆ 鈴木 まなみ"
+date: 2018-03-04 20:00:00 +0900
+comments: true
+categories:
+audio-src: https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/020.mp3
+audio-length: 99587579
+audio-duration: "1:09:09"
+description: 伴野智樹さん、鈴木まなみさんにMashup Awardsのコミュニティづくりや一般社団法人化の話を聞きました。
+---
+伴野智樹さん、鈴木まなみさんにMashup Awardsのコミュニティづくりや一般社団法人化の話を聞きました。
+
+- [Mashup Awards](http://mashupaward.jp/)
+- [一般社団法人MAがうまれたってよ【生誕会】](http://mashupaward.jp/2018/03/ma2018-birthdayparty/)
+- [モノづくりスペース TUKUDDO](http://tukuddo.com/)
+- [坪倉さん](http://teruaki-tsubokura.com/)
+- [「Mashup Summit in FUKUI 2018 ～次の未来のつくり方とはじめかた～」](http://www.fisc.jp/it/mashup-summit-in-fukui-2018/)
+- [T-shirtizer](https://hacklog.jp/works/52180)
+- [Hacklog](https://hacklog.jp/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/duQHv8QXZw0" frameborder="0" allowfullscreen></iframe>

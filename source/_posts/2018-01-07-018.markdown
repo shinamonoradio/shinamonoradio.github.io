@@ -1,0 +1,33 @@
+---
+layout: post
+title: "018「2017年振り返り」塚谷 浩司＆湯村 翼"
+date: 2018-01-07 22:00:00 +0900
+comments: true
+categories:
+audio-src: https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/018.mp3
+audio-length: 118695419
+audio-duration: "1:22:25"
+description: 2017年のメイカーシーン振り返り
+---
+2017年のメイカーシーンを振り返ってお話ししました。
+
+- [バーチャルのじゃロリ狐娘youtuberおじさん](https://www.youtube.com/playlist?list=PLBFqluYwygv8QvJ6qV61O4407dKRNcaKE)
+- [Maker Faire Tokyo 2017](http://makezine.jp/event/mft2017/)
+- [上モノフェス](http://fes.uemonolab.com/)
+- [NT金沢2017](http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22017)
+- [メイカーズバザール大阪](http://makersbazaar.jp/)
+- [NT加賀2017](http://wiki.nicotech.jp/nico_tech/index.php?NT%E5%8A%A0%E8%B3%802017)
+- [micro:bit](http://microbit.org/)
+- [ギャル電(@galden999)](https://twitter.com/galden999)
+- [世界をポジティブにぶっ壊す！ ド派手な電子工作ユニット『ギャル電』が起こす小さな革命 | CAREER HACK](http://careerhack.en-japan.com/report/detail/845)
+- [メイカーズ祭典仕掛け人、実感した「日本に必要なこと」：朝日新聞デジタル](https://www.asahi.com/articles/ASKDF62G1KDFULFA035.html)
+- [スイッチサイエンスチャンネル](https://www.youtube.com/channel/UCFUceuYHOlm1v9JnyTXqGHg)
+- [Water Melon Sound](https://hacklog.jp/works/52274)
+- [Google Cloud Platform Japan 公式ブログ: キュウリ農家とディープラーニングをつなぐ TensorFlow](https://cloudplatform-jp.googleblog.com/2016/08/tensorflow_5.html)
+- [DL4US](http://dl4us.com/)
+- [Deep Learning | Coursera](https://www.coursera.org/specializations/deep-learning#courses)
+- [バイオパンク ―ＤＩＹ科学者たちのＤＮＡハック！](https://www.amazon.co.jp/dp/B009QWIWJO/)
+- [Make: Japan | 学生を対象にMaker Faire Bay Area 2018の出展をサポートする「Young Maker ベイエリア遠征チャレンジ」参加者を募集！](http://makezine.jp/blog/2017/12/young-maker-bayarea-challenge.html)
+- [IoTLT新年会2018 with おうちハック & TMCN & Mashup Awards](https://iotlt.connpass.com/event/75673/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tvWcFA271yc" frameborder="0" allowfullscreen></iframe>

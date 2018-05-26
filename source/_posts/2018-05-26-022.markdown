@@ -1,0 +1,30 @@
+---
+layout: post
+title: "022「ものづくり、ハッカソンで地方を元気に」若狭 正生"
+date: 2018-05-26 20:00:00 +0900
+comments: true
+categories:
+audio-src: https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/022.mp3
+audio-length: 123496517
+audio-duration: "1:25:46"
+description: 若狭正生さんにものづくり、ハッカソン、地方での活動の話を聞きました。
+---
+若狭正生さんにものづくり、ハッカソン、地方での活動の話を聞きました。
+
+- [写真くれくれサービス シャクレ](https://wks.sakura.ne.jp/shakure/)
+- [けん玉楽器](https://www.youtube.com/watch?v=XD9AwhdLVzo)
+- [かわいいフリー素材集 いらすとや](https://www.irasutoya.com/)
+- [回転いらすとや行灯](https://www.youtube.com/watch?v=pEH5Q5xNPOY)
+- [ハッカソン - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3)
+- [micro:bit](http://microbit.org/ja)
+- [MESH](http://meshprj.com/jp/)
+- [伊那市LoRaWANハッカソン - ina-hackレポート](https://iotnews.jp/archives/60382)
+- [最新ARでよみがえる「思い出の駅」｜NHK1.5ch（NHK1.5チャンネル）](https://www.nhk.or.jp/ten5/articles/17/002994.html)
+- [ひぐまっぷbot](https://hacklog.jp/works/52448)
+
+- [CIVIC TECH HORUM 2018](http://2018.civictechforum.jp/)
+- [おうちハックなM5Stackもくもく会](https://ouch-hack.connpass.com/event/88890/)
+- [NT金沢2018](http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22018)
+- [NT金沢2018Facebookイベントページ](https://www.facebook.com/events/955076888006520/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlcDT7hxXcU" frameborder="0" allowfullscreen></iframe>

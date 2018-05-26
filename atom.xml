@@ -4,11 +4,11 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2016-08-01T01:29:28+09:00</updated>
+    <updated>2018-04-07T23:50:32+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
-      <name>Tsubasa Yumura, Koji Tsukaya</name>
+      <name>ShinamonoLab</name>
     </author>
     <description>品モノラボがお送りするメイカーとメーカーのためのモノづくり系ポッドキャスト</description>
     <generator uri="http://octopress.org/">Octopress</generator>
@@ -27,6 +27,478 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>021「TMCNからxMCNとホロラボへ」伊藤 武仙</title>
+      <description>&lt;p&gt;伊藤武仙さんにTMCNやxMCN、ホロラボの話を聞きました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://tokyomotioncontrol.net/&quot;&gt;TMCN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja-jp.facebook.com/TokyoMotioncontrolNetwork/&quot;&gt;TMCN - Facebookグループ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://4ok.jp/&quot;&gt;株式会社 for Our Kids&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://hololab.co.jp/&quot;&gt;株式会社ホロラボ｜HoloLab Inc.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/551248&quot;&gt;Tokyo Motioncontrol Network キックオフミーティングまとめ #tokyomotioncontrol - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/KumaMCN/&quot;&gt;KumaMCN - Kumamoto MotionControl Network - Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/TMCNkanazawa/&quot;&gt;TMCN金沢事務局 - Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://holomagicians.azurewebsites.net/&quot;&gt;HoloMagicians | HoloLens Creator Group Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fabcross.jp/topics/monocommu/20150508_tmcn.html&quot;&gt;センサ好きの飲み会から生まれたコミュニティ「TMCN」｜fabcross&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/puppemoji/id1356037355&quot;&gt;パペ文字&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.vrchat.net/&quot;&gt;VRChat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ouch-hack.connpass.com/event/83917/&quot;&gt;おうちハック　小ネタLT大会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hololens.connpass.com/event/80654/&quot;&gt;札幌HoloLens ミートアップ vol.1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hololens.connpass.com/event/83943/&quot;&gt;HoloLens RS4 Preview公開記念勉強会！＠アカツキ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hololens.connpass.com/event/80881/&quot;&gt;第7回 HoloLens参考書読書会＠アカツキ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hololens.connpass.com/event/82054/&quot;&gt;Tokyo HoloLens ミートアップ vol.8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hololens.connpass.com/event/82130/&quot;&gt;xRもくもく会 vol.02&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/129398917829485&quot;&gt;IOT水曜どうでしょー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22018&quot;&gt;NT金沢2018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TtgkzD8uL0U&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2018/04/07/021/"/>
+      <pubDate>Sat, 07 Apr 2018 20:00:00 +0900</pubDate>
+      <updated>2018-04-07T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2018/04/07/021</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>伊藤武仙さんにTMCNやxMCN、ホロラボの話を聞きました。</itunes:summary>
+      <itunes:subtitle>伊藤武仙さんにTMCNやxMCN、ホロラボの話を聞きました。</itunes:subtitle>
+      <itunes:duration>1:18:51</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/021.mp3" type="audio/mpeg" length="75691183" />
+    </item>
+    
+    <item>
+      <title>020「Mashup Awardsのこれまでとこれから」伴野 智樹 ＆ 鈴木 まなみ</title>
+      <description>&lt;p&gt;伴野智樹さん、鈴木まなみさんにMashup Awardsのコミュニティづくりや一般社団法人化の話を聞きました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://mashupaward.jp/&quot;&gt;Mashup Awards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://mashupaward.jp/2018/03/ma2018-birthdayparty/&quot;&gt;一般社団法人MAがうまれたってよ【生誕会】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://tukuddo.com/&quot;&gt;モノづくりスペース TUKUDDO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://teruaki-tsubokura.com/&quot;&gt;坪倉さん&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.fisc.jp/it/mashup-summit-in-fukui-2018/&quot;&gt;「Mashup Summit in FUKUI 2018 ～次の未来のつくり方とはじめかた～」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hacklog.jp/works/52180&quot;&gt;T-shirtizer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hacklog.jp/&quot;&gt;Hacklog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/duQHv8QXZw0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2018/03/04/020/"/>
+      <pubDate>Sun, 04 Mar 2018 20:00:00 +0900</pubDate>
+      <updated>2018-03-04T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2018/03/04/020</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>伴野智樹さん、鈴木まなみさんにMashup Awardsのコミュニティづくりや一般社団法人化の話を聞きました。</itunes:summary>
+      <itunes:subtitle>伴野智樹さん、鈴木まなみさんにMashup Awardsのコミュニティづくりや一般社団法人化の話を聞きました。</itunes:subtitle>
+      <itunes:duration>1:09:09</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/020.mp3" type="audio/mpeg" length="99587579" />
+    </item>
+    
+    <item>
+      <title>019「IoTLTとコミュニティ」菅原 のびすけ</title>
+      <description>&lt;p&gt;菅原のびすけさんにIoTLT、DevRel、コミュニティ運営、ハッカソン審査員の話を聞きました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/IoTLT/&quot;&gt;IoTLT ~ IoT縛りの勉強会/LT会~&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://iotlt.connpass.com/&quot;&gt;IoT縛りの勉強会 ! IoTLT - connpass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://iotlt.connpass.com/event/74835/&quot;&gt;IoT縛りの勉強会! IoTLT vol.36 @ 東京商工会議所&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://iotlt.connpass.com/event/75673/&quot;&gt;IoTLT新年会2018 with おうちハック &amp;amp; TMCN &amp;amp; Mashup Awards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/AfterWorkInnovations&quot;&gt;放課後イノベーション展&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/ecosystembymakers/201802-b48c0e9127d2&quot;&gt;2018年1月の月次報告【ニコ技深セン観察会】次回募集,ミートアップ,新著「世界ハッカースペースガイド」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://event.shoeisha.jp/devsumi/20180215/&quot;&gt;Developers Summit 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://yumulog.hatenablog.com/entry/2016/02/22/213025&quot;&gt;デブサミで「大集合おうちハックLT祭」を開催しました(資料まとめあり) #devsumi #おうちハック - yumulog | 社会人博士の日記&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://devrel.connpass.com/&quot;&gt;DevRel Meetup in Tokyo - Connpass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://jaws-ug.jp/&quot;&gt;JAWS-UG – AWS User Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.microsoft.com/ja-jp/communities/mvp/default.aspx&quot;&gt;マイクロソフト MVP アワード プログラムとは&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/books/9784873114958/&quot;&gt;O&#39;Reilly Japan - アート・オブ・コミュニティ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B0797K44CH/&quot;&gt;日本再興戦略: 落合 陽一&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://community-drive.com/&quot;&gt;Community Drive | Lets Share the Culture of Community&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6B77tW4E_fo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2018/02/03/019/"/>
+      <pubDate>Sat, 03 Feb 2018 20:00:00 +0900</pubDate>
+      <updated>2018-02-03T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2018/02/03/019</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>菅原のびすけさんにIoTLT、DevRel、コミュニティ運営、ハッカソン審査員の話を聞きました。</itunes:summary>
+      <itunes:subtitle>菅原のびすけさんにIoTLT、DevRel、コミュニティ運営、ハッカソン審査員の話を聞きました。</itunes:subtitle>
+      <itunes:duration>1:28:50</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/019.mp3" type="audio/mpeg" length="127931482" />
+    </item>
+    
+    <item>
+      <title>018「2017年振り返り」塚谷 浩司＆湯村 翼</title>
+      <description>&lt;p&gt;2017年のメイカーシーンを振り返ってお話ししました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLBFqluYwygv8QvJ6qV61O4407dKRNcaKE&quot;&gt;バーチャルのじゃロリ狐娘youtuberおじさん&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/mft2017/&quot;&gt;Maker Faire Tokyo 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://fes.uemonolab.com/&quot;&gt;上モノフェス&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22017&quot;&gt;NT金沢2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makersbazaar.jp/&quot;&gt;メイカーズバザール大阪&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E5%8A%A0%E8%B3%802017&quot;&gt;NT加賀2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://microbit.org/&quot;&gt;micro:bit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/galden999&quot;&gt;ギャル電(@galden999)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://careerhack.en-japan.com/report/detail/845&quot;&gt;世界をポジティブにぶっ壊す！ ド派手な電子工作ユニット『ギャル電』が起こす小さな革命 | CAREER HACK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.asahi.com/articles/ASKDF62G1KDFULFA035.html&quot;&gt;メイカーズ祭典仕掛け人、実感した「日本に必要なこと」：朝日新聞デジタル&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCFUceuYHOlm1v9JnyTXqGHg&quot;&gt;スイッチサイエンスチャンネル&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hacklog.jp/works/52274&quot;&gt;Water Melon Sound&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://cloudplatform-jp.googleblog.com/2016/08/tensorflow_5.html&quot;&gt;Google Cloud Platform Japan 公式ブログ: キュウリ農家とディープラーニングをつなぐ TensorFlow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://dl4us.com/&quot;&gt;DL4US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.coursera.org/specializations/deep-learning#courses&quot;&gt;Deep Learning | Coursera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B009QWIWJO/&quot;&gt;バイオパンク ―ＤＩＹ科学者たちのＤＮＡハック！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/blog/2017/12/young-maker-bayarea-challenge.html&quot;&gt;Make: Japan | 学生を対象にMaker Faire Bay Area 2018の出展をサポートする「Young Maker ベイエリア遠征チャレンジ」参加者を募集！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://iotlt.connpass.com/event/75673/&quot;&gt;IoTLT新年会2018 with おうちハック &amp;amp; TMCN &amp;amp; Mashup Awards&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tvWcFA271yc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2018/01/07/018/"/>
+      <pubDate>Sun, 07 Jan 2018 22:00:00 +0900</pubDate>
+      <updated>2018-01-07T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2018/01/07/018</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>2017年のメイカーシーン振り返り</itunes:summary>
+      <itunes:subtitle>2017年のメイカーシーン振り返り</itunes:subtitle>
+      <itunes:duration>1:22:25</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/018.mp3" type="audio/mpeg" length="118695419" />
+    </item>
+    
+    <item>
+      <title>017「Maker Faire Tokyo 2017 振り返り」古賀 由希子＆塚谷 浩司＆湯村 翼</title>
+      <description>&lt;p&gt;古賀、塚谷、湯村の3名でMaker Faire Tokyo2017を振り返って話しました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/mft2017/&quot;&gt;Maker Faire Tokyo 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0288/&quot;&gt;宇宙や地球観測のデータを使ったアプリケーション | Space Apps Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0214/&quot;&gt;和田永「エレクトロニコス・ファンタスティコス！」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0019/&quot;&gt;畳を使って製作した楽器の数々を展示、体験していただきます。 | 日本畳楽器製造&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1137599&quot;&gt;MakerFaireTokyo2017当日まとめ - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1137982&quot;&gt;MakerFaireTokyo2017 Fav30以上 まとめ - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0228/&quot;&gt;デルモンテ | 柴田 和弥&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0161/&quot;&gt;YOYOPOV | SMD工房&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0350/&quot;&gt;手作りドーム3D映像 | ヒゲキタ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0207/&quot;&gt;BreadBoard Baking feat. Sunbaked Sweets | クラッカー・オシレーター、回路図アイシングクッキー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.creema.jp/&quot;&gt;Creema（クリーマ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://minne.com/&quot;&gt;minne&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0144/&quot;&gt;お台場ダイバーズ | ゆめカワ☆ふぁぶりけーしょんズ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0080/&quot;&gt;リーマンサット・プロジェクト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://portal.nifty.com/hebocon/whats.htm&quot;&gt;ヘボコンとは？ - デイリーポータルZ：@nifty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/toio/&quot;&gt;toio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=jG62-LARm7g&quot;&gt;NT金沢2017 ブース紹介(前編)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=6oFVuNwcG7s&quot;&gt;NT金沢2017 ブース紹介(後編)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://fes.uemonolab.com/&quot;&gt;上モノフェス&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2xoMAlGH8eo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2017/08/11/017/"/>
+      <pubDate>Fri, 11 Aug 2017 22:00:00 +0900</pubDate>
+      <updated>2017-08-11T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2017/08/11/017</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>古賀、塚谷、湯村の3名でMaker Faire Tokyo2017の振り返り。</itunes:summary>
+      <itunes:subtitle>古賀、塚谷、湯村の3名でMaker Faire Tokyo2017の振り返り。</itunes:subtitle>
+      <itunes:duration>1:03:49</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/017.mp3" type="audio/mpeg" length="91898802" />
+    </item>
+    
+    <item>
+      <title>016「Maker Faire Tokyo 2017 直前特集」古賀 由希子＆塚谷 浩司＆湯村 翼</title>
+      <description>&lt;p&gt;古賀、塚谷、湯村の3名でMaker Faire Tokyo2017の注目展示を紹介しています。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/mft2017/&quot;&gt;Maker Faire Tokyo 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/mft2017/presentations/&quot;&gt;プレゼンテーション&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0244/&quot;&gt;光るヘルメット | 猫とロボット社&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0136/&quot;&gt;FRISKおじさんのヘッドホンアンプ付きUSB-DAC | FRISKおじさん&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0153/&quot;&gt;ニキシー管時計、ゲコゲコボタン、Happy Hat | だめだめだん&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0158/&quot;&gt;スゴイシリーズ・プロダクト 今年の新作 | スゴイラボ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/mesh/&quot;&gt;MESHでつくったスポーツを楽しもう！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/toio/&quot;&gt;toio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0109/&quot;&gt;おばけパズル&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0299/&quot;&gt;本格だしメーカー「BUSHI」 | 野本 かもめ、西岡 勇人&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0348/&quot;&gt;クレープロボット「クレプ」 | モリロボ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0044/&quot;&gt;WATA-PON 2.0 | baby toi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0284/&quot;&gt;花粉観測器「ポールンロボ」シリーズほか、オリジナル観測機器 | ウェザーニュースSOLiVE24&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0161/&quot;&gt;YOYOPOV | SMD工房&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0222/&quot;&gt;ANIPOV | Suns &amp;amp; Moon Laboratory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0311/&quot;&gt;SIProp All LED | 新里 祐教&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0033/&quot;&gt;MRファミコン | KOALAB.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0277/&quot;&gt;LEDサンバ衣装 | 電飾サンバProject&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0137/&quot;&gt;ヒートガンで作るフルカラー・ポップコーン | sweet electronics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0154/&quot;&gt;GIFカメラ | projectOTO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0270/&quot;&gt;マイコンLEDネイル、ウェアラブル真空管アンプとハンズオン | SRSIV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2017/m0288/&quot;&gt;宇宙や地球観測のデータを使ったアプリケーション | Space Apps Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://akiparty2017.cs8.biz/&quot;&gt;Akiparty&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2IBBGEBO7Ho&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2017/07/29/016/"/>
+      <pubDate>Sat, 29 Jul 2017 22:00:00 +0900</pubDate>
+      <updated>2017-07-29T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2017/07/29/016</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>古賀、塚谷、湯村の3名でMaker Faire Tokyo2017の注目展示を紹介しています。</itunes:summary>
+      <itunes:subtitle>古賀、塚谷、湯村の3名でMaker Faire Tokyo2017の注目展示を紹介しています。</itunes:subtitle>
+      <itunes:duration>1:05:09</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/016.mp3" type="audio/mpeg" length="62558487" />
+    </item>
+    
+    <item>
+      <title>015「研究の民主化、日本の未来、デジタルネイチャー」落合 陽一</title>
+      <description>&lt;p&gt;落合陽一さんに、研究の民主化、研究資金、新しい受験の姿、日本の未来などについての話を聞きました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://about.yahoo.co.jp/info/event/japanese_technium/&quot;&gt;Yahoo! JAPAN Technology Art #01 ジャパニーズテクニウム展 by 落合陽一とデジタルネイチャーグループ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://readyfor.jp/projects/ochyaigogo&quot;&gt;21世紀をコンピュータによる｢奴隷の世紀｣ではなく｢魔法の世紀｣に（落合陽一（筑波大学 助教）） - READYFOR (レディーフォー)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://digitalnature.slis.tsukuba.ac.jp/&quot;&gt;Digital Nature Group - 落合陽一 デジタルネイチャー研究室&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://mediaambitiontokyo.jp/&quot;&gt;MEDIA AMBITION TOKYO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/mtm/05/&quot;&gt;Make: Tokyo Meeting 05&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/mtm/06/&quot;&gt;Make: Tokyo Meeting 06&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/mtm/07/&quot;&gt;Make: Tokyo Meeting 07&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=nsL8t_pgPjs&quot;&gt;電気がみえるデバイス  &amp;ldquo;The Visible Breadboard&amp;rdquo; - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=42GF6pXASA0&quot;&gt;Cyclone Display: Rotation, Reflection, Flicker and Recognition combined to the Pixels - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ImSC4U5GAgA&quot;&gt;視野闘争のための万華鏡 / Kaleidoscopes for Binocular Rivalry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://niconicogakkai.tumblr.com/&quot;&gt;ニコニコ学会β&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.dcexpo.jp/&quot;&gt;DCEXPO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://pixiedusttech.com/&quot;&gt;Pixie Dust Technologies, Inc.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B01AXRCDTU&quot;&gt;『メイカーズのエコシステム　新しいモノづくりがとまらない。』高須 正和&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.maywadenki.com/blog/2017/04/06/%E4%B8%AD%E5%9B%BD%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC%E5%B8%82%E5%A0%B4%EF%BC%9C%E5%89%8D%E7%AF%87%EF%BC%9E/&quot;&gt;驚愕！中国のコピー商品市場　＜前編＞ | 明和電機社長ブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.maywadenki.com/blog/2017/04/10/%E9%A9%9A%E6%84%95%EF%BC%81%E4%B8%AD%E5%9B%BD%E3%81%AE%E3%83%91%E3%83%81%E3%83%A2%E3%83%B3%E5%B8%82%E5%A0%B4%EF%BC%9C%E4%B8%AD%E7%B7%A8%EF%BC%9E/&quot;&gt;驚愕！中国のパチモン市場＜中編＞ | 明和電機社長ブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.maywadenki.com/blog/2017/04/22/%E8%A1%9D%E6%92%83%EF%BC%81%E4%B8%AD%E5%9B%BD%E3%81%AE%E3%83%91%E3%83%81%E3%83%A2%E3%83%B3%E5%B8%82%E5%A0%B4%EF%BC%9C%E5%BE%8C%E7%B7%A8%EF%BC%9E/&quot;&gt;衝撃！中国のパチモン市場＜後編＞ | 明和電機社長ブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://sciencecity.tsukuba.ch/e305157.html&quot;&gt;筑波大が敷地内にアリーナ新設へ！ - 研究学園の生活&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://lounge.dmm.com/detail/48/&quot;&gt;落合陽一 - 落合陽一の解体魔術講座 - DMM オンラインサロン&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mast.tsukuba.ac.jp/&quot;&gt;筑波大学情報学群 情報メディア創成学類／University of Tsukuba&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;ja&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;今我々の国が積極的にやらないと行けないのは研究の民主化によるトップダウン型アカデミズムの破壊．それによる脱近代化．収益構造の多層化．&lt;/p&gt;&amp;mdash; 落合陽一/Dr.YoichiOchiai (@ochyai) &lt;a href=&quot;https://twitter.com/ochyai/status/854660788077772800&quot;&gt;2017年4月19日&lt;/a&gt;&lt;/blockquote&gt;
+
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1dSvHj_W0AM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2017/05/01/015/"/>
+      <pubDate>Mon, 01 May 2017 22:00:00 +0900</pubDate>
+      <updated>2017-05-01T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2017/05/01/015</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>落合陽一さんに、研究の民主化、研究資金、新しい受験の姿、日本の未来などについての話を聞きました。</itunes:summary>
+      <itunes:subtitle>落合陽一さんに、研究の民主化、研究資金、新しい受験の姿、日本の未来などについての話を聞きました。</itunes:subtitle>
+      <itunes:duration>1:07:15</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/015.mp3" type="audio/mpeg" length="64565108" />
+    </item>
+    
+    <item>
+      <title>014「MESHとプログラミング」萩原 丈博</title>
+      <description>&lt;p&gt;萩原丈博さんに、品モノラボの立ち上げ、MESH、ビジュアルプログラミング、学生時代のプログラミング、プログラミング教育などについての話を聞きました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.meetup.com/ja-JP/Shinamonolab/&quot;&gt;品モノラボ meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/events/389881007777016/&quot;&gt;品モノラボ #1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://meshprj.com/&quot;&gt;MESH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://recipe.meshprj.com/jp/contest/iine-design-2016&quot;&gt;MESH DESIGN CONTEST 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://hacklog.jp/works/50042&quot;&gt;どこでもMステ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ifttt.com/&quot;&gt;IFTTT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://japan.unity3d.com/&quot;&gt;Unity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.unrealengine.com&quot;&gt;Unreal Engine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://minecraft.net/ja-jp/&quot;&gt;MINECRAFT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/LOGO&quot;&gt;LOGO - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/QuickBASIC&quot;&gt;QuickBASIC - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://qiita.com/sgrowd/items/6a3e8576be49760db5eb&quot;&gt;MESHでECHONET Lite家電を動かす - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/events/219770381765510/&quot;&gt;ふれる。あそぶ。プログラミング。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://coderdojo.jp/&quot;&gt;CoderDojo Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://techbookfest.org/event/tbf02&quot;&gt;技術書典2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1IgOnk2Twwc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2017/03/26/014/"/>
+      <pubDate>Sun, 26 Mar 2017 22:00:00 +0900</pubDate>
+      <updated>2017-03-26T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2017/03/26/014</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>萩原丈博さんに、品モノラボの立ち上げ、MESH、ビジュアルプログラミング、学生時代のプログラミング、プログラミング教育などについての話を聞きました。</itunes:summary>
+      <itunes:subtitle>萩原丈博さんに、品モノラボの立ち上げ、MESH、ビジュアルプログラミング、学生時代のプログラミング、プログラミング教育などについての話を聞きました。</itunes:subtitle>
+      <itunes:duration>1:10:34</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/014.mp3" type="audio/mpeg" length="67691027" />
+    </item>
+    
+    <item>
+      <title>013「新里さんとものづくり」新里 祐教</title>
+      <description>&lt;p&gt;新里祐教(@hirotakaster)さんに、海外のMaker Faire体験談、基板の物々交換などについての話を聞きました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.siprop.org/ja/2.0/index.php&quot;&gt;SIProp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://rocketnews24.com/2012/04/05/199230/&quot;&gt;【中国】偽ミネラルウォーター工場摘発に捜査員も驚愕！ 「水はトイレから伸びている管から採水」 | ロケットニュース24&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.hirotakaster.com/weblog/intel-realsense-usb-3-0-original-board/&quot;&gt;Intel RealSense USB 3.0 original board | Natural Days&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://voyagegroup.com/culture/environment/ajito/&quot;&gt;ぼくらにはAJITOがある | 株式会社VOYAGE GROUP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://akizukidenshi.com/catalog/g/gM-10731/&quot;&gt;ドーム型スクリーン用カラー液晶プロジェクタ（球体液晶・光学表示ユニット）: ディスプレイ関連 秋月電子通商 電子部品 ネット通販&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/1594199947539602/&quot;&gt;秋月「ドーム型スクリーン用カラー液晶プロジェクタ（球体液晶・光学表示ユニット）」友の会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=LYr06tfNRQI&quot;&gt;『磁性流体とピアノ』 藤本直明＋スミイ酸 （ダイジェスト）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://techbookfest.org/event/tbf02&quot;&gt;技術書典2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://codezine.jp/article/detail/9960&quot;&gt;技術書なのにコミケで壁サークル!? 技術系同人誌の本とイベントの作り方――TechBooster mhidakaさん (1/5)：CodeZine（コードジン）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZMSR7gbcHzo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2017/03/04/013/"/>
+      <pubDate>Sat, 04 Mar 2017 22:00:00 +0900</pubDate>
+      <updated>2017-03-04T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2017/03/04/013</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>新里祐教(@hirotakaster)さんに、海外のMaker Faire体験談、基板の物々交換などについての話を聞きました。</itunes:summary>
+      <itunes:subtitle>新里祐教(@hirotakaster)さんに、海外のMaker Faire体験談、基板の物々交換などについての話を聞きました。</itunes:subtitle>
+      <itunes:duration>1:22:41</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/013.mp3" type="audio/mpeg" length="79372566" />
+    </item>
+    
+    <item>
+      <title>012「品モノラジオ1周年ふりかえり」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;品モノラジオ&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://info.wamazing.jp/&quot;&gt;WAmazing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/bangkokmakerfaire/&quot;&gt;Bangkok Mini Maker Faire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makerfaire.com/map/&quot;&gt;Maker Faire | Find a Faire Near You&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.makerfaire.com.tw/&quot;&gt;Maker Faire Taipei&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCFkkumrDa6BBLTh1SEpp5SQ&quot;&gt;ajimitei channel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/L-xXzf1Tr6U&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2017/02/05/012/"/>
+      <pubDate>Sun, 05 Feb 2017 22:00:00 +0900</pubDate>
+      <updated>2017-02-05T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2017/02/05/012</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>品モノラジオ</itunes:summary>
+      <itunes:subtitle>品モノラジオ</itunes:subtitle>
+      <itunes:duration>0:59:25</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/012.mp3" type="audio/mpeg" length="57043514" />
+    </item>
+    
+    <item>
+      <title>011「デザインからMakerへ」やまざき☆はるき</title>
+      <description>&lt;p&gt;コミケ / Personal Fabrication&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/yumu19/status/779586109571411968&quot;&gt;トロンボーン型ゲームコントローラ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.techshop.jp/&quot;&gt;Tech Shop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://tokyomotioncontrol.net/&quot;&gt;TMCN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/events/233572820418431/&quot;&gt;品テク meetup Vol.04&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://4ok.jp/pets/&quot;&gt;プログラミング脳を養うツール「PETS」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://techbookfest.org/event/tbf02&quot;&gt;技術書典2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://otonanokagaku.net/special/vol44_kaededrone/&quot;&gt;カエデドローン&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://yumulab.tumblr.com/&quot;&gt;yumulab(Tumblr)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/t5iUKmrgNYQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2016/12/29/011/"/>
+      <pubDate>Thu, 29 Dec 2016 16:10:00 +0900</pubDate>
+      <updated>2016-12-29T16:10:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/12/29/011</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>コミケ / Personal Fabrication</itunes:summary>
+      <itunes:subtitle>コミケ / Personal Fabrication</itunes:subtitle>
+      <itunes:duration>1:08:16</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/011.mp3" type="audio/mpeg" length="65544387" />
+    </item>
+    
+    <item>
+      <title>010「Maker Faireに行ったら人生が変わった」岡田 貴裕</title>
+      <description>&lt;p&gt;Maker Faire / 深セン&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/blog/2011/12/mtm07.html&quot;&gt;Make Tokyo Meeting 07&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://pigmal.com/blog/2012/04/16/mini-maker-faire-in-shenzhen/&quot;&gt;Mini Maker Faire in ShenZhen にて新作「ウェアラブルタブレット」の展示を行いました | pigmal, LLC / 合同会社ピグマル&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/kopanitsa/maker-faire-bay-area-2013-report&quot;&gt;Maker faire bay area 2013 report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.hills-marche.com/&quot;&gt;ヒルズマルシェ in アークヒルズ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ux-xu.com/news/release/%E4%BB%A3%E5%AE%98%E5%B1%B1-%E8%94%A6%E5%B1%8B%E6%9B%B8%E5%BA%97%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%80%8Cdaikanyama-design-department-2016%E3%80%8D-2&quot;&gt;代官山 蔦屋書店のデザインイベント「Daikanyama Design Department 2016」に参加します | ユカイ工学&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://qiita.com/advent-calendar/2016/podcast&quot;&gt;Podcast Advent Calendar 2016 - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://qiita.com/advent-calendar/2016/iot-gadgets&quot;&gt;今年買った(ハックした)IoTガジェット Advent Calendar 2016 - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/1695230380806641/&quot;&gt;魚モノラボ ～魚Techを語ろう～&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/iOrF0qIvkek&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2016/11/13/010/"/>
+      <pubDate>Sun, 13 Nov 2016 22:00:00 +0900</pubDate>
+      <updated>2016-11-13T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/11/13/010</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Maker Faire / 深セン</itunes:summary>
+      <itunes:subtitle>Maker Faire / 深セン</itunes:subtitle>
+      <itunes:duration>1:07:05</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/010.mp3" type="audio/mpeg" length="64410888" />
+    </item>
+    
+    <item>
+      <title>009「MFT2016振り返り＆ABProで寿司が止まって見える装置」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;Maker Faire / ABPro&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/books/9784873117478/&quot;&gt;物を作って生きるには――23人のMaker Proが語る仕事と生活&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/mft2016/&quot;&gt;Maker Faire Tokyo 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2016/workpiles/&quot;&gt;CUCUMBER-9（自動きゅうり選果マシーン） - Workpiles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2016/wada-ei_electronicos-fantasticos/&quot;&gt;和田永「エレクトロニコス・ファンタスティコス！」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2016/morirobo/&quot;&gt;モリロボ 自動クレープ焼きロボット ”クレプ” - Make&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ommf.iamas.ac.jp/&quot;&gt;Ogaki Mini Maker Faire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://portal.nifty.com/kiji/161019197846_1.htm&quot;&gt;レーザーカッターで燻製を作る！「普通じゃないプログラム」発表会 - デイリーポータルZ：@nifty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://abpro.jp/2016/&quot;&gt;ABPro 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://yumulog.hatenablog.com/entry/2016/09/25/234038&quot;&gt;年収800万円以下でも寿司が止まって見える装置をABPro2016で発表した #ABPro - yumulog | 社会人博士の日記&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2015/pffamily/&quot;&gt;ストロボ実験と芸術的物理シミュレーション | Maker Faire Tokyo 2015 | Make: Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://portal.nifty.com/kiji/140924165234_1.htm&quot;&gt;プログラムで笑わせろ！「普通じゃないプログラム」発表会 - デイリーポータルZ：@nifty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://mashupaward.jp/&quot;&gt;Mashup Awards 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://gugen.jp/&quot;&gt;GUGEN 2016&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KvN4FDxwu7w&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2016/10/23/009/"/>
+      <pubDate>Sun, 23 Oct 2016 22:00:00 +0900</pubDate>
+      <updated>2016-10-23T22:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2016/10/23/009</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Maker Faire / ABPro</itunes:summary>
+      <itunes:subtitle>Maker Faire / ABPro</itunes:subtitle>
+      <itunes:duration>1:01:50</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/009.mp3" type="audio/mpeg" length="59373220" />
+    </item>
     
     <item>
       <title>008「Maker Faire Tokyo 2016 直前特集」古賀 由希子＆塚谷 浩司＆湯村 翼</title>
@@ -64,7 +536,7 @@
       <itunes:summary>Maker Faire</itunes:summary>
       <itunes:subtitle>Maker Faire</itunes:subtitle>
       <itunes:duration>1:08:16</itunes:duration>
-      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/007.mp3" type="audio/mpeg" length="65373859" />
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/008.mp3" type="audio/mpeg" length="65373859" />
     </item>
     
     <item>

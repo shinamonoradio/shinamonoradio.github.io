@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2018-04-07T23:50:32+09:00</updated>
+    <updated>2018-05-27T02:08:25+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,42 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>022「ものづくり、ハッカソンで地方を元気に」若狭 正生</title>
+      <description>&lt;p&gt;若狭正生さんにものづくり、ハッカソン、地方での活動の話を聞きました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wks.sakura.ne.jp/shakure/&quot;&gt;写真くれくれサービス シャクレ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=XD9AwhdLVzo&quot;&gt;けん玉楽器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.irasutoya.com/&quot;&gt;かわいいフリー素材集 いらすとや&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=pEH5Q5xNPOY&quot;&gt;回転いらすとや行灯&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3&quot;&gt;ハッカソン - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://microbit.org/ja&quot;&gt;micro:bit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://meshprj.com/jp/&quot;&gt;MESH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://iotnews.jp/archives/60382&quot;&gt;伊那市LoRaWANハッカソン - ina-hackレポート&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nhk.or.jp/ten5/articles/17/002994.html&quot;&gt;最新ARでよみがえる「思い出の駅」｜NHK1.5ch（NHK1.5チャンネル）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hacklog.jp/works/52448&quot;&gt;ひぐまっぷbot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://2018.civictechforum.jp/&quot;&gt;CIVIC TECH HORUM 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ouch-hack.connpass.com/event/88890/&quot;&gt;おうちハックなM5Stackもくもく会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22018&quot;&gt;NT金沢2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/events/955076888006520/&quot;&gt;NT金沢2018Facebookイベントページ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GlcDT7hxXcU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2018/05/26/022/"/>
+      <pubDate>Sat, 26 May 2018 20:00:00 +0900</pubDate>
+      <updated>2018-05-26T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2018/05/26/022</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>若狭正生さんにものづくり、ハッカソン、地方での活動の話を聞きました。</itunes:summary>
+      <itunes:subtitle>若狭正生さんにものづくり、ハッカソン、地方での活動の話を聞きました。</itunes:subtitle>
+      <itunes:duration>1:25:46</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/022.mp3" type="audio/mpeg" length="123496517" />
+    </item>
     
     <item>
       <title>021「TMCNからxMCNとホロラボへ」伊藤 武仙</title>

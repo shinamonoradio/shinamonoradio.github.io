@@ -4,7 +4,7 @@
     <title>品モノラジオ</title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2018-05-27T02:08:25+09:00</updated>
+    <updated>2018-06-24T22:11:17+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -29,6 +29,41 @@
     <itunes:category text="Technology"/>
     
     <item>
+      <title>023「NT金沢2018直前特集」秋田 純一＆五味</title>
+      <description>&lt;p&gt;秋田純一さんと五味さんにNT金沢2018の話を聞きました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://nt-kanazawa.org/&quot;&gt;NT金沢2018ウェブサイト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22018&quot;&gt;NT金沢2018Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/events/955076888006520/&quot;&gt;NT金沢2018Facebookイベントページ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E5%8A%A0%E8%B3%802017&quot;&gt;NT加賀2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E5%8A%A0%E8%B3%802018&quot;&gt;NT加賀2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.technoalta.com/hiemiku&quot;&gt;冷えミク&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://niconicogakkai.tumblr.com/&quot;&gt;ニコニコ学会β&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://live.nicovideo.jp/watch/lv72478844#2:28:50&quot;&gt;研究100連発 - 第1回ニコニコ学会βシンポジウム inニコファーレ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://hyakumansan.jp/&quot;&gt;ひゃくまんさん&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://booth.pm/topics/mach_digital_paperback&quot;&gt;マッハ新書&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://booth.pm/ja/items/839729&quot;&gt;NT金沢をやってみた ～Make的イベントのやりかた #マッハ新書&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://booth.pm/ja/items/874078&quot;&gt;人生で大切なことはすべてニコニコ学会βが教えてくれた(β)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nict.go.jp/open-house2018/&quot;&gt;NICTオープンハウス&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/AGQ6KONfzgM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2018/06/24/023/"/>
+      <pubDate>Sun, 24 Jun 2018 20:00:00 +0900</pubDate>
+      <updated>2018-06-24T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2018/06/24/023</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>秋田純一さんと五味さんにNT金沢2018の話を聞きました。</itunes:summary>
+      <itunes:subtitle>秋田純一さんと五味さんにNT金沢2018の話を聞きました。</itunes:subtitle>
+      <itunes:duration>1:03:26</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/023.mp3" type="audio/mpeg" length="60903367" />
+    </item>
+    
+    <item>
       <title>022「ものづくり、ハッカソンで地方を元気に」若狭 正生</title>
       <description>&lt;p&gt;若狭正生さんにものづくり、ハッカソン、地方での活動の話を聞きました。&lt;/p&gt;
 
@@ -42,13 +77,18 @@
 &lt;li&gt;&lt;a href=&quot;http://meshprj.com/jp/&quot;&gt;MESH&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://iotnews.jp/archives/60382&quot;&gt;伊那市LoRaWANハッカソン - ina-hackレポート&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.nhk.or.jp/ten5/articles/17/002994.html&quot;&gt;最新ARでよみがえる「思い出の駅」｜NHK1.5ch（NHK1.5チャンネル）&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://hacklog.jp/works/52448&quot;&gt;ひぐまっぷbot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://2018.civictechforum.jp/&quot;&gt;CIVIC TECH HORUM 2018&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://ouch-hack.connpass.com/event/88890/&quot;&gt;おうちハックなM5Stackもくもく会&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22018&quot;&gt;NT金沢2018&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/events/955076888006520/&quot;&gt;NT金沢2018Facebookイベントページ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hacklog.jp/works/52448&quot;&gt;ひぐまっぷbot&lt;/a&gt;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD&lt;/li&gt;
 &lt;/ul&gt;
 
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;p&gt;52289b2fe0419ce6b3f4740c395ed3a896190065
+- &lt;a href=&quot;http://2018.civictechforum.jp/&quot;&gt;CIVIC TECH HORUM 2018&lt;/a&gt;
+- &lt;a href=&quot;https://ouch-hack.connpass.com/event/88890/&quot;&gt;おうちハックなM5Stackもくもく会&lt;/a&gt;
+- &lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22018&quot;&gt;NT金沢2018&lt;/a&gt;
+- &lt;a href=&quot;https://www.facebook.com/events/955076888006520/&quot;&gt;NT金沢2018Facebookイベントページ&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GlcDT7hxXcU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 

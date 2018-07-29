@@ -4,7 +4,7 @@
     <title>品モノラジオ</title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2018-06-24T22:15:05+09:00</updated>
+    <updated>2018-07-29T11:04:06+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -29,8 +29,52 @@
     <itunes:category text="Technology"/>
     
     <item>
+      <title>024「Maker Faire Tokyo 2018 直前特集」古賀 由希子＆湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;古賀、塚谷、湯村の3名でMaker Faire Tokyo2018の注目展示を紹介しました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22018&quot;&gt;NT金沢2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1244552&quot;&gt;#NT金沢 2018ツイートまとめ - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=JdG7hzdhsmc&quot;&gt;研究してみたマッドネス in NT金沢2018 - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=pYmWzccBtFE&quot;&gt;研究100連発 in NT金沢2018 - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/mft2018/&quot;&gt;Maker Faire Tokyo 2018ウェブサイト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2018/m0116/&quot;&gt;MESHでつくってみた大集合！ | MESHでつくってみた友の会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2018/m0003/&quot;&gt;クラッピーチャレンジ | KumaMCN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2018/m0225/&quot;&gt;1/150スケール自動車模型走行システム | ジオラムーバー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2018/m0159/&quot;&gt;戻ってくるペットボトルロケット | ドクブラウン&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2018/m0135/&quot;&gt;奇楽堂不思議楽器見本市&#39;18 | 奇楽堂&amp;amp;Company&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2018/m0230/&quot;&gt;立体表示ディスプレイ | OUCHI Laboratory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2018/m0438/&quot;&gt;全自動綿あめ成型機械と顔合成キャラクッキー | 全自動綿あめ成型機械と顔合成キャラクッキー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2018/m0266/&quot;&gt;Spotify Wig｜ロックな音楽でモヒカンになるカツラ | 油木田大祐&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2018/m0183/&quot;&gt;茶道ロボ151A | aNo研&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2018/m0104/&quot;&gt;オダイバスターズ | ゆめカワ✰ふぁぶりけーしょんズ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2018/m0492/&quot;&gt;IoB: Internet of Bubbles | O2Lab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2018/m0382/&quot;&gt;I am ☆ Star with Drum ☆ Star | TETSUJIN - AUDIO VISUAL（高橋哲人、モシ村マイコ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2018/m0414/&quot;&gt;大田区関連企業の製品の展示、受発注相談、大田区の紹介 | 大田区&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2018/m0270/&quot;&gt;乗れるプログラミング教材「PETS-R」 | TMCN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/makers2018/m0342/&quot;&gt;パーティーハット | ajimitei labo.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/mft2018/program/maker_stage/&quot;&gt;プレゼンテーション Makerステージ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://makezine.jp/event/mft2018/program/center_stage/&quot;&gt;プレゼンテーション センターステージ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3EFMwk_eu48&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2018/07/28/024/"/>
+      <pubDate>Sat, 28 Jul 2018 21:00:00 +0900</pubDate>
+      <updated>2018-07-28T21:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2018/07/28/024</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>古賀、塚谷、湯村の3名でMaker Faire Tokyo2018の注目展示を紹介しました。</itunes:summary>
+      <itunes:subtitle>古賀、塚谷、湯村の3名でMaker Faire Tokyo2018の注目展示を紹介しました。</itunes:subtitle>
+      <itunes:duration>1:09:26</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/024.mp3" type="audio/mpeg" length="99975655" />
+    </item>
+    
+    <item>
       <title>023「NT金沢2018直前特集」秋田 純一＆五味</title>
-      <description>&lt;p&gt;秋田純一さんと五味さんにNT金沢2018の話を聞きました。&lt;/p&gt;
+      <description>&lt;p&gt;秋田純一さんと五味さんに、7/7(土)〜8(日)開催のNT金沢2018の話を聞きました。&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://nt-kanazawa.org/&quot;&gt;NT金沢2018ウェブサイト&lt;/a&gt;&lt;/li&gt;
@@ -57,8 +101,8 @@
       <updated>2018-06-24T20:00:00+09:00</updated>
       <guid>http://shinamonoradio.github.io/blog/2018/06/24/023</guid>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>秋田純一さんと五味さんにNT金沢2018の話を聞きました。</itunes:summary>
-      <itunes:subtitle>秋田純一さんと五味さんにNT金沢2018の話を聞きました。</itunes:subtitle>
+      <itunes:summary>秋田純一さんと五味さんに、7/7(土)〜8(日)開催のNT金沢2018の話を聞きました。</itunes:summary>
+      <itunes:subtitle>秋田純一さんと五味さんに、7/7(土)〜8(日)開催のNT金沢2018の話を聞きました。</itunes:subtitle>
       <itunes:duration>1:03:26</itunes:duration>
       <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/023.mp3" type="audio/mpeg" length="60903367" />
     </item>

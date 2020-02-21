@@ -1,0 +1,28 @@
+---
+layout: post
+title: "023「NT金沢2018直前特集」秋田 純一＆五味"
+date: 2018-06-24 20:00:00 +0900
+comments: true
+categories:
+audio-src: https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/023.mp3
+audio-length: 60903367
+audio-duration: "1:03:26"
+description: 秋田純一さんと五味さんに、7/7(土)〜8(日)開催のNT金沢2018の話を聞きました。
+---
+秋田純一さんと五味さんに、7/7(土)〜8(日)開催のNT金沢2018の話を聞きました。
+
+- [NT金沢2018ウェブサイト](http://nt-kanazawa.org/)
+- [NT金沢2018Wiki](http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22018)
+- [NT金沢2018Facebookイベントページ](https://www.facebook.com/events/955076888006520/)
+- [NT加賀2017](http://wiki.nicotech.jp/nico_tech/index.php?NT%E5%8A%A0%E8%B3%802017)
+- [NT加賀2018](http://wiki.nicotech.jp/nico_tech/index.php?NT%E5%8A%A0%E8%B3%802018)
+- [冷えミク](https://www.technoalta.com/hiemiku)
+- [ニコニコ学会β](http://niconicogakkai.tumblr.com/)
+- [研究100連発 - 第1回ニコニコ学会βシンポジウム inニコファーレ](http://live.nicovideo.jp/watch/lv72478844#2:28:50)
+- [ひゃくまんさん](http://hyakumansan.jp/)
+- [マッハ新書](https://booth.pm/topics/mach_digital_paperback)
+- [NT金沢をやってみた ～Make的イベントのやりかた #マッハ新書](https://booth.pm/ja/items/839729)
+- [人生で大切なことはすべてニコニコ学会βが教えてくれた(β)](https://booth.pm/ja/items/874078)
+- [NICTオープンハウス](https://www.nict.go.jp/open-house2018/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AGQ6KONfzgM" frameborder="0" allowfullscreen></iframe>

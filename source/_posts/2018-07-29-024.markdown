@@ -1,0 +1,38 @@
+---
+layout: post
+title: "024「Maker Faire Tokyo 2018 直前特集」古賀 由希子＆湯村 翼＆塚谷 浩司"
+date: 2018-07-28 21:00:00 +0900
+comments: true
+categories:
+audio-src: https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/024.mp3
+audio-length: 99975655
+audio-duration: "1:09:26"
+description: 古賀、塚谷、湯村の3名でMaker Faire Tokyo2018の注目展示を紹介しました。
+---
+古賀、塚谷、湯村の3名でMaker Faire Tokyo2018の注目展示を紹介しました。
+
+- [NT金沢2018](http://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22018)
+- [#NT金沢 2018ツイートまとめ - Togetter](https://togetter.com/li/1244552)
+- [研究してみたマッドネス in NT金沢2018 - YouTube](https://www.youtube.com/watch?v=JdG7hzdhsmc)
+- [研究100連発 in NT金沢2018 - YouTube](https://www.youtube.com/watch?v=pYmWzccBtFE)
+- [Maker Faire Tokyo 2018ウェブサイト](http://makezine.jp/event/mft2018/)
+- [MESHでつくってみた大集合！ | MESHでつくってみた友の会](http://makezine.jp/event/makers2018/m0116/)
+- [クラッピーチャレンジ | KumaMCN](http://makezine.jp/event/makers2018/m0003/)
+- [1/150スケール自動車模型走行システム | ジオラムーバー](http://makezine.jp/event/makers2018/m0225/)
+- [戻ってくるペットボトルロケット | ドクブラウン](http://makezine.jp/event/makers2018/m0159/)
+- [奇楽堂不思議楽器見本市'18 | 奇楽堂&Company](http://makezine.jp/event/makers2018/m0135/)
+- [立体表示ディスプレイ | OUCHI Laboratory](http://makezine.jp/event/makers2018/m0230/)
+- [全自動綿あめ成型機械と顔合成キャラクッキー | 全自動綿あめ成型機械と顔合成キャラクッキー](http://makezine.jp/event/makers2018/m0438/)
+- [Spotify Wig｜ロックな音楽でモヒカンになるカツラ | 油木田大祐](http://makezine.jp/event/makers2018/m0266/)
+- [茶道ロボ151A | aNo研](http://makezine.jp/event/makers2018/m0183/)
+- [オダイバスターズ | ゆめカワ✰ふぁぶりけーしょんズ](http://makezine.jp/event/makers2018/m0104/)
+- [IoB: Internet of Bubbles | O2Lab](http://makezine.jp/event/makers2018/m0492/)
+- [I am ☆ Star with Drum ☆ Star | TETSUJIN - AUDIO VISUAL（高橋哲人、モシ村マイコ）](http://makezine.jp/event/makers2018/m0382/)
+- [大田区関連企業の製品の展示、受発注相談、大田区の紹介 | 大田区](http://makezine.jp/event/makers2018/m0414/)
+- [乗れるプログラミング教材「PETS-R」 | TMCN](http://makezine.jp/event/makers2018/m0270/)
+- [パーティーハット | ajimitei labo.](http://makezine.jp/event/makers2018/m0342/)
+- [プレゼンテーション Makerステージ](http://makezine.jp/event/mft2018/program/maker_stage/)
+- [プレゼンテーション センターステージ](http://makezine.jp/event/mft2018/program/center_stage/)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3EFMwk_eu48" frameborder="0" allowfullscreen></iframe>

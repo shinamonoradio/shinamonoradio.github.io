@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2018-07-29T11:04:06+09:00</updated>
+    <updated>2020-02-22T18:49:26+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,39 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>025「Maker Faire Tokyo 2018 報告会」古賀 由希子＆湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;古賀、塚谷、湯村の3名でMaker Faire Tokyo2018のプレゼンテーションや展示、メイカーパレードなどの振り返りをしました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers2018/m0505/&quot;&gt;品モノラジオ パーソナリティ（湯村 翼・塚谷 浩司）by 品モノラボ | Maker Faire Tokyo 2018 | Make: Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/kotobuki/maker-faire-tokyo-2018-108616964&quot;&gt;「テクノロジーの“辺境”—「枯れた技術の水平思考」をレンズとして」(Slideshare)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zThCaeLxKnI&quot;&gt;「テクノロジーの“辺境”—「枯れた技術の水平思考」をレンズとして」(YouTube)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/blog/2018/08/mft2018_report7_special_session.html&quot;&gt;Make: Japan |   Maker Faire Tokyo 2018レポート #7：特別講演「テクノロジーの“辺境”—「枯れた技術の水平思考」をレンズとして」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.com/2018/10/11/introduce-some-chaos-into-your-life-with-those-old-fidget-spinners/&quot;&gt;Introduce Some Chaos Into Your Life With Those Old Fidget Spinners | Make:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;create_clock%20|%20Maker%20Faire%20Tokyo%202018%20|%20Make:%20Japan&quot;&gt;https://makezine.jp/event/makers2018/m0383/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makershare.com/&quot;&gt;Maker Share | Make What You Love. Share What You Make.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://club-mogra.jp/2018/08/04/3560/&quot;&gt;AKIPARTY TOKYO 2018 - MOGRA 秋葉原&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1253596&quot;&gt;AkiParty Tokyo 2018 まとめ - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/KyokoOmi/2018-106588794&quot;&gt;意識の低いプレゼンバトル2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers2018/m0376/&quot;&gt;自作キーボード ゆかりや | Maker Faire Tokyo 2018 | Make: Japan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OrgaU6Zbymw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2018/09/09/025/"/>
+      <pubDate>Sun, 09 Sep 2018 21:00:00 +0900</pubDate>
+      <updated>2018-09-09T21:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2018/09/09/025</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>古賀、塚谷、湯村の3名でMaker Faire Tokyo2018のプレゼンテーションや展示、メイカーパレードなどの振り返りをしました。</itunes:summary>
+      <itunes:subtitle>古賀、塚谷、湯村の3名でMaker Faire Tokyo2018のプレゼンテーションや展示、メイカーパレードなどの振り返りをしました。</itunes:subtitle>
+      <itunes:duration>1:08:39</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/025.mp3" type="audio/mpeg" length="82390751" />
+    </item>
     
     <item>
       <title>024「Maker Faire Tokyo 2018 直前特集」古賀 由希子＆湯村 翼＆塚谷 浩司</title>

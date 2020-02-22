@@ -4,7 +4,7 @@
     <title>品モノラジオ</title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2020-02-22T23:47:07+09:00</updated>
+    <updated>2020-02-23T00:37:13+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,47 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>027「1年間のメイカーイベントふりかえり」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;1年間で開催されたMaker FaireやNTなどのメイカーイベントについて振り返りました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/ajimitei/items/577787edbafca4f8d2e8&quot;&gt;メイカー向け国内展示イベント一覧 - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/mfk2019/&quot;&gt;Maker Faire Kyoto 2019 - Make: Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E5%BA%83%E5%B3%B62019&quot;&gt;NT広島2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E7%86%8A%E6%9C%AC2019&quot;&gt;NT熊本2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E4%BA%AC%E9%83%BD2019&quot;&gt;NT京都2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E6%9C%AD%E5%B9%8C2019&quot;&gt;NT札幌2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/blog/2019/08/mft2019_report_01.html&quot;&gt;Maker Faire Tokyo 2019レポート #1｜自宅のリビングで作った「粒子加速器」に度肝を抜かれる&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2019/m0184/&quot;&gt;IoT Rice Cooker | Maker Faire Tokyo 2019 - Make: Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/mft2019/program/feature/&quot;&gt;特別企画 | Maker Faire Tokyo 2019 | Make: Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://dailyportalz.jp/kiji/everyone-feels-hacker&quot;&gt;誰でもハッカー気分になれるプログラム :: デイリーポータルZ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1373056&quot;&gt;#NT金沢 2019開催当日タグまとめ - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://igfaire.office-kuma.com/&quot;&gt;伊勢ギークフェア&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/mct2019/&quot;&gt;Mini MakerCon Tokyo 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/blog/2020/01/sendaimmf2020.html&quot;&gt;Sendai Micro Maker Faire 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://tmmf.jp/2020/&quot;&gt;Tsukuba Mini Maker Faire 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1425638&quot;&gt;「Mini MakerCon Tokyo 2019」関連ツイートまとめ #MMFS2019 - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/blog/2019/09/mmfs2019.html&quot;&gt;「Maker Faireを持続可能にするには？」セッションレポート、そして議論の今後の展開について #MMFS2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://bb2019.digitalthailandbigbang.com/en&quot;&gt;Digital Thailand Big Bang 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://no-maps.jp/&quot;&gt;NoMaps | Sapporo Creative Convention&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/9eMTVAelDho&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2019/11/03/027/"/>
+      <pubDate>Sun, 03 Nov 2019 20:00:00 +0900</pubDate>
+      <updated>2019-11-03T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2019/11/03/027</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>1年間で開催されたMaker FaireやNTなどのメイカーイベントについて振り返りました。</itunes:summary>
+      <itunes:subtitle>1年間で開催されたMaker FaireやNTなどのメイカーイベントについて振り返りました。</itunes:subtitle>
+      <itunes:duration>1:25:03</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/027.mp3" type="audio/mpeg" length="102055730" />
+    </item>
     
     <item>
       <title>026「Maker Faire Taipei 2018 参加報告」湯村 翼＆塚谷 浩司</title>

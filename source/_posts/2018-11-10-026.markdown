@@ -1,0 +1,20 @@
+---
+layout: post
+title: "026「Maker Faire Taipei 2018 参加報告」湯村 翼＆塚谷 浩司"
+date: 2018-11-10 20:00:00 +0900
+comments: true
+categories:
+audio-src: https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/026.mp3
+audio-length: 88197771
+audio-duration: "1:13:30"
+description: Maker Faire Taipei 2018の振り返りをしました。
+---
+Maker Faire Taipei 2018の振り返りをしました。
+
+- [Maker Faire Taipei 2018](https://taipei.makerfaire.com/2018/)
+- [NTtaipei2018](http://wiki.nicotech.jp/nico_tech/index.php?NTtaipei2018)
+- [【編集歓迎】NT台北 (Maker Faire Taipei 2018) まとめ #NTTaipei #NT台北 - Togetter](https://togetter.com/li/1285266)
+- [華山1914創意文化園區](https://www.huashan1914.com/w/huashan1914/index)
+- [松江自助火鍋城](https://tabelog.com/taiwan/A5403/A540309/54001467/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3d9CRj6h7pc" frameborder="0" allowfullscreen></iframe>

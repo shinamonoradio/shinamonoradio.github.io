@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2020-02-23T00:37:13+09:00</updated>
+    <updated>2020-02-24T16:22:27+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,51 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>028「Maker Faire Shenzhen 2019 参加報告」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;Maker Faire Shenzhen 2019とニコ技深圳観察会について振り返りました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.shenzhenmakerfaire.com/2019/11/15/maker-faire-shenzhen-2019-recap/&quot;&gt;Maker Faire Shenzhen 2019 Recap!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1428228&quot;&gt;Maker Faire Shenzhen 2019 ツイートまとめ Tweet Summary 推文摘要 #MFSZ19 - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.shenzhenmakerfaire.com/2019/10/24/%e4%bb%80%e4%b9%88%ef%bc%9f%e8%bf%98%e6%9c%89%e4%bc%9a%e5%96%b7%e7%81%ab%e7%9a%84%e5%b8%bd%e5%ad%90%ef%bc%9f/&quot;&gt;什么？还有会喷火的帽子？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.shenzhenmakerfaire.com/2019/11/06/%e5%be%97%e6%8d%b7%e7%94%b5%e5%ad%90%e4%b8%8e%e7%9f%bd%e9%80%92%e7%a7%91%e6%8a%80%e5%90%88%e4%bd%9c%e6%8e%a8%e5%87%ba%e7%94%a8%e4%ba%8e-seeeduino-lotus-%e7%9a%84-grove-%e5%85%a5%e9%97%a8%e5%a5%97/&quot;&gt;得捷电子与矽递科技合作推出用于 Seeeduino Lotus 的 Grove 入门套件&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://iotlt.connpass.com/event/154920/&quot;&gt;IoTLT in Shenzhen vol.5 (海外版IoT縛りの勉強会/IoT的研究会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.shenzhenmakerfaire.com/2019/11/14/winners-of-maker-faire-shenzhen-2019s-blue-ribbons/&quot;&gt;Winners of Maker Faire Shenzhen 2019’s Blue Ribbons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1429641&quot;&gt;ニコ技深圳観察会 第9回 Worldsemi編(2019年11月)ツイートまとめ #ニコ技深圳 #ニコ技深セン - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.shenzhen-fan.com/2019-11-nico-tech-community-factory-tour/&quot;&gt;【ニコ技深圳観察会】今回は東莞へ！世界最先端のLED工場「WorldSemi」／「AQS」／PCB基板「KING CREDIE」社など見学ツアー！(11/11) | 日本人のための深セン情報サイト Shenzhen Fan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.world-semi.com/&quot;&gt;Worldsemi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://aqs-inc.com/&quot;&gt;AQS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.kingcredie.com/&quot;&gt;KINGCREDIT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.jenesis.jp/&quot;&gt;株式会社ジェネシスホールディングス | JENESIS HOLDINGS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wired.jp/waia/2019/13_junichi-fujioka/&quot;&gt;深圳という「母なる大地」で闘い続ける。 そのために、マイクはステージに置いてきた。──藤岡淳一｜WIRED.jp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.shenzhen-fan.com/&quot;&gt;日本人のための深セン情報サイト Shenzhen Fan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/11/04/alipay-tour-pass/&quot;&gt;AlipayがTour Passで外国人に優しい仕様へ。中国へ行くなら必須のキャッシュレス決済サービスに進化 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/ntshenzhen/&quot;&gt;Nico-Tech Shenzhen (ニコ技深圳コミュニティ)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://voicetra.nict.go.jp/&quot;&gt;VoiceTra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1_Qyec6C4oafei6h0bUT6mUDhizwqsRDBkmIKFrll6-Y/edit&quot;&gt;行ったことある海外Maker Faireリスト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.nicotech.jp/nico_tech/index.php?NT%E6%9C%AD%E5%B9%8C2019&quot;&gt;NT札幌2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://open.spotify.com/show/24caH0544rCbz01lu1NfWF&quot;&gt;AKIあきラジオ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/YmodeP/items/b29bba04921601a392ce&quot;&gt;メイカー・モノづくり系の国内webラジオ一覧 - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://rebuild.fm/&quot;&gt;Rebuild&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://backspace.fm/&quot;&gt;backspace.fm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JRMcIeU51iA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2019/11/16/028/"/>
+      <pubDate>Sat, 16 Nov 2019 20:00:00 +0900</pubDate>
+      <updated>2019-11-16T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2019/11/16/028</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Maker Faire Shenzhen 2019とニコ技深圳観察会について振り返りました。</itunes:summary>
+      <itunes:subtitle>Maker Faire Shenzhen 2019とニコ技深圳観察会について振り返りました。</itunes:subtitle>
+      <itunes:duration>1:26:25</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/028.mp3" type="audio/mpeg" length="103695698" />
+    </item>
     
     <item>
       <title>027「1年間のメイカーイベントふりかえり」湯村 翼＆塚谷 浩司</title>

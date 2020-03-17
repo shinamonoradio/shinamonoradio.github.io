@@ -1,0 +1,36 @@
+---
+layout: post
+title: "029「NT札幌2019 開催報告など」湯村 翼＆塚谷 浩司"
+date: 2019-12-21 20:00:00 +0900
+comments: true
+categories:
+audio-src: https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/029.mp3
+audio-length: 85680090
+audio-duration: "1:11:24"
+description: NT札幌2019とFESTA2019とGUGEN2019について振り返りました。
+---
+NT札幌2019とFESTA2019とGUGEN2019について振り返りました。
+
+- [NT札幌2019](http://wiki.nicotech.jp/nico_tech/index.php?NT%E6%9C%AD%E5%B9%8C2019)
+- [【12/01開催】NT札幌2019ツイートまとめ（準備編） #NT札幌 - Togetter](https://togetter.com/li/1432103)
+- [NT札幌2019 前夜祭 ツイートまとめ #NT札幌 - Togetter](https://togetter.com/li/1437260)
+- [NT札幌2019ツイートまとめ（当日編） #NT札幌 - Togetter](https://togetter.com/li/1437656)
+- [NHK札幌放送局 | 草の根ハイテク大集合! web](https://www.nhk.or.jp/sapporo/articles/slug-n5e58c775c839)
+- [LOCAL | Leading Organization of Community Activity for LOCAL](https://www.local.or.jp/)
+- [Web×IoTメイカーズチャレンジ](https://webiotmakers.github.io/)
+- [AI自律動作ロボットカーを走らせよう EZO（い～ぞ～）（jetbot & Donkey Car）](https://www.facebook.com/groups/351316242393961/)
+- [ラソラ札幌](https://rasora-sapporo.com/)
+- [FESTA 2019 by MA #MA_FESTA](https://mashupawards.connpass.com/event/153006/)
+- [GUGEN](https://gugen.jp/)
+- [Makerコンテスト「GUGEN 2019」、大賞は法政大学生による家庭用発電機「Planter」 | fabcross](https://fabcross.jp/news/2019/20191209_gugen.html)
+- [インタラクティブお葬式 - Gugen -「未来のふつう」を具現化しよう](http://arch.gugen.jp/contest2013/entry/023/)
+- [浮く全自動ルービックキューブ - Gugen](https://gugen.jp/entry2019/2019-030)
+- [電 - 磁器 DENJIKI 陶磁器を電子回路にするプロジェクト - Gugen](https://gugen.jp/entry2019/2019-023)
+- [NT加賀2019](http://wiki.nicotech.jp/nico_tech/index.php?NT%E5%8A%A0%E8%B3%802019)
+- [NT加賀2019ツイートまとめ #NT加賀 - Togetter](https://togetter.com/li/1442843)
+- [JAPAN PODCAST AWARDS | ジャパンポッドキャストアワード](https://www.japanpodcastawards.com/)
+- [(ありそうでなかった) おうちハックIoTLT vol.1 - connpass](https://iotlt.connpass.com/event/159789/)
+- [IoTLT vol59 - モノづくりコミュニティ新年会 2020 - connpass](https://iotlt.connpass.com/event/156736/)
+- [Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RFNf-LYY3Pg" frameborder="0" allowfullscreen></iframe>

@@ -1,0 +1,32 @@
+---
+layout: post
+title: "030「Tsukuba Mini Maker Faire 2020参加報告など」田中 章愛＆湯村 翼＆塚谷 浩司"
+date: 2020-02-24 17:00:00 +0900
+comments: true
+categories:
+audio-src: https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/030.mp3
+audio-length: 73829380
+audio-duration: "1:01:31"
+description: Tsukuba Mini Maker Faire 2020の振り返りとオンラインイベントについて話しました。
+---
+Tsukuba Mini Maker Faire 2020の振り返りとオンラインイベントについて話しました。
+
+- [Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020/)
+- [Tsukuba Mini Maker Faire 2020 ツイートまとめ(ハッシュタグ付き全部入り) #TMMF2020 - Togetter](https://togetter.com/li/1469530)
+- [武蔵小山咖喱 - Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020/?portfolio=%e6%ad%a6%e8%94%b5%e5%b0%8f%e5%b1%b1%e5%92%96%e5%96%b1)
+- [toio™で作ってみた！友の会 - Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020/?portfolio=toio%e3%81%a7%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f%ef%bc%81%e5%8f%8b%e3%81%ae%e4%bc%9a)
+- [全自動ルービックキューブ - Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020/?portfolio=%e8%95%aa%e6%9c%a8%e3%80%80%e5%ad%9d)
+- [物質材料研究機構ナノフロンティア材料グループ - Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020/?portfolio=%e7%89%a9%e8%b3%aa%e6%9d%90%e6%96%99%e7%a0%94%e7%a9%b6%e6%a9%9f%e6%a7%8b%e3%83%8a%e3%83%8e%e3%83%95%e3%83%ad%e3%83%b3%e3%83%86%e3%82%a3%e3%82%a2%e6%9d%90%e6%96%99%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97)
+- [明和電機 - Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020/?portfolio=%e6%98%8e%e5%92%8c%e9%9b%bb%e6%a9%9f)
+- [長谷川良平，跡部悠未 - Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020/?portfolio=%e9%95%b7%e8%b0%b7%e5%b7%9d%e8%89%af%e5%b9%b3%ef%bc%8c%e8%b7%a1%e9%83%a8%e6%82%a0%e6%9c%aa)
+- [蛭子 綾花，青砥 隆仁，髙谷 剛志 - Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020/?portfolio=%e8%9b%ad%e5%ad%90-%e7%b6%be%e8%8a%b1%ef%bc%8c%e9%9d%92%e7%a0%a5-%e9%9a%86%e4%bb%81%ef%bc%8c%e9%ab%99%e8%b0%b7-%e5%89%9b%e5%bf%97)
+- [MaSiRoプロジェクト - Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020/?portfolio=masiro%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88)
+- [MOBIUM - Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020/?portfolio=mobium)
+- [necobit（ねこびっと） - Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020/?portfolio=necobit%ef%bc%88%e3%81%ad%e3%81%93%e3%81%b3%e3%81%a3%e3%81%a8%ef%bc%89)
+- [パンタグラフ - Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020/?portfolio=%e3%83%91%e3%83%b3%e3%82%bf%e3%82%b0%e3%83%a9%e3%83%95)
+- [タニウラ トモフミ（ゲームボーイ） - Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020/?portfolio=%e3%82%bf%e3%83%8b%e3%82%a6%e3%83%a9-%e3%83%88%e3%83%a2%e3%83%95%e3%83%9f)
+- [NT京都2020](http://wiki.nicotech.jp/nico_tech/index.php?NT%E4%BA%AC%E9%83%BD2020)
+- [【リスナー歓迎】テック系ポッドキャスト勉強会 Vol.1](https://techpodcast.connpass.com/event/165060/)
+- [技術書典8](https://techbookfest.org/event/tbf08)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N4Peql4u4Q0" frameborder="0" allowfullscreen></iframe>

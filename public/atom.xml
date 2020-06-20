@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2020-03-17T21:59:48+09:00</updated>
+    <updated>2020-06-20T22:31:31+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,231 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>037「ハッカソンとその先」古川 信行＆湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;古川信行(&lt;a href=&quot;https://twitter.com/t_furu&quot;&gt;@t_furu&lt;/a&gt;)さんをゲストに迎え、ハッカソン、鹿児島ファブスペースTUKUDDO、こねくてぃっどどーる、アバター作成などの話をしました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://note.com/akiaki_radio&quot;&gt;AKIあきラジオ - AKIBAからお送りする空き時間にやるラジオ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gatebox.ai/&quot;&gt;Gatebox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://os.mbed.com/teams/mbed-fest/&quot;&gt;mbed祭り&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.tbs.co.jp/tv_hack_day/&quot;&gt;TBS TV HACKDAY&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://tukuddo.com/&quot;&gt;TUKUDDO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://robotstart.info/2020/04/10/s-gate-proto.html&quot;&gt;Gateboxが在宅勤務応援デバイス「/Gate」(スラッシュゲート)の試作機を公開　予定時間やSlackのメッセージなど読み上げ | ロボスタ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/ConnectedDoll&quot;&gt;こねくてぃっどどーる @ConnectedDoll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://picrew.me/image_maker/186583&quot;&gt;あの子がこっちを見ている&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://skeb.jp/&quot;&gt;Skeb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fantia.jp/posts/163750&quot;&gt;セシルちゃんファンクラブ (スズキセシル)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://luppetcafe.com/&quot;&gt;Luppet Cafe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.netduetto.net/&quot;&gt;NETDUETTO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.yamaha.com/ja/news_release/2020/20051801/&quot;&gt;ヤマハ、ジュビロ磐田と清水エスパルスの協力のもと、リモート応援システムの実証実験をエコパスタジアムで実施&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://robotstart.info/2020/06/18/pepper-softbank-hawkss.html&quot;&gt;プロ野球公式戦 ホークスの試合を人型ロボット「Pepper」が盛り上げる！ホームランは「熱男ポーズ」を披露｜ロボスタ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nreal.ai/&quot;&gt;Nreal Light&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://real.gikenbase.com/&quot;&gt;技研ベース&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://instacoard01.peatix.com/&quot;&gt;6/25 #インスタコード 開発者が語る「新しい楽器はなぜ、どうやってできたか」（オンライン）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://kibidango.com/1362&quot;&gt;InstaChord：インスタコード 〜演奏する楽しさを全ての方に〜 - kibidango&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://j.nicotech.jp/ntkanazawa2020&quot;&gt;NT金沢2020カタログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/events/710158276430186&quot;&gt;6/27 夜のNT金沢2020オンライン&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://cluster.mu/w/6dd5d1ac-6309-4ae3-a24b-48febe4bf732&quot;&gt;バーチャルもてなしドーム 地下イベント広場 | バーチャルSNS cluster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://bunkai04.peatix.com/&quot;&gt;6/27 #分解のススメ 第4回 (オンライン) 楽器分解/サーキットベンディング編&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1545951&quot;&gt;#分解のススメ 第3回 メカ/プロダクトデザイン #観察スケッチ 編 twitterまとめ - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/4798619183/&quot;&gt;気になるモノを描いて楽しむ 観察スケッチ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://devrel.connpass.com/event/178456/&quot;&gt;7/1 DevRel Meetup in Tokyo #53 〜オンライン・ハッカソン〜&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kbn2_MzUcME&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2020/06/20/037/"/>
+      <pubDate>Sat, 20 Jun 2020 20:00:00 +0900</pubDate>
+      <updated>2020-06-20T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2020/06/20/037</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>古川信行(@t_furu)さんをゲストに迎え、ハッカソン、鹿児島ファブスペースTUKUDDO、こねくてぃっどどーる、アバター作成などの話をしました。</itunes:summary>
+      <itunes:subtitle>古川信行(@t_furu)さんをゲストに迎え、ハッカソン、鹿児島ファブスペースTUKUDDO、こねくてぃっどどーる、アバター作成などの話をしました。</itunes:subtitle>
+      <itunes:duration>1:23:20</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/037.mp3" type="audio/mpeg" length="100003049" />
+    </item>
+    
+    <item>
+      <title>036「最近のオンラインイベントについて」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;Virtually Maker Faire、オンラインハッカソン、メイカー系YouTuber、最近のイベントなどの話をしました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/blog/2020/05/announcing-virtually-maker-faire.html&quot;&gt;全世界のメイカーが参加する24時間の「Virtually Maker Faire」5月23日開催のお知らせ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLwhkA66li5vDXM89Meptx7JiMCN_eYK-A&quot;&gt;Virtually Maker Faire - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UGnUSrGG63Y&quot;&gt;Virtual Maker Faire - Maker Faire Kyoto 2020 Online and COVID-19 Makers Forum JPDetectors
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/mft2020/&quot;&gt;Maker Faire Tokyo 2020 | Make: Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/ecosystembymakers/bunkai01-249ee7f3b9e6&quot;&gt;イベント:分解のススメ 第1回 録画＆資料アーカイブ #分解のススメ - ニコ技深センコミュニティ Nico-Tech Shenzhen 深圳 - Medium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/477752101X&quot;&gt;「100円ショップ」のガジェットを分解してみる!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://covid19.spaceappschallenge.org/&quot;&gt;SpaceApps COVID-19 Challenge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sorabatake.jp/12514/&quot;&gt;宇宙データでCOVID-19に立ち向かえ！SpaceApps COVID-19 Challenge開催のお知らせ - 宙畑&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=2p7u8M_viJw&quot;&gt;SpaceApps COVID-19 Challenge 日本発表会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ascii.jp/elem/000/004/015/4015561/&quot;&gt;ASCII.jp：オンラインハッカソンをやりたい&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/oic0310/onlinehackathon-pickingupfallenears&quot;&gt;オンラインハッカソン落穂拾い&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://devrel.connpass.com/event/178456/&quot;&gt;DevRel Meetup in Tokyo #53 〜オンライン・ハッカソン〜&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC9aT5s4VFKwIEpW3slig_5w&quot;&gt;トボリの電子工作チャンネル - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCsOQ8NbS2hCLNb2j6YYJRwA&quot;&gt;熊五郎お兄さんのDIY - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/mudadukuri&quot;&gt;無駄づくり / MUDAzukuri - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://bunkai02.peatix.com/view&quot;&gt;#分解のススメ (オンライン）第2回 テカナリエ清水洋治代表 講演&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://bunkai03.peatix.com/view&quot;&gt;#分解のススメ 第3回 オンライン メカ/プロダクトデザイン #観察スケッチ 編&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://j.nicotech.jp/ntkanazawa2020&quot;&gt;NT金沢2020カタログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protoout.connpass.com/event/178376/&quot;&gt;【ランチ開催！】リモートワークハックLT - vol.3 #remoteworkhack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rpqGJfln_4Y&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2020/06/06/036/"/>
+      <pubDate>Sat, 06 Jun 2020 20:00:00 +0900</pubDate>
+      <updated>2020-06-06T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2020/06/06/036</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Virtually Maker Faire、オンラインハッカソン、メイカー系YouTuber、最近のイベントなどの話をしました。</itunes:summary>
+      <itunes:subtitle>Virtually Maker Faire、オンラインハッカソン、メイカー系YouTuber、最近のイベントなどの話をしました。</itunes:subtitle>
+      <itunes:duration>1:01:54</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/036.mp3" type="audio/mpeg" length="74282886" />
+    </item>
+    
+    <item>
+      <title>035「カサネタリウム10周年」堀 洋祐＆湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;堀洋祐 &lt;a href=&quot;https://twitter.com/kasanetarium&quot;&gt;@kasanetarium&lt;/a&gt; さんをゲストに迎え、カサナビ、Heartbeat in the bulb、化ける！きつね面、メイカーになったきっかけ、デジタル・スタジアムなどの話をしました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://kasanetarium.web.fc2.com/&quot;&gt;カサネタリウム KASANETARIUM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://sendai21-independants.com/&quot;&gt;せんだい21アンデパンダン展&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/hashtag/%E3%82%AB%E3%82%B5%E3%83%8D%E3%82%BF10th?src=hashtag_click&amp;amp;f=live&quot;&gt;#カサネタ10th&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009040358_00000&quot;&gt;デジタル・スタジアム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0&quot;&gt;デジタル・スタジアム - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://suzukitaro.jp/?page_id=466&quot;&gt;青の軌跡&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://uda.la/&quot;&gt;電子楽器ウダー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://directions.jp/company/news/actalk_01/&quot;&gt;AC部と語る20年〜知られざる黎明期〜&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/blog/2011/12/mtm07.html&quot;&gt;Make: Tokyo Meeting 07&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://motorcycle-journey.net/wordpress/?p=5491&quot;&gt;赤い球体の乗り物 / 「Make: Tokyo Meeting 07」に行ってきた（後編　「ジャンル問わず系」 - スープかガソリンがなくなり次第閉店）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://gigazine.net/news/20070307_match_rocket/&quot;&gt;7m飛ぶマッチ棒ロケットの作り方と実際に飛ばしているムービー - GIGAZINE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nicovideo.jp/watch/sm28826507&quot;&gt;目的地の方向へ倒れるカサを作ってみました - ニコニコ動画&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1000681&quot;&gt;NT金沢2016ツイートまとめ #NT金沢 - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://higekita.wixsite.com/kilostar/blank-c29ui&quot;&gt;出張手作りプラネタリウム＆3D映像 - 工房ヒゲキタ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/takasu/ss-64113671&quot;&gt;ぼくとわたしとニコニコ技術部輸出プロジェクト - SlideShare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ymodep.booth.pm/items/1914526&quot;&gt;NTイベント10年史 2008-2018 ~無いものは作ろう &amp;ldquo;楽しい&quot;も作ろう~ [完全版]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.makercarnival.org/&quot;&gt;Maker Carnival Shanghai 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1419372&quot;&gt;MakerCarnival上海 2019まとめ - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.shenzhenmakerfaire.com/&quot;&gt;Maker Faire Shenzhen 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1428228&quot;&gt;Maker Faire Shenzhen 2019 ツイートまとめ Tweet Summary 推文摘要 #MFSZ19 - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/blog/2020/05/announcing-virtually-maker-faire.html&quot;&gt;全世界のメイカーが参加する24時間の「Virtually Maker Faire」5月23日開催のお知らせ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://bunkai.peatix.com/view&quot;&gt;分解のススメ (オンライン） #分解のススメ - Peatix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/477752101X&quot;&gt;「100円ショップ」のガジェットを分解してみる!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://covid19.spaceappschallenge.org/&quot;&gt;SpaceApps COVID-19 Challenge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://spaceappsjapan.connpass.com/event/175731/&quot;&gt;SpaceApps COVID-19 Challenge地球観測衛星データWebセミナー - connpass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/mft2020/&quot;&gt;Maker Faire Tokyo 2020 | Make: Japan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6ThTM4o1E2o&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2020/05/16/035/"/>
+      <pubDate>Sat, 16 May 2020 20:00:00 +0900</pubDate>
+      <updated>2020-05-16T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2020/05/16/035</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>堀洋祐 @kasanetarium さんをゲストに迎え、カサナビ、Heartbeat in the bulb、化ける！きつね面、メイカーになったきっかけ、デジタル・スタジアムなどの話をしました。</itunes:summary>
+      <itunes:subtitle>堀洋祐 @kasanetarium さんをゲストに迎え、カサナビ、Heartbeat in the bulb、化ける！きつね面、メイカーになったきっかけ、デジタル・スタジアムなどの話をしました。</itunes:subtitle>
+      <itunes:duration>1:23:00</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/035.mp3" type="audio/mpeg" length="99601808" />
+    </item>
+    
+    <item>
+      <title>034「Maker Faire Kyoto Online、趣味TECH祭2020」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;Maker Faire Kyoto Online、趣味TECH祭2020などの話をしました&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/uZjh9xgRbp8&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2020/05/03/034/"/>
+      <pubDate>Sun, 03 May 2020 20:00:00 +0900</pubDate>
+      <updated>2020-05-03T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2020/05/03/034</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Maker Faire Kyoto Online、趣味TECH祭2020などの話をしました。</itunes:summary>
+      <itunes:subtitle>Maker Faire Kyoto Online、趣味TECH祭2020などの話をしました。</itunes:subtitle>
+      <itunes:duration>1:26:35</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/034.mp3" type="audio/mpeg" length="75410833" />
+    </item>
+    
+    <item>
+      <title>033「ロボットボールomicroと世界のMaker Faire」一瀬 卓也＆湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;一瀬卓也 &lt;a href=&quot;https://twitter.com/tichise&quot;&gt;@tichise&lt;/a&gt; さんをゲストに迎え、ロボットボールomicro、世界のMaker Faire、COVID-19によるイベントのオンライン化などの話をしました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/tichise/%E3%83%AD%E3%83%9C%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%AB-liveball%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F-7185b45f6e88&quot;&gt;ロボティックボール Omicroを作りました - HARDWARE IS HARD - Medium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/@tichise&quot;&gt;Takuya Ichise – Medium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/tichise/%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F-2020-2-%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AD%E3%83%B3%E3%82%B3%E3%83%B3%E5%A4%A7%E5%AD%A6%E3%83%96%E3%83%83%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A8maker-faire-bangkok-2020-7411f3ab1134&quot;&gt;バンコクに行ってきました 2020(2) / チュラロンコン大学ブックセンターとMaker Faire Bangkok 2020 - HARDWARE IS HARD - Medium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/tichise/manila/home&quot;&gt;マニラ - HARDWARE IS HARD - Medium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/tichise/europe/home&quot;&gt;北欧・中欧 - HARDWARE IS HARD - Medium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://tmmf.jp/2020/?portfolio=%E9%95%B7%E8%B0%B7%E5%B7%9D%E8%89%AF%E5%B9%B3%EF%BC%8C%E8%B7%A1%E9%83%A8%E6%82%A0%E6%9C%AA&quot;&gt;脳活動だけで操作するゲーム競技「ｂスポーツ」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://jins-meme.com/&quot;&gt;JINS MEME&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sphero.com/&quot;&gt;Sphero&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.switch-science.com/catalog/6212/&quot;&gt;UnitV AI Camera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remo.co/&quot;&gt;Remo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/blog/2020/04/mfkonline_show_and_tell.html&quot;&gt;Make: Japan |   「Maker Faire Kyoto Online」開催概要｜5月2日（土）11:00-16:00まで誰でも参加できるTwitterを使った作品発表を開催します！ #MFKyoto2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/blog/2020/04/mfk2020online_makers-jp-covid-19.html&quot;&gt;Make: Japan |   Maker Faire Kyoto 2020 online｜パネルディスカッション「COVID-19以降の世界にメイカーが貢献できること」を5月2日（土）に開催。議論に先駆けてSlackのワークスペースを公開します&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://join.slack.com/t/makers-jp-covid-19/shared_invite/zt-d8o251ck-Sn07dW5nftSzJr_wfDip8g&quot;&gt;COVID-19 Makers Forum JP Slack 【招待リンク】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/tichise/make%E3%81%A8%E3%81%84%E3%81%86discord-server%E3%82%92%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%9F-10399ff39870&quot;&gt;MakeというDiscord Serverを立ち上げた - HARDWARE IS HARD - Medium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://discord.gg/BXW4sGE&quot;&gt;Maker向けDiscord【招待リンク】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4zJ1C_YCn9U&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2020/04/11/033/"/>
+      <pubDate>Sat, 11 Apr 2020 20:00:00 +0900</pubDate>
+      <updated>2020-04-11T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2020/04/11/033</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>一瀬卓也 @tichise さんをゲストに迎え、ロボットボールomicro、世界のMaker Faire、COVID-19によるイベントのオンライン化などの話をしました。</itunes:summary>
+      <itunes:subtitle>一瀬卓也 @tichise さんをゲストに迎え、ロボットボールomicro、世界のMaker Faire、COVID-19によるイベントのオンライン化などの話をしました。</itunes:subtitle>
+      <itunes:duration>1:02:50</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/033.mp3" type="audio/mpeg" length="75410833" />
+    </item>
+    
+    <item>
+      <title>032「品モノラボ7周年公開収録 in cluster」田中 章愛＆古賀 由希子＆湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;品モノラボ7周年を記念して、バーチャルイベント空間clusterで公開収録をしました。品モノラボの振り返り、メイカーと量産、ポストメイカーズムーブメントなどの話をしました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://cluster.mu/e/c74e12d0-deb8-42bd-bdf3-93a96d12e575&quot;&gt;品モノラジオ 032 公開収録 in cluster【03/20(金)16:00〜】｜cluster（クラスター）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1483626&quot;&gt;品モノラジオ 032 公開収録 in cluster ツイートまとめ #品モノラジオ #clusterVR - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://shinamonolab.mystrikingly.com/&quot;&gt;品モノラボ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fabcross.jp/topics/community/20150401_daishinamonolab_01.html&quot;&gt;ものづくりのジャムセッション「大品モノラボ」に参加してきた | fabcross&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.ashita-lab.jp/special/5883/&quot;&gt;売り上げ個数100個達成！放課後活動で“趣味とビジネスの間”を学ぶ ──放課後ものづくりサークル「品モノラボ」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/akichika/items/4c282c638b38681050d9&quot;&gt;Arduinoを自作して量産して販売する(超小型Arduino互換機 8pinoを例に) - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://projectioncard.mystrikingly.com/&quot;&gt;PROJECTION CARD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://gugen.jp/entry2015/056&quot;&gt;プロジェクションカード - GUGEN2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://pr.nhk-book.co.jp/makers/book&quot;&gt;MAKERS ―21世紀の産業革命が始まる&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/books/9784873118840/&quot;&gt;メイカーとスタートアップのための量産入門 - O&#39;Reilly Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://j.nicotech.jp/ntkyoto2020&quot;&gt;NT京都2020(実質)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/RNBHiKbF6SA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2020/03/20/032/"/>
+      <pubDate>Fri, 20 Mar 2020 16:00:00 +0900</pubDate>
+      <updated>2020-03-20T16:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2020/03/20/032</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>品モノラボ7周年を記念して、バーチャルイベント空間clusterで公開収録をしました。品モノラボの振り返り、メイカーと量産、ポストメイカーズムーブメントなどの話をしました。</itunes:summary>
+      <itunes:subtitle>品モノラボ7周年を記念して、バーチャルイベント空間clusterで公開収録をしました。品モノラボの振り返り、メイカーと量産、ポストメイカーズムーブメントなどの話をしました。</itunes:subtitle>
+      <itunes:duration>1:08:40</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/032.mp3" type="audio/mpeg" length="82402767" />
+    </item>
     
     <item>
       <title>031「前骨格と鈴木さん」鈴木 宏明＆湯村 翼＆塚谷 浩司</title>

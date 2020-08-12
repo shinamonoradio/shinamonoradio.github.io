@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2020-07-26T12:13:25+09:00</updated>
+    <updated>2020-08-12T15:31:28+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,53 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>039「プロトタイプシティ出版記念」高須 正和＆湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;高須正和(&lt;a href=&quot;https://twitter.com/tks&quot;&gt;@tks&lt;/a&gt;)さんをゲストに迎え、書籍『プロトタイプシティ』、早稲田大学ビジネススクール、分解のススメなどの話をしました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tZRlNwK0fFM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1575068&quot;&gt;ツイートまとめ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/ecosystembymakers/about-e306f96168b8&quot;&gt;ニコ技深圳コミュニティとは&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/ntshenzhen/&quot;&gt;Nico-Tech Shenzhen (ニコ技深圳コミュニティ)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://amzn.to/2XMXYbl&quot;&gt;プロトタイプシティ 深圳と世界的イノベーション&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://amzn.to/2XSpVyk&quot;&gt;メイカーズのエコシステム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://amzn.to/3afJmX3&quot;&gt;ハードウェアハッカー ~新しいモノをつくる破壊と創造の冒険&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://amzn.to/2XQNcAX&quot;&gt;メイカーとスタートアップのための量産入門 ―200万円、1500個からはじめる少量生産のすべて&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://amzn.to/3kEptxm&quot;&gt;MAKERS 21世紀の産業革命が始まる&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://geekles.net/app/140621-enjoy-yo&quot;&gt;「Yo」と送り合うだけのコミュニケーションアプリ「Yo」の使い方・楽しみ方 | Geekles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.sankeibiz.jp/special/jidai/contents/0005/001.html&quot;&gt;「自由と寛容と合理性」SankeiBiz（サンケイビズ）：時代の人　チームラボ　代表　猪子寿之氏　インタビュー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://lne.st/philosophy/principle/qpmi/&quot;&gt;QPMIサイクル | リバネス&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://amzn.to/2XTIEd0&quot;&gt;世界を変えるビジネスは、たった1人の「熱」から生まれる。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.garage-sumida.jp/&quot;&gt;Garage Sumida（ガレージスミダ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/blog/2014/06/white-house-maker-faire-fact-sheet-has-been-released.html&quot;&gt;White House Maker Faire概況報告書（抄訳）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.livedoor.jp/blackcode/archives/doctorow-makers-japanese-epub.html&quot;&gt;コリイ・ドクトロウ「メイカーズ」のEpubファイル、Kindle用ファイルを公開&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://note.com/takasu/n/nb4213f8b9f00&quot;&gt;イベント録画：PISA上位国の日本・中国（上海）・シンガポール・フィンランド・カナダを回って教育比較した「日本の15歳はなぜ学力が高いのか？」本 の実際のところをそれぞれの国で子育てしてる人が話す&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://note.com/takasu/n/nd9f7cd415ef8?magazine_key=mf8f5a3fa4fa8&quot;&gt;網羅的で読みやすい必読本。「教養としてのコンピュータサイエンス講義」カーニハン&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://note.com/takasu/n/n00cc1ee9a9eb&quot;&gt;毎週火曜日オープンオフィス始めます。誰でも申し込みできます。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://loandeal.jp/&quot;&gt;LoanDEAL | 企業間レンタル移籍プラットフォーム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://prototypecity04.peatix.com/&quot;&gt;「ハードウェアの聖地」深センの秘密 #プロトタイプシティ 出版記念トーク 藤岡淳一 JENESIS CEO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://prototypecity05.peatix.com/&quot;&gt;プロトタイプシティ成立の条件 #プロトタイプシティ 出版記念トーク 山形浩生 @hiyori13&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://newscast.jp/news/040508&quot;&gt;『M5Stack Japan Creativity Contest 2020』開催決定、応募は2020年9月23日まで&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/ecosystembymakers/bunkai02-8e86a9349b48&quot;&gt;イベント録画 #分解のススメ 第2回 テカナリエ清水洋治代表 講演 「見て考えるべし 見てない人は妄想が多い」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://bunkai05.peatix.com/&quot;&gt;#分解のススメ (オンライン）第5回 秋田純一先生 @akita11 トーク 新刊：揚げて炙ってわかるコンピュータのしくみ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/ecosystembymakers/bunkai01-249ee7f3b9e6&quot;&gt;イベント:分解のススメ 第1回 録画＆資料アーカイブ #分解のススメ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2020/08/09/039/"/>
+      <pubDate>Sun, 09 Aug 2020 20:00:00 +0900</pubDate>
+      <updated>2020-08-09T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2020/08/09/039</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>高須正和(@tks)さんをゲストに迎え、書籍『プロトタイプシティ』、早稲田大学ビジネススクール、分解のススメなどの話をしました。</itunes:summary>
+      <itunes:subtitle>高須正和(@tks)さんをゲストに迎え、書籍『プロトタイプシティ』、早稲田大学ビジネススクール、分解のススメなどの話をしました。</itunes:subtitle>
+      <itunes:duration>1:37:48</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/039.mp3" type="audio/mpeg" length="117362461" />
+    </item>
     
     <item>
       <title>038「自分の作品の話」湯村 翼＆塚谷 浩司</title>

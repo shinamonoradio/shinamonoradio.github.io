@@ -4,7 +4,7 @@
     <title>品モノラジオ</title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2020-08-12T15:31:28+09:00</updated>
+    <updated>2020-09-13T21:52:57+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,57 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>041 「NT金沢mini@まるびぃ」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt; NT金沢mini@まるびぃの話をしました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/skrjaaKVhrc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2020/09/13/041/"/>
+      <pubDate>Sun, 13 Sep 2020 20:00:00 +0900</pubDate>
+      <updated>2020-09-13T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2020/09/13/041</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>NT金沢mini@まるびぃの話をしました。</itunes:summary>
+      <itunes:subtitle>NT金沢mini@まるびぃの話をしました。</itunes:subtitle>
+      <itunes:duration>1:13:12</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/041.mp3" type="audio/mpeg" length="87842004" />
+    </item>
+    
+    <item>
+      <title>040 水落 大＆湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;水落大(&lt;a href=&quot;https://twitter.com/_mizumasa&quot;&gt;@_mizumasa&lt;/a&gt;)さんをゲストに迎え、CharActor、AIQue、劇団ノーミーツ、クリエイターとしての作品の　などの話をしました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ScFw3JrO9E4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://mizumasa.net/&quot;&gt;ポートフォリオ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mizumasa.net/work25charactor.html&quot;&gt;映像立体作品「CharActor」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.sxsw.com/news/2019/finalists-announced-for-the-2020-sxsw-art-program/&quot;&gt;SXSW Art Program「CharActor」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mizumasa.net/work22aique.html&quot;&gt;スマートスピーカーへの問いを考えるゲーム作品「AIQue」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.kenpoku-arthackday.com/prize&quot;&gt;KENPOKU ArtHackDay&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://tap-board.nezihiko.com/&quot;&gt;ArtHackDay 「Sound of Tap Board」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://web-media.blue-puddle.com/degradation/&quot;&gt;佐藤ねじさん「みんながアクセスすると劣化する記事」&lt;/a&gt; - &lt;a href=&quot;http://product.blue-puddle.com/product/honnoji/&quot;&gt;「本能寺ストーブ」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://note.com/toyoshimorioka/n/nc272e30d5af6&quot;&gt;BASSDRUM 森岡さんのプロトタイプの重要性についての体験ブログ「エンジニア的ものづくりの成功イメージについて」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://tokyolanternfestival.jp/&quot;&gt;東京行燈祭&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://computervisionart.com/2018/&quot;&gt;ECCV Computer Vision Art Gallery &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sa2019.siggraph.org/attend/art-gallery/session/2&quot;&gt;SIGGRAPH Asia Art Gallery&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2020/08/22/040/"/>
+      <pubDate>Sat, 22 Aug 2020 20:00:00 +0900</pubDate>
+      <updated>2020-08-22T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2020/08/22/040</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>水落大(@_mizumasa)さんをゲストに迎え、CharActor、AIQue、劇団ノーミーツ、クリエイターとしての作品制作などの話をしました。</itunes:summary>
+      <itunes:subtitle>水落大(@_mizumasa)さんをゲストに迎え、CharActor、AIQue、劇団ノーミーツ、クリエイターとしての作品制作などの話をしました。</itunes:subtitle>
+      <itunes:duration>1:59:55</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/040.mp3" type="audio/mpeg" length="143902347" />
+    </item>
     
     <item>
       <title>039「プロトタイプシティ出版記念」高須 正和＆湯村 翼＆塚谷 浩司</title>

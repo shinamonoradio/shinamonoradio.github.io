@@ -4,7 +4,7 @@
     <title>品モノラジオ</title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2020-09-13T21:52:57+09:00</updated>
+    <updated>2020-10-08T23:33:20+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,51 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>042 「Maker Faire Tokyo 2020 振り返り」古賀 由希子＆湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;Maker Faire Tokyo 2020 振り返りの話をしました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wD490VY6Guw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1605389&quot;&gt;品モノラジオ042「Maker Faire Tokyo 2020 振り返り」 #品モノラジオ #MFTokyo2020 - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1604429&quot;&gt;MakerFaireTokyo2020 オンサイト＆オンライン Twitterまとめ -Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/mft2020/&quot;&gt;Maker Faire Tokyo 2020 | Make: Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2020/m0179/&quot;&gt;品モノラボ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2020/m0090/&quot;&gt;ピアノ演奏可視化装置 “Bright Note” | West Gate Laboratory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2020/m0034/&quot;&gt;家族のためのモノづくり | おぎモトキ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2020/m0153/&quot;&gt;Diorama Shooting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2020/m0097/&quot;&gt;5指ロボットハンド | ぷらぎあ工房&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2020/m0127/&quot;&gt;ジャイアントハンド | マンモス屋&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2020/m0180/&quot;&gt;オートマオ | だんごシッポ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2020/m0122/&quot;&gt;気軽に作れる自宅粒子加速器 | 自宅粒子加速器愛好会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/blog/2019/08/mft2019_report_01.html&quot;&gt;Maker Faire Tokyo 2019レポート #1｜自宅のリビングで作った「粒子加速器」に度肝を抜かれる&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ugokukana.livedoor.blog/&quot;&gt;なるべく楽につくる自宅加速器　DIY particle accelerator even idot can make it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2020/m0057/&quot;&gt;AxeLatoon：学校で加速器を作っちゃおう | KEK加速器科学イノベーション推進室・SOKENDAI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2020/m0061/&quot;&gt;漆電脳繭玉「卯辰山のいきもの」 | 電子工作と漆&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2020/m0083/&quot;&gt;Canvas | ActPATH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2020/m0071/&quot;&gt;量子コンピュータで遊んでみよう | 新里 祐教&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2020/m0160/&quot;&gt;自動卓球返球ロボット | RobotTableTennisTeam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2020/m0050/&quot;&gt;外骨格恐竜 Exoskleleton Rex | ヒゲキタ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2020/m0084/&quot;&gt;お米の品種判定装置 | KETT AI 研究会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.nicotech.jp/nico_tech/index.php?NT%E5%90%8D%E5%8F%A4%E5%B1%8B2020&quot;&gt;NT名古屋2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.iamas.ac.jp/news/call-for-makers-2020/&quot;&gt;Ogaki Mini Maker Faire 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://igfaire.office-kuma.com/&quot;&gt;伊勢ギーク・フェア2020&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2020/10/08/042/"/>
+      <pubDate>Thu, 08 Oct 2020 21:00:00 +0900</pubDate>
+      <updated>2020-10-08T21:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2020/10/08/042</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Maker Faire Tokyo 2020 振り返りの話をしました。</itunes:summary>
+      <itunes:subtitle>Maker Faire Tokyo 2020 振り返りの話をしました。</itunes:subtitle>
+      <itunes:duration>1:17:26</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/042.mp3" type="audio/mpeg" length="92922821" />
+    </item>
     
     <item>
       <title>041 「NT金沢mini@まるびぃ」湯村 翼＆塚谷 浩司</title>

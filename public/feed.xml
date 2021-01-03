@@ -4,7 +4,7 @@
     <title>品モノラジオ</title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2020-10-08T23:33:20+09:00</updated>
+    <updated>2021-01-03T16:30:32+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,124 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>045 「NT札幌と2020年振り返り」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;NT札幌と2020年を振り返り、来年のメイカー活動の展望などについて話しました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NY8HtIJyP24&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1646304&quot;&gt;品モノラジオ 045「NT札幌、2020年振り返り」 #品モノラジオ - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mbs.jp/realmomotetsu/&quot;&gt;日本一周！リアル桃鉄 | MBS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://dailyportalz.jp/kiji/hebocon-online-announcement&quot;&gt;ヘボコン・オンライン6/７(日)開催！出場者募集中 :: デイリーポータルZ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/504210/SHENZHEN_IO/?l=japanese&quot;&gt;SHENZHEN I/O&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://j.nicotech.jp/ntsapporo2020&quot;&gt;NT札幌2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1642246&quot;&gt;NT札幌2020ツイートまとめ #NT札幌 - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://note.com/jun_vr/n/n66b6154dd491&quot;&gt;急にNT札幌2020に呼ばれたので｜jun｜note&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://siaflab.jp/project_ongoing/tulala/&quot;&gt;Bent Icicle Project - Tulala - / ツララボ | SIAFラボ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=k-S3ZRhGcJU&quot;&gt;奇妙な馬車 - A STRANGE CARRIAGE - ver.0.1-prototype - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://scienceportal.jst.go.jp/explore/reports/20201223_e01/&quot;&gt;オンラインで標本に触れる！？ 「未来の博物館」への挑戦 | Science Portal - 科学技術の最新情報サイト「サイエンスポータル」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://voicy.jp/&quot;&gt;Voicy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://stand.fm/&quot;&gt;stand.fm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ima.goo.ne.jp/column/article/9229.html&quot;&gt;僕のしょうもない人生を紹介します - いまトピ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://note.tsunku.net/n/n22972c7216d4&quot;&gt;凡人が、天才に勝つ方法。｜つんく♂&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://kenkawakenkenke.hateblo.jp/entry/2020/12/27/142622&quot;&gt;売り物に一度も手を触れずに作品販売するためのgraphic+STORES倉庫連携ガイド - 河本の実験室&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://omisoka-hackathon.connpass.com/event/199478/&quot;&gt;大晦日ハッカソン2020 - connpass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://vroid.com/neoket/&quot;&gt;オールジャンルオンライン同人誌即売会NEOKET&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2020/12/30/045/"/>
+      <pubDate>Wed, 30 Dec 2020 20:00:00 +0900</pubDate>
+      <updated>2020-12-30T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2020/12/30/045</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>NT札幌と2020年を振り返り、来年のメイカー活動の展望などについて話しました。</itunes:summary>
+      <itunes:subtitle>NT札幌と2020年を振り返り、来年のメイカー活動の展望などについて話しました。</itunes:subtitle>
+      <itunes:duration>2:26:16</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/045.mp3" type="audio/mpeg" length="175534540" />
+    </item>
+    
+    <item>
+      <title>044 「Ogaki Mini Maker Faire、ヒーローズリーグ、NT加賀2020振り返り」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;Ogaki Mini Maker Faire、ヒーローズリーグ、NT加賀2020を振り返りました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1UToCWzaMQM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1636274&quot;&gt;品モノラジオ 044「Ogaki Mini Maker Faire、ヒーローズリーグ、NT加賀振り返り」 #品モノラジオ #OMMF2020 #ヒーローズリーグ #NT加賀 - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.iamas.ac.jp/ommf2020/&quot;&gt;Ogaki Mini Maker Faire 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.iamas.ac.jp/ommf2020/maker/yugo-minomo/&quot;&gt;time in space, space in time, Yugo MINOMO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.iamas.ac.jp/ommf2020/maker/iamas-onkyo-lab/&quot;&gt;アロエベラシンセサイザー, 情報科学芸術大学院大学　音響表現研究室&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.iamas.ac.jp/ommf2020/maker/kyozai-jisakubu/&quot;&gt;Air-Bubble Clock, 教材自作部・スヌーズレン班&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/1940&quot;&gt;Glowing Air-Bubble Clock | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1mJRGDpg9ok&quot;&gt;都駅　水のアート　みやこみち - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.iamas.ac.jp/ommf2020/maker/kasanetarium/&quot;&gt;ミエナイトデンワ, カサネタリウム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://dailyportalz.jp/kiji/road-to-ommf2020-04&quot;&gt;時空の裂け目に飲まれたい〜大垣ミニメイカーフェアへの道 :: デイリーポータルZ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/PLANT&quot;&gt;PLANT - ウィキペディア&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://heroes-league.net/&quot;&gt;ヒーローズ・リーグオンライン2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2061&quot;&gt;Future Flicking KeyBoard | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/1983&quot;&gt;アルペンさん | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2014&quot;&gt;pcapバトラーZ | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2001&quot;&gt;リモートdeキー暴動？ | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/1968&quot;&gt;SpeechPlace | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2031&quot;&gt;29時間時計 | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2026&quot;&gt;X(r/n)os | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/1974&quot;&gt;めざせ！ハイドロポンパー | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/1973&quot;&gt;顔ホッケー | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ntkagateam.wixsite.com/ntkaga&quot;&gt;NT加賀2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://j.nicotech.jp/ntkaga2020&quot;&gt;NT加賀2020 - PukiWiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/yumu19/status/1337967291762233344&quot;&gt;no man&amp;rsquo;s world(second earth)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/1164&quot;&gt;フリフリ操作型の分身ロボットカー | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://igfaire2020.office-kuma.com/&quot;&gt;伊勢ギーク・フェア2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://j.nicotech.jp/ntsapporo2020&quot;&gt;NT札幌2020&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2020/12/13/044/"/>
+      <pubDate>Sun, 13 Dec 2020 20:00:00 +0900</pubDate>
+      <updated>2020-12-13T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2020/12/13/044</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Ogaki Mini Maker Faire、ヒーローズリーグ、NT加賀2020を振り返りました。</itunes:summary>
+      <itunes:subtitle>Ogaki Mini Maker Faire、ヒーローズリーグ、NT加賀2020を振り返りました。</itunes:subtitle>
+      <itunes:duration>1:43:36</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/044.mp3" type="audio/mpeg" length="124322525" />
+    </item>
+    
+    <item>
+      <title>043 「おばけパズル開発秘話」井上 幸人＆湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;井上 幸人さんをさんゲストに迎え、おばけパズルの開発、製造、販売などの話を聞きました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BmUdoShVWfs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://obakepuzzle.com/&quot;&gt;おばけパズル ～みんなをまどわすOBAKEたち～&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://obakepuzzle.stores.jp/&quot;&gt;おばけパズルのお店&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/obakepuzzle&quot;&gt;おばけパズル @obakepuzzle - Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.line.me/stickershop/product/8024125/&quot;&gt;うごく！おばけパズルスタンプ！- LINE スタンプ | LINE STORE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.line.me/stickershop/product/9267385/ja&quot;&gt;うごく！おばけパズルスタンプ2！- LINE スタンプ | LINE STORE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2020/m0179/&quot;&gt;品モノラボ | Maker Faire Tokyo 2020 | Make: Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://prtimes.jp/main/html/rd/p/000000001.000051094.html&quot;&gt;『WOODコレクション（モクコレ）令和元年』開催&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.furusato-tax.jp/product/detail/43424/4672862&quot;&gt;【阿蘇小国杉】木製おばけパズル+おばけトートバッグセット - 熊本県小国町 | ふるさと納税 [ふるさとチョイス]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/@obakepuzzle&quot;&gt;おばけパズル – Medium&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2020/10/24/043/"/>
+      <pubDate>Sat, 24 Oct 2020 20:00:00 +0900</pubDate>
+      <updated>2020-10-24T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2020/10/24/043</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>井上 幸人さんをさんゲストに迎え、おばけパズルの開発、製造、販売などの話を聞きました。</itunes:summary>
+      <itunes:subtitle>井上 幸人さんをさんゲストに迎え、おばけパズルの開発、製造、販売などの話を聞きました。</itunes:subtitle>
+      <itunes:duration>1:15:46</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/043.mp3" type="audio/mpeg" length="90922362" />
+    </item>
     
     <item>
       <title>042 「Maker Faire Tokyo 2020 振り返り」古賀 由希子＆湯村 翼＆塚谷 浩司</title>

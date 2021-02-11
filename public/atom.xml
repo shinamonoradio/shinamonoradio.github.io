@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2021-01-03T16:49:13+09:00</updated>
+    <updated>2021-02-12T00:11:41+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,84 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>047 「グローバル・ローカル・チームでのものづくり」水田 千惠＆湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;水田 千惠(&lt;a href=&quot;https://twitter.com/crispytaffy&quot;&gt;@crispytaffy&lt;/a&gt;)さんをゲストに迎え、欧州科学館周り、ベルリンでのハッカソン参加、山口県での活動、チームでのものづくりなどの話をしました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vQDyeCWMTwo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://fq.yahoo.co.jp/&quot;&gt;FQ (Future Questions) - Yahoo! JAPAN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://mmj-car.com/&quot;&gt;日本自動車博物館&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.deutsches-museum.de/&quot;&gt;Deutsches Museum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://valed.press/_users/16920076&quot;&gt;水田 千惠 - バレッドプレス（VALED PRESS）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.spaceappschallenge.org/&quot;&gt;NASA International Space Apps Challenge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://yamaguchi.stopcovid19.jp/&quot;&gt;山口県公認 新型コロナウイルス感染症対策サイト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fq.yahoo.co.jp/art2019/6.html&quot;&gt;Yahoo! JAPANのメディアアート作品『Contextual Studies』&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/M5Staff/&quot;&gt;M5Staff - Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://abstract-electronics.tumblr.com/&quot;&gt;抽象的電子工作&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nagoyatv.com/hackathon/&quot;&gt;メ～テレ開局55周年記念 メイキンクエスト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://gikenbase.thebase.in/items/30130363&quot;&gt;カリーギーク・スパイスセット: キーマカリー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.kamipo.net/entry/2021/02/06/211559&quot;&gt;新宿うまいカレー屋多すぎん？ - かみぽわーる&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hackday.jp/&quot;&gt;Yahoo! JAPAN Hack Day 2021 Online&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2021/02/11/047/"/>
+      <pubDate>Thu, 11 Feb 2021 20:00:00 +0900</pubDate>
+      <updated>2021-02-11T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2021/02/11/047</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>水田 千惠(@crispytaffy)さんをゲストに迎え、欧州科学館周り、ベルリンでのハッカソン参加、山口県での活動、チームでのものづくりなどの話をしました。</itunes:summary>
+      <itunes:subtitle>水田 千惠(@crispytaffy)さんをゲストに迎え、欧州科学館周り、ベルリンでのハッカソン参加、山口県での活動、チームでのものづくりなどの話をしました。</itunes:subtitle>
+      <itunes:duration>1:56:38</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/047.mp3" type="audio/mpeg" length="" />
+    </item>
+    
+    <item>
+      <title>046 「ミクミンPのものづくり経歴」ミクミンP＆湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;ミクミンP(&lt;a href=&quot;https://twitter.com/ksasao&quot;&gt;@ksasao&lt;/a&gt;)をゲストに迎え、ミクテルミン、ヒミツのクマちゃんハック、おうちハック、ごちうサーチなどの話をしました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OIlTKfrYTnc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1656931&quot;&gt;品モノラジオ 046「ミクミンPのものづくり経歴」ミクミンP＆湯村 翼＆塚谷 浩司 #品モノラジオ _ Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/ksasao/ksasao/blob/main/works.md&quot;&gt;ksasao/works.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/blog/2008/11/make_tokyo_meeting_02_update.html&quot;&gt;Make: Tokyo Meeting 02&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nicovideo.jp/watch/sm1572456&quot;&gt;【初音ミク】うちのミクさんにテルミンになってもらいました&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nicovideo.jp/watch/sm17432624&quot;&gt;【二次元】ミクさんと生活しはじめてみた【三次元】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://dic.nicovideo.jp/a/%E3%81%82%E3%81%AE%E6%A5%BD%E5%99%A8&quot;&gt;あの楽器とは (アノガッキとは) [単語記事] - ニコニコ大百科&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://dic.nicovideo.jp/a/%E3%83%8D%E3%82%AE%E6%8C%AF%E3%82%8A&quot;&gt;ネギ振りとは (ネギフリとは) [単語記事] - ニコニコ大百科&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.takaratomy-arts.co.jp/specials/himikuma/&quot;&gt;ヒミツのクマちゃん&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://research.yamaha.com/ja/solutions/heartalk/&quot;&gt;HEARTalk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/ksasao/items/e7ca345b3402d41b29d2&quot;&gt;HEARTalk で自然な応答システムを作る&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/ksasao/items/20570be711443b932ee9&quot;&gt;Windows 10 でおうちハックする&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/ksasao/takusanqi-mitukaseruhua-number-ntzha-huang&quot;&gt;たくさん棲みつかせる話 #NT札幌 - Speaker Deck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.switch-science.com/catalog/6495/&quot;&gt;双方向ハンドセンサー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.vuzix.jp/&quot;&gt;VUSIX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://xtech.nikkei.com/atcl/nxt/column/18/00001/00485/&quot;&gt;自作してわかった、新型ZOZOSUITのすごさと狙い&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/ksasao/ss-72025009&quot;&gt;ごちうサーチ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=cEo0cUtTKcY&quot;&gt;試製 艦これ Viewer for Sony SmartWatch 2 (SW2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/ksasao/3000brownie&quot;&gt;3000円のエッジデバイス内で画像の学習と推論を行うBrownie(ぶらうにー)の話)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.switch-science.com/catalog/6651/&quot;&gt;M5StickV（マイク搭載版）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://vroid.com/neoket/&quot;&gt;オールジャンルオンライン同人誌即売会NEOKET&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://bunkai06.peatix.com/&quot;&gt;#分解のススメ 第6回 マジョカアイリスハック/100円ショップガジェット分解/電子辞書にLinuxインストール + 分解LT 1月30日土曜日14:00-&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2021/01/24/046/"/>
+      <pubDate>Sun, 24 Jan 2021 20:00:00 +0900</pubDate>
+      <updated>2021-01-24T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2021/01/24/046</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ミクミンP(@ksasao)をゲストに迎え、ミクテルミン、ヒミツのクマちゃんハック、おうちハック、ごちうサーチなどの話をしました。</itunes:summary>
+      <itunes:subtitle>ミクミンP(@ksasao)をゲストに迎え、ミクテルミン、ヒミツのクマちゃんハック、おうちハック、ごちうサーチなどの話をしました。</itunes:subtitle>
+      <itunes:duration>1:37:48</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/046.mp3" type="audio/mpeg" length="156194533" />
+    </item>
     
     <item>
       <title>045 「NT札幌と2020年振り返り」湯村 翼＆塚谷 浩司</title>

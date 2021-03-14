@@ -4,7 +4,7 @@
     <title>品モノラジオ</title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2021-02-12T00:11:41+09:00</updated>
+    <updated>2021-03-15T00:53:57+09:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,42 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>048 「石川での6年間」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;石川にいた6年間で参加したNTやMashup Award関連イベントなどの話をしました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-etoKBPSD-k&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/yumu19/6-years-in-ishikawa&quot;&gt;石川での6年間 / 6 years in Ishikawa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.nicotech.jp/nico_tech/index.php&quot;&gt;ニコニコ技術部 まとめWiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://youtu.be/JdG7hzdhsmc&quot;&gt;研究してみたマッドネス in NT金沢2018 - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://youtu.be/pYmWzccBtFE&quot;&gt;研究100連発 in NT金沢2018 - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/630&quot;&gt;寝返りブロックくずし | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://orikaeshi.com/&quot;&gt;折り返し翻訳辞書 〜日本語から日本語へ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/628&quot;&gt;年収800万円以下でも寿司が止まって見える装置 | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/624&quot;&gt;T-Shirtizer | Protopedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://tripnote.jp/komatsu-shi/hanibe-gankutsuin&quot;&gt;ここは地獄か極楽か？石川県随一のカオスな洞窟寺院・ハニベ巌窟院&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.value-press.com/pressrelease/254833&quot;&gt;博士号を持つ若手九谷焼の陶芸作家が作る！細胞紋様、食器シリーズ。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://kutani-gacha.jimdofree.com/&quot;&gt;【ようこそ】九谷焼 ガチャガチャ - 九谷焼ガチャのホームページ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.city.nomi.ishikawa.jp/www/genre/1000100000265/index.html&quot;&gt;能美ふるさとミュージアム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=IhueHZApRUQ&quot;&gt;パネルディスカッション「地方に分散し広がるMaker Faireの可能性」 &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.nicotech.jp/nico_tech/index.php?NT%E5%88%86%E6%95%A3%28%E4%BB%AE%E7%A7%B0%29&quot;&gt;NT分散(仮称)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2021/03/14/048/"/>
+      <pubDate>Sun, 14 Mar 2021 20:00:00 +0900</pubDate>
+      <updated>2021-03-14T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2021/03/14/048</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>石川にいた6年間で参加したNTやMashup Award関連イベントなどの話をしました。</itunes:summary>
+      <itunes:subtitle>石川にいた6年間で参加したNTやMashup Award関連イベントなどの話をしました。</itunes:subtitle>
+      <itunes:duration>1:29:20</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/048.mp3" type="audio/mpeg" length="107201872" />
+    </item>
     
     <item>
       <title>047 「グローバル・ローカル・チームでのものづくり」水田 千惠＆湯村 翼＆塚谷 浩司</title>

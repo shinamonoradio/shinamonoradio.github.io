@@ -4,7 +4,7 @@
     <title>品モノラジオ</title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2021-03-15T00:53:57+09:00</updated>
+    <updated>2021-04-24T14:26:29+00:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,43 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>049 「Maker Faire Kyoto 2021 直前特集」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;Maker Faire Kyoto 2021 Online の話やいろんな雑談をしました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yXGNUlI7nT4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/mfk2021/&quot;&gt;Maker Faire Kyoto 2021 | Make: Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://book.mynavi.jp/ec/products/detail/id=22065&quot;&gt;CPUの創りかた | マイナビブックス&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/books/9784873119489/&quot;&gt;分子調理の日本食 - O&#39;Reilly Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.foodtech.studio/?lang=ja&quot;&gt;Food Tech Studio - Bites!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/books/9784873118987/&quot;&gt;どろどろこねこねで楽しい！ 手作りスライムとこむぎねんどの本 - O&#39;Reilly Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/books/9784873119441/&quot;&gt;アメリカからやってきた、みんなで作るおもち、大福、おだんごの本 - O&#39;Reilly Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=viIktfY17sk&quot;&gt;DIY MUSIC on DESKTOP - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mfk2021/m0025/&quot;&gt;KOJIMA KUNIO - 宇宙線を見つけよう！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mfk2021/m0036/&quot;&gt;キーボードを動かし隊 - リモートdeキー暴動？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mfk2021/m0032/&quot;&gt;奈良先端科学技術大学院大学 ユビキタスコンピューティングシステム研究室 - eat2pic:食事と描画のアナロジーによる行動変容システム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mfk2021/m0020/&quot;&gt;kuralab.@大阪電気通信大学 - オリジナルグッズ、レーザー彫刻版画、micro:bit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mfk2021/m0045/&quot;&gt;おおしまたくろう - 滑琴放走局（カッキン・ラジオ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mfk2021/m0007/&quot;&gt;Octdeer - チュッパチャプス×オーディオスペクトラムアナライザ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://instachord.com/&quot;&gt;インスタコード/InstaChord – 誰でも弾ける新しい楽器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://forms.gle/h3owCmaQaX9wUtqM7&quot;&gt;品モノラジオ お便り募集&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2021/04/24/049/"/>
+      <pubDate>Sat, 24 Apr 2021 20:00:00 +0900</pubDate>
+      <updated>2021-04-24T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2021/04/24/049</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Maker Faire Kyoto 2021 Online の話やいろんな雑談をしました。</itunes:summary>
+      <itunes:subtitle>Maker Faire Kyoto 2021 Online の話やいろんな雑談をしました。</itunes:subtitle>
+      <itunes:duration>1:23:44</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/049.mp3" type="audio/mpeg" length="120578761" />
+    </item>
     
     <item>
       <title>048 「石川での6年間」湯村 翼＆塚谷 浩司</title>

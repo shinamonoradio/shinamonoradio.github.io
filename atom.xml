@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2021-05-23T10:03:54+00:00</updated>
+    <updated>2021-05-23T16:23:40+00:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,46 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>051 「MIDI自動演奏装置展示秘話など」necobit＆湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;necobit(&lt;a href=&quot;https://twitter.com/necobut&quot;&gt;@necobut&lt;/a&gt;,&lt;a href=&quot;https://twitter.com/necobitter&quot;&gt;@necobitter&lt;/a&gt;)さんをゲストに迎え、MIDI自動演奏楽器の制作やMaker Faireでの展示、その他の活動のお話しをうかがいました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JTU9mar-hTU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://necobit.com/&quot;&gt;necobit.com（ねこびっと） – MIDI寄りものづくり。自動演奏楽器パフォーマンス。最新記事はメニューからどうぞ！ &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://necobit.com/denshi/&quot;&gt;necobit電子 Electronic Control Products – MIDI制御基板・電子工作キット製作販売 &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://necobit.base.shop/&quot;&gt;necobit（ねこびっと）電子 Electronic Control Products&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://necobit.com/2020/02/tmmf2020.html&quot;&gt;「Tsukuba Mini Maker Faire 2020」出展しました – necobit.com（ねこびっと）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://necobit.com/2020/10/maker-faire-tokyo-2020.html&quot;&gt;#今壊れました「Maker Faire Tokyo 2020」に出展しました – necobit.com（ねこびっと）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://necobit.com/2020/09/midi-melodica-pwm.html&quot;&gt;PWM制御で表現力アップ！MIDI自動演奏 鍵盤ハーモニカ・MIDI制御 送風ファン – necobit.com（ねこびっと）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://necobit.com/2021/05/diy-music-on-desktop-2021.html&quot;&gt;人間生演奏でLEDをMIDI制御する音楽ライトショー！DIY MUSIC on DESKTOP 2021 に出演しました – necobit.com（ねこびっと）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/blog/2021/04/diy-music-on-desktop2021-2.html&quot;&gt;Make: Japan | Maker Faire Kyoto 2021 オンラインライブイベント「DIY MUSIC on DESKTOP 2021」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://necobit.com/2020/07/ntkanazawa2020.html&quot;&gt;「夜のNT金沢2020オンライン」ライブ耳コピDTMをしました。 – necobit.com（ねこびっと）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/jp-2013-11-05-maker-faire-tokyo-2013-z-machines.html&quot;&gt;Maker Faire Tokyo 2013：本物の楽器を演奏するロボットバンド Z-MACHINES - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://note.com/takasu/n/ndb4bd18a46e9&quot;&gt;MAKER MUSIC FESTIVAL オンラインのミュージックイベント 参加募集中。世界の楽器/音楽系メイカーとつながろう！｜TAKASU Masakazu｜note&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://necobit.com/2020/12/midi3-pj-bright-note.html&quot;&gt;#MIDI3 テスラコイルPJさん、電子ピアノ演奏可視化装置 “Bright Note”水田かなめさんと共演しました – necobit.com（ねこびっと）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://dhwmu.connpass.com/event/103333/&quot;&gt;同人ハードウェア meetup ＃１&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://necobit.theletter.jp/&quot;&gt;MIDI寄りものづくり ねこびっと通信&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/mft2021/&quot;&gt;Maker Faire Tokyo 2021 | Make: Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://connpass.com/event/211098/&quot;&gt;メイカーズ文化とシチズンサイエンス #JOSS2021 - connpass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://necobit.com/denshi/hex-led-light/&quot;&gt;六角ダイオード Hexagon LED Light – necobit電子 Electronic Control Products&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22021&quot;&gt;NT金沢2021&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2021/05/23/051/"/>
+      <pubDate>Sun, 23 May 2021 20:00:00 +0900</pubDate>
+      <updated>2021-05-23T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2021/05/23/051</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>necobit(@necobut,@necobitter)さんをゲストに迎え、MIDI自動演奏楽器の制作やMaker Faireでの展示、その他の活動のお話しをうかがいました。</itunes:summary>
+      <itunes:subtitle>necobit(@necobut,@necobitter)さんをゲストに迎え、MIDI自動演奏楽器の制作やMaker Faireでの展示、その他の活動のお話しをうかがいました。</itunes:subtitle>
+      <itunes:duration>1:33:36</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/051.mp3" type="audio/mpeg" length="134787078" />
+    </item>
     
     <item>
       <title>050 「Maker Faire Kyoto 2021 振り返りと第50回記念お便りコーナー」湯村 翼＆塚谷 浩司</title>

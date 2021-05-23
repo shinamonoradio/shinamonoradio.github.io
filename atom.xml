@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2021-04-24T15:01:23+00:00</updated>
+    <updated>2021-05-23T10:00:42+00:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,42 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>050 「Maker Faire Kyoto 2021 振り返りと第50回記念」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;Maker Faire Kyoto 2021 Online の振り返りや、メイカー活動を始めたきっかけ、toioの話などをしました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hHEVE4Uzxu0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/mfk2021/&quot;&gt;Maker Faire Kyoto 2021 | Make: Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=f7P5RknTTBI&quot;&gt;#MFKyoto2021 #作品発表 (勝手に)振り返りオンライントーク&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mag.switch-science.com/2021/05/07/mfkyoto2021-look-back/&quot;&gt;#MFKyoto2021 #作品発表 (勝手に)振り返りオンライントーク、を振り返る – スイッチサイエンス マガジン&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/mktechlab_net/status/1388373117597143040&quot;&gt;空中に浮かんでいるように見えるボックス&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/takamityu/status/1388491707541442561&quot;&gt;HAKOBELL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/TOPGUN_Aki/status/1388351538410659844&quot;&gt;ゲーミング伏見稲荷&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/BitBlt_Korry/status/1388353336135454725&quot;&gt;ひねるとチョコレートが出る蛇口&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/tkman33/status/1388383127316271105&quot;&gt;タッチレス自販機「potoli」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/lets555i/status/1388363204598718465&quot;&gt;レーザー加工機の彫刻加工を使って制作したアート作品&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://dailyportalz.jp/kiji/What_the_customer_really_needed-diorama&quot;&gt;「顧客が本当に必要だった物」のジオラマを作る &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://toio.io/special/do/&quot;&gt;toio Do 〜あそぶ・いじる・はまる！ロボットでゲームプログラミング〜&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/event/13&quot;&gt;toioの「Do!コン」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mashupawards.connpass.com/event/208763/&quot;&gt;toioの「Do!コン」最終審査会  #toioDo　#Doコン&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22021&quot;&gt;NT金沢2021&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2021/05/03/050/"/>
+      <pubDate>Mon, 03 May 2021 20:00:00 +0900</pubDate>
+      <updated>2021-05-03T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2021/05/03/050</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Maker Faire Kyoto 2021 Online の振り返りや、メイカー活動を始めたきっかけ、toioの話などをしました。</itunes:summary>
+      <itunes:subtitle>Maker Faire Kyoto 2021 Online の振り返りや、メイカー活動を始めたきっかけ、toioの話などをしました。</itunes:subtitle>
+      <itunes:duration>1:21:00</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/050.mp3" type="audio/mpeg" length="116643470" />
+    </item>
     
     <item>
       <title>049 「Maker Faire Kyoto 2021 直前特集」湯村 翼＆塚谷 浩司</title>

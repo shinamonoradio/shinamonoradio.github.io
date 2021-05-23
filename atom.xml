@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2021-05-23T10:00:42+00:00</updated>
+    <updated>2021-05-23T10:03:54+00:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -29,7 +29,7 @@
     <itunes:category text="Technology"/>
     
     <item>
-      <title>050 「Maker Faire Kyoto 2021 振り返りと第50回記念」湯村 翼＆塚谷 浩司</title>
+      <title>050 「Maker Faire Kyoto 2021 振り返りと第50回記念お便りコーナー」湯村 翼＆塚谷 浩司</title>
       <description>&lt;p&gt;Maker Faire Kyoto 2021 Online の振り返りや、メイカー活動を始めたきっかけ、toioの話などをしました。&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hHEVE4Uzxu0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
@@ -53,10 +53,10 @@
 &lt;/ul&gt;
 
 </description>
-      <link href="http://shinamonoradio.github.io/blog/2021/05/03/050/"/>
-      <pubDate>Mon, 03 May 2021 20:00:00 +0900</pubDate>
-      <updated>2021-05-03T20:00:00+09:00</updated>
-      <guid>http://shinamonoradio.github.io/blog/2021/05/03/050</guid>
+      <link href="http://shinamonoradio.github.io/blog/2021/05/02/050/"/>
+      <pubDate>Sun, 02 May 2021 20:00:00 +0900</pubDate>
+      <updated>2021-05-02T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2021/05/02/050</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:summary>Maker Faire Kyoto 2021 Online の振り返りや、メイカー活動を始めたきっかけ、toioの話などをしました。</itunes:summary>
       <itunes:subtitle>Maker Faire Kyoto 2021 Online の振り返りや、メイカー活動を始めたきっかけ、toioの話などをしました。</itunes:subtitle>

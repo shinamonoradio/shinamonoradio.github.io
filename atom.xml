@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2021-07-18T09:53:07+00:00</updated>
+    <updated>2022-05-04T13:53:22+00:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,207 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>057 「展示を見るときのポイント」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;展示を見るときによく聞く質問や見るポイントなどについて話しました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IzgaEPCovTU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makercat-mft2021/36_company/&quot;&gt;企業内の部活動 | 出展者情報 | Maker Faire Tokyo 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://lady-joker.hatenadiary.jp/entry/2020/01/23/095929&quot;&gt;アドバイスおじさんに花束を&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makerfaire/mfk2022/&quot;&gt;Maker Meeting for Maker Faire Kyoto＋ 子どもワークショップ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makerfaire/smmf2022/&quot;&gt;Sendai Micro Maker Faire 2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22022&quot;&gt;NT金沢2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/mft2022/&quot;&gt;Maker Faire Tokyo 2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ouchi-hack.connpass.com/event/243780/&quot;&gt;おうちHack勉強会 #01&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2022/04/23/057/"/>
+      <pubDate>Sat, 23 Apr 2022 20:00:00 +0900</pubDate>
+      <updated>2022-04-23T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2022/04/23/057</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>展示を見るときによく聞く質問や見るポイントなどについて話しました。</itunes:summary>
+      <itunes:subtitle>展示を見るときによく聞く質問や見るポイントなどについて話しました。</itunes:subtitle>
+      <itunes:duration>1:34:08</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/057.mp3" type="audio/mpeg" length="135553822" />
+    </item>
+    
+    <item>
+      <title>056 「ヒーローズリーグ2021 品モノラジオ賞受賞作品 THE 8BIT KEYBOARD開発秘話」ひげだるま＆湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;田中雅也 a.k.a. ひげだるま(&lt;a href=&quot;https://twitter.com/masaya3&quot;&gt;@masaya3&lt;/a&gt;)さんをゲストにお迎えし、THE 8BIT KEYBOARDやその他の作品についてお話しをうかがいました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fjfcem7jPaI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://heroes-league.net/2021/&quot;&gt;ヒーローズ・リーグ 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/event/21&quot;&gt;ヒーローズ・リーグ 2021 | Protopedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2593&quot;&gt;THE 8BIT KEYBOARD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototyper/higedaruma&quot;&gt;ひげだるま | Protopedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2031&quot;&gt;29時間時計&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/175&quot;&gt;ごはんですよ！ by nabo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/1849&quot;&gt;”遊ばないといけない”コンセントタップ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/994&quot;&gt;「オールスター大感謝祭」風ゲーム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makerfaire/mfk2022/&quot;&gt;Maker Meeting for Maker Faire Kyoto＋ 子どもワークショップ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makerfaire/smmf2022/&quot;&gt;Sendai Micro Maker Faire 2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22022&quot;&gt;NT金沢2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/mft2022/&quot;&gt;Maker Faire Tokyo 2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLlxoaXlPVeCAN-KrZb4zvXC-KlGvzBDvc&quot;&gt;Protopediaの時間&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2022/03/27/056/"/>
+      <pubDate>Sun, 27 Mar 2022 20:00:00 +0900</pubDate>
+      <updated>2022-03-27T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2022/03/27/056</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>田中雅也 a.k.a. ひげだるま([@masaya3](https://twitter.com/masaya3))さんをゲストにお迎えし、THE 8BIT KEYBOARDやその他の作品についてお話しをうかがいました。</itunes:summary>
+      <itunes:subtitle>田中雅也 a.k.a. ひげだるま([@masaya3](https://twitter.com/masaya3))さんをゲストにお迎えし、THE 8BIT KEYBOARDやその他の作品についてお話しをうかがいました。</itunes:subtitle>
+      <itunes:duration>1:13:52</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/056.mp3" type="audio/mpeg" length="106370449" />
+    </item>
+    
+    <item>
+      <title>055 「2021年ふりかえり」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;2021年をふりかえりました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0bEQwV-oKiM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://heroes-league.net/2021/&quot;&gt;ヒーローズ・リーグ 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/event/21&quot;&gt;ヒーローズ・リーグ 2021 | Protopedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2593&quot;&gt;THE 8BIT KEYBOARD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://shinamonoradio.github.io/blog/2021/01/24/046/&quot;&gt;046 「ミクミンPのものづくり経歴」ミクミンP＆湯村 翼＆塚谷 浩司&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://shinamonoradio.github.io/blog/2021/02/11/047/&quot;&gt;047 「グローバル・ローカル・チームでのものづくり」水田 千惠＆湯村 翼＆塚谷 浩司&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://shinamonoradio.github.io/blog/2021/03/14/048/&quot;&gt;048 「石川での6年間」湯村 翼＆塚谷 浩司&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://shinamonoradio.github.io/blog/2021/04/24/049/&quot;&gt;049 「Maker Faire Kyoto 2021 直前特集」湯村 翼＆塚谷 浩司&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://shinamonoradio.github.io/blog/2021/05/02/050/&quot;&gt;050 「Maker Faire Kyoto 2021 振り返りと第50回記念お便りコーナー」湯村 翼＆塚谷 浩司&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://shinamonoradio.github.io/blog/2021/05/23/051/&quot;&gt;051 「MIDI自動演奏装置展示秘話など」necobit＆湯村 翼＆塚谷 浩司&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://shinamonoradio.github.io/blog/2021/07/18/052/&quot;&gt;052 「NT金沢2021、NT金沢mini＠まるびぃ」五味＆湯村 翼＆塚谷 浩司&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://uda.la/&quot;&gt;電子楽器ウダー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://instachord.com/&quot;&gt;インスタコード/InstaChord&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.clubhouse.com/&quot;&gt;Clubhouse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hello.vrchat.com/&quot;&gt;VRChat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://cluster.mu/&quot;&gt;cluster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://open.spotify.com/show/22Kanu6zJHCOO4XwoGBCr7&quot;&gt;プロトタイプシティ・ラジオ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://open.spotify.com/show/7vXQpi3VObUZt4UPQz3viH&quot;&gt;のびすけラジオ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLlxoaXlPVeCAN-KrZb4zvXC-KlGvzBDvc&quot;&gt;Protopediaの時間&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://anchor.fm/&quot;&gt;Anchor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ajimitei.booth.pm/&quot;&gt;M5Staff&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://omisoka-hackathon.connpass.com/event/233973/&quot;&gt;大晦日ハッカソン&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2021/12/28/055/"/>
+      <pubDate>Tue, 28 Dec 2021 20:00:00 +0900</pubDate>
+      <updated>2021-12-28T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2021/12/28/055</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>2021年をふりかえりました。</itunes:summary>
+      <itunes:subtitle>2021年をふりかえりました。</itunes:subtitle>
+      <itunes:duration>1:40:42</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/055.mp3" type="audio/mpeg" length="145010567" />
+    </item>
+    
+    <item>
+      <title>054 「ヒーローズ・リーグ2021 品モノラジオ賞ノミネート」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;ヒーローズリーグ2021の作品から、品モノラジオ賞の候補作品を紹介しました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8dbA10ZYHM4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tinkercad.com/&quot;&gt;Tinkercad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://yumulog.hatenablog.com/entry/2022/01/10/233841&quot;&gt;Tinkercadの電子回路シミュレータを使ってオンラインでArduinoの演習授業をした話 - yumulog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://heroes-league.net/2021/&quot;&gt;ヒーローズ・リーグ 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/event/21&quot;&gt;ヒーローズ・リーグ 2021 | Protopedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://min.togetter.com/ugWaaZz&quot;&gt;ヒーローズリーグ2021湯村コメントまとめ&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://protopedia.net/prototype/2750&quot;&gt;スッコココめざまし時計&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2293&quot;&gt;たこ焼きシンセサイザー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2727&quot;&gt;ベンガーデルZ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2554&quot;&gt;toio地球儀&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2722&quot;&gt;カフェのサイズが覚えられない&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2565&quot;&gt;Fax Verification by Twilio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2312&quot;&gt;由来のわかる地名カルタ「言の場」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2593&quot;&gt;THE 8BIT KEYBOARD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2697&quot;&gt;音に合わせて光るイルミネーション audilu circle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2257&quot;&gt;枯山水メーカー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2349&quot;&gt;M5Stack Color Maker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2459&quot;&gt;Glowing Air-Bubble Clock ver.3A&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2211&quot;&gt;toio CLOCK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2146&quot;&gt;パラレルインク -Parallel ink-&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2230&quot;&gt;toioでアナログ時計&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2721&quot;&gt;TOCHORIS (都庁でテ〇リス &amp;amp; ゲーミング都庁)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2362&quot;&gt;レトロゲーム機周辺機器 (プリンター)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2474&quot;&gt;学校の古いテレビを活用　テレビに映せるタイマー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2540&quot;&gt;ホログラムかめはめ波&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2308&quot;&gt;DARUMAJI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2714&quot;&gt;傘型モビリティ「KASAMO」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2319&quot;&gt;スティックモビリティ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2127&quot;&gt;乗れるモルカー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2588&quot;&gt;植物だって、タクシーを呼んでみたい！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2572&quot;&gt;オンラインのアイスブレイクツールMeltice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2667&quot;&gt;オンライン会議の発言量調整システム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2660&quot;&gt;Oculus Quest2 コントローラー 穴あきサンダルアタッチメント&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mashupawards.connpass.com/event/219453/&quot;&gt;#ヒーローズリーグ 2021 決勝・BINGO大会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://igfaire.office-kuma.com/&quot;&gt;伊勢ギーク・フェア2021&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2021/12/04/054/"/>
+      <pubDate>Sat, 04 Dec 2021 21:00:00 +0900</pubDate>
+      <updated>2021-12-04T21:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2021/12/04/054</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ヒーローズリーグ2021の作品から、品モノラジオ賞の候補作品を紹介しました。</itunes:summary>
+      <itunes:subtitle>ヒーローズリーグ2021の作品から、品モノラジオ賞の候補作品を紹介しました。</itunes:subtitle>
+      <itunes:duration>1:47:22</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/054.mp3" type="audio/mpeg" length="154610880" />
+    </item>
+    
+    <item>
+      <title>053 「オンラインでの展示イベントについて」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;オンラインでの展示イベントの現状やよりよい方法の検討などについて話しました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Zh5uZXVn9eA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/mft2021/&quot;&gt;Maker Faire Tokyo 2021 | Make: Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/blog/2021/09/diy-music-for-kids.html&quot;&gt;DIY MUSIC for kids&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.spaceappschallenge.org/&quot;&gt;NASA SpaceApps Challenge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.nicotech.jp/nico_tech/index.php?NT%E5%AF%8C%E5%B1%B12021&quot;&gt;NT富山2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sites.google.com/view/virtualconference2020&quot;&gt;バーチャル学会2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://gather.town/&quot;&gt;Gather&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://scienceportal.jst.go.jp/explore/reports/20201223_e01/&quot;&gt;オンラインで標本に触れる！？ 「未来の博物館」への挑戦&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ovice.in/ja/&quot;&gt;oVice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hubs.mozilla.com/&quot;&gt;Hubs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://door.ntt/&quot;&gt;DOOR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://spatial.io/&quot;&gt;Spatial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://cluster.mu/w/58a2d040-74c3-42b5-9f35-002263438fb0&quot;&gt;バーチャルムサビ展&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.makermusicfestival.com/&quot;&gt;Maker Music Festival&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://note.com/takasu/n/ndb4bd18a46e9&quot;&gt;MAKER MUSIC FESTIVAL オンラインのミュージックイベント 参加募集中。世界の楽器/音楽系メイカーとつながろう！｜TAKASU Masakazu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://heroes-league.net/2021/&quot;&gt;ヒーローズ・リーグ 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://info.switch-science.com/m5stack-creativity-contest-2021&quot;&gt;M5Stack Creativity Contest 2021&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2021/09/05/053/"/>
+      <pubDate>Sun, 05 Sep 2021 16:00:00 +0900</pubDate>
+      <updated>2021-09-05T16:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2021/09/05/053</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>オンラインでの展示イベントの現状やよりよい方法の検討などについて話しました。</itunes:summary>
+      <itunes:subtitle>オンラインでの展示イベントの現状やよりよい方法の検討などについて話しました。</itunes:subtitle>
+      <itunes:duration>1:21:22</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/053.mp3" type="audio/mpeg" length="117170723" />
+    </item>
     
     <item>
       <title>052 「NT金沢2021、NT金沢mini＠まるびぃ」五味＆湯村 翼＆塚谷 浩司</title>

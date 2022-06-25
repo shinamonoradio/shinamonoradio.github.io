@@ -4,7 +4,7 @@
     <title>品モノラジオ</title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2022-05-04T13:53:22+00:00</updated>
+    <updated>2022-06-25T01:19:39+00:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,50 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>058 「NT金沢2022ふりかえり」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;一瀬 卓也(&lt;a href=&quot;https://twitter.com/tichise&quot;&gt;@tichise&lt;/a&gt;)さん、堀 洋祐(&lt;a href=&quot;https://twitter.com/kasanetarium&quot;&gt;@kasanetarium&lt;/a&gt;)さんをゲストにお迎えし、NT金沢2022についてお話しをうかがいました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TQJEeV_mXis&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;仮想空間のomicroを現実空間のomicroで動かせるようになった。これでやっと半分。仮想空間のomicroで現実のomicroを動かせるようにして、デジタルツインなロボットボールを目指します。&lt;a href=&quot;https://twitter.com/hashtag/omicro?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#omicro&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/Unity?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#Unity&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/OpenCV?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#OpenCV&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/ARFoundation?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#ARFoundation&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/iPadPro?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#iPadPro&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/robotics?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#robotics&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/AR?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#AR&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#デジタルツイン&lt;/a&gt; &lt;a href=&quot;https://t.co/d8dRfH6r06&quot;&gt;pic.twitter.com/d8dRfH6r06&lt;/a&gt;&lt;/p&gt;&amp;mdash; Takuya Ichise (@tichise) &lt;a href=&quot;https://twitter.com/tichise/status/1485171359269679106?ref_src=twsrc%5Etfw&quot;&gt;January 23, 2022&lt;/a&gt;&lt;/blockquote&gt;
+
+
+&lt;p&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;6/18(土)、19(日)に金沢駅で開催される &lt;a href=&quot;https://twitter.com/hashtag/NT%E9%87%91%E6%B2%A2?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#NT金沢&lt;/a&gt; に絵文字(emoji)で感情(emotion)で伝えるマスク「EMOjiマスク」を展示します。&lt;br&gt;Maker Faireで見かけるガイコツでお馴染み、まえこっかくのSUZUKIさん (&lt;a href=&quot;https://twitter.com/create_clock?ref_src=twsrc%5Etfw&quot;&gt;@create_clock&lt;/a&gt; )のブースで説明をしたり、EMOjiマスクをつけて会場を廻る予定です！ &lt;a href=&quot;https://t.co/iIBIgTFNwY&quot;&gt;pic.twitter.com/iIBIgTFNwY&lt;/a&gt;&lt;/p&gt;&amp;mdash; Yosuke Hori / カサネタリウム (@kasanetarium) &lt;a href=&quot;https://twitter.com/kasanetarium/status/1536287263893516288?ref_src=twsrc%5Etfw&quot;&gt;June 13, 2022&lt;/a&gt;&lt;/blockquote&gt;
+
+
+&lt;p&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://shinamonoradio.github.io/blog/2020/04/11/033/&quot;&gt;033「ロボットボールomicroと世界のMaker Faire」一瀬 卓也＆湯村 翼＆塚谷 浩司&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://shinamonoradio.github.io/blog/2020/05/16/035/&quot;&gt;035「カサネタリウム10周年」堀 洋祐＆湯村 翼＆塚谷 浩司&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.nicotech.jp/nico_tech/index.php?NT%E9%87%91%E6%B2%A22022&quot;&gt;NT金沢2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1903195&quot;&gt;NT金沢2022 前日まで＆前日のTwitterまとめ - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://min.togetter.com/qvccuLm&quot;&gt;NT金沢2022ツイートまとめ #NT金沢 - min.t (ミント)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lrvHItT9ByI&quot;&gt;ProtoPediaの時間 Vol.79 直前！ #NT金沢 - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=sAFVgcit8iM&quot;&gt;ProtoPediaの時間 Vol.80 #NT金沢　振り返り - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makerfaire/smmf2022/&quot;&gt;Sendai Micro Maker Faire 2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/mft2022/&quot;&gt;Maker Faire Tokyo 2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/tichise/amazing-maker-award%E3%81%AB%E4%BD%9C%E5%93%81%E3%82%92%E5%BF%9C%E5%8B%9F%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F-3c8642b19918&quot;&gt;Amazing Maker Awardに作品を応募してみた - TAKUYA ICHISE - Medium&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2022/06/25/058/"/>
+      <pubDate>Sat, 25 Jun 2022 21:00:00 +0900</pubDate>
+      <updated>2022-06-25T21:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2022/06/25/058</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>一瀬 卓也(@tichise)さん、堀 洋祐(@kasanetarium)さんをゲストにお迎えし、NT金沢2022についてお話しをうかがいました。</itunes:summary>
+      <itunes:subtitle>一瀬 卓也(@tichise)さん、堀 洋祐(@kasanetarium)さんをゲストにお迎えし、NT金沢2022についてお話しをうかがいました。</itunes:subtitle>
+      <itunes:duration>1:10:48</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/058.mp3" type="audio/mpeg" length="101954292" />
+    </item>
     
     <item>
       <title>057 「展示を見るときのポイント」湯村 翼＆塚谷 浩司</title>
@@ -86,8 +130,8 @@
       <updated>2022-03-27T20:00:00+09:00</updated>
       <guid>http://shinamonoradio.github.io/blog/2022/03/27/056</guid>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>田中雅也 a.k.a. ひげだるま([@masaya3](https://twitter.com/masaya3))さんをゲストにお迎えし、THE 8BIT KEYBOARDやその他の作品についてお話しをうかがいました。</itunes:summary>
-      <itunes:subtitle>田中雅也 a.k.a. ひげだるま([@masaya3](https://twitter.com/masaya3))さんをゲストにお迎えし、THE 8BIT KEYBOARDやその他の作品についてお話しをうかがいました。</itunes:subtitle>
+      <itunes:summary>田中雅也 a.k.a. ひげだるま(@masaya3)さんをゲストにお迎えし、THE 8BIT KEYBOARDやその他の作品についてお話しをうかがいました。</itunes:summary>
+      <itunes:subtitle>田中雅也 a.k.a. ひげだるま(@masaya3)さんをゲストにお迎えし、THE 8BIT KEYBOARDやその他の作品についてお話しをうかがいました。</itunes:subtitle>
       <itunes:duration>1:13:52</itunes:duration>
       <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/056.mp3" type="audio/mpeg" length="106370449" />
     </item>

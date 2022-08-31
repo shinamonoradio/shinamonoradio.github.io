@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2022-06-25T01:24:52+00:00</updated>
+    <updated>2022-08-31T01:10:12+00:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,47 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>060 「Maker Faire Tokyo 2022 直前特集」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;Maker Faire Tokyo 2022についてお話ししました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/E-_eKpEyADI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/mft2022/&quot;&gt;Maker Faire Tokyo 2022&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2022/08/28/060/"/>
+      <pubDate>Sun, 28 Aug 2022 20:00:00 +0900</pubDate>
+      <updated>2022-08-28T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2022/08/28/060</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Maker Faire Tokyo 2022についてお話ししました。</itunes:summary>
+      <itunes:subtitle>Maker Faire Tokyo 2022についてお話ししました。</itunes:subtitle>
+      <itunes:duration>1:27:20</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/060.mp3" type="audio/mpeg" length="125762292" />
+    </item>
+    
+    <item>
+      <title>059 「プロトタイプでひきだしを増やす」豊田 陽介＆湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;豊田陽介(&lt;a href=&quot;https://twitter.com/youtoy&quot;&gt;@youtoy&lt;/a&gt;)さんをゲストにお迎えし、いままでの作品やp5.js、Teachable Machineなどの技術についてお話しをうかがいました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/DvB4MScJzkM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2022/07/17/059/"/>
+      <pubDate>Sun, 17 Jul 2022 20:00:00 +0900</pubDate>
+      <updated>2022-07-17T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2022/07/17/059</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>豊田陽介(@youtoy)さんをゲストにお迎えし、いままでの作品やp5.js、Teachable Machineなどの技術についてお話しをうかがいました。</itunes:summary>
+      <itunes:subtitle>豊田陽介(@youtoy)さんをゲストにお迎えし、いままでの作品やp5.js、Teachable Machineなどの技術についてお話しをうかがいました。</itunes:subtitle>
+      <itunes:duration>1:16:00</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/059.mp3" type="audio/mpeg" length="109441822" />
+    </item>
     
     <item>
       <title>058 「NT金沢2022ふりかえり」一瀬 卓也＆堀 洋祐＆湯村 翼＆塚谷 浩司</title>

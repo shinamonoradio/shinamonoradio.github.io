@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2022-08-31T01:10:12+00:00</updated>
+    <updated>2023-02-13T14:23:48+00:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,71 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>063 「2022年ふりかえり」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;2022年をふりかえってお話ししました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LIPxtnUCuJU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2022/12/27/063/"/>
+      <pubDate>Tue, 27 Dec 2022 20:00:00 +0900</pubDate>
+      <updated>2022-12-27T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2022/12/27/063</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>2022年をふりかえってお話ししました。</itunes:summary>
+      <itunes:subtitle>2022年をふりかえってお話ししました。</itunes:subtitle>
+      <itunes:duration>1:16:00</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/063.mp3" type="audio/mpeg" length="109441822" />
+    </item>
+    
+    <item>
+      <title>062 「ヒーローズリーグ2022ふりかえり」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;ヒーローズリーグ2022についてお話ししました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1Jmg4cqMvfE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://heroes-league.net/2022/&quot;&gt;ヒーローズ・リーグ 2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/3273&quot;&gt;Twitterバード時計 | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2022/12/18/062/"/>
+      <pubDate>Sun, 18 Dec 2022 17:00:00 +0900</pubDate>
+      <updated>2022-12-18T17:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2022/12/18/062</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ヒーローズリーグ2022についてお話ししました。</itunes:summary>
+      <itunes:subtitle>ヒーローズリーグ2022についてお話ししました。</itunes:subtitle>
+      <itunes:duration>1:05:54</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/062.mp3" type="audio/mpeg" length="94898096" />
+    </item>
+    
+    <item>
+      <title>061 「Maker Faire Tokyo 2022 ふりかえり」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;Maker Faire Tokyo 2022についてお話ししました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/e57sEcjTEAs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/mft2022/&quot;&gt;Maker Faire Tokyo 2022&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2022/09/08/061/"/>
+      <pubDate>Thu, 08 Sep 2022 20:00:00 +0900</pubDate>
+      <updated>2022-09-08T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2022/09/08/061</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Maker Faire Tokyo 2022についてお話ししました。</itunes:summary>
+      <itunes:subtitle>Maker Faire Tokyo 2022についてお話ししました。</itunes:subtitle>
+      <itunes:duration>1:29:10</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/061.mp3" type="audio/mpeg" length="128403586" />
+    </item>
     
     <item>
       <title>060 「Maker Faire Tokyo 2022 直前特集」湯村 翼＆塚谷 浩司</title>

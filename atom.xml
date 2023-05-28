@@ -4,7 +4,7 @@
     <title>品モノラジオ></title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2023-02-13T14:23:48+00:00</updated>
+    <updated>2023-05-28T04:23:46+00:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,45 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>064 「思いついたアイデアは即カタチに」小林 竜太＆湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;小林 竜太(&lt;a href=&quot;https://twitter.com/CH1H160&quot;&gt;@CH1H160&lt;/a&gt;さんをゲストにお迎えし、Twitterバード時計やいままでにつくった作品についてお話しをうかがいました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LzKoKbU9-Mc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototyper/ryotakobayashi&quot;&gt;小林 竜太 | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/3273&quot;&gt;Twitterバード時計 | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fabcross.jp/category/make/mobility/20220908_twitter_bird_clock.html&quot;&gt;ツイートを声に出して読む！ 青い鳩時計をM5Stackで作る | fabcross&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/692&quot;&gt;魔法の世界を&quot;実装&quot;する ext-broom | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2917&quot;&gt;スマートハサミ(smart scissors) | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/CH1H160/status/1660256898057379840&quot;&gt;#リモチョキ に名称変更しました！ #スマートハサミ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fabcross.jp/category/make/mobility/20220215_smart_hasami.html&quot;&gt;家電の電源まで切れちゃう！ リアルでスマートなハサミ | fabcross&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2377&quot;&gt;MakerDog | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/3852&quot;&gt;かわいいスマートペンスタンド | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/1983&quot;&gt;アルペンさん | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/2116&quot;&gt;自作myCobot | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.kaiseisha.co.jp/books/9784036363506&quot;&gt;ものづくりっておもしろい！　おもちゃから乗り物まで | 偕成社 | 児童書出版社&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/event/mouser-awards-2023&quot;&gt;Mouser Make Awards 2023 | ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://we-are-ma.jp/blog/supportcam-mouser2023/&quot;&gt;【1万円の開発支援有り】マウザーモノづくり支援キャンペーンに応募しよう！ - ブログ｜一般社団法人MA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/mft2023/&quot;&gt;Maker Faire Tokyo 2023 | Make: Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://techseeker.jp/&quot;&gt;TechSeeker（テックシーカー ハッカソン） | 電子工作で未来社会をハックしよう！Tech系ものづくり探究者が集い交流する場&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://prize.supplyframe.com/&quot;&gt;2023 Hackaday Prize&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2023/05/27/064/"/>
+      <pubDate>Sat, 27 May 2023 20:00:00 +0900</pubDate>
+      <updated>2023-05-27T20:00:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2023/05/27/064</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>小林 竜太(@CH1H160)さんをゲストにお迎えし、Twitterバード時計やいままでにつくった作品についてお話しをうかがいました。</itunes:summary>
+      <itunes:subtitle>小林 竜太(@CH1H160)さんをゲストにお迎えし、Twitterバード時計やいままでにつくった作品についてお話しをうかがいました。</itunes:subtitle>
+      <itunes:duration>1:14:31</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/064.mp3" type="audio/mpeg" length="107306489" />
+    </item>
     
     <item>
       <title>063 「2022年ふりかえり」湯村 翼＆塚谷 浩司</title>

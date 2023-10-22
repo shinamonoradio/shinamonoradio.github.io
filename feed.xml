@@ -4,7 +4,7 @@
     <title>品モノラジオ</title>
     <atom:link href="http://shinamonoradio.github.io/atom.xml" rel="self"/>
     <atom:link href="http://shinamonoradio.github.io/"/>
-    <updated>2023-05-28T04:28:24+00:00</updated>
+    <updated>2023-10-22T12:16:05+00:00</updated>
     <id>http://shinamonoradio.github.io/</id>
     <language>ja</language>
     <author>
@@ -27,6 +27,59 @@
       <link>http://shinamonoradio.github.io</link>
     </image>
     <itunes:category text="Technology"/>
+    
+    <item>
+      <title>065 「Maker Faire Tokyo 2023振り返り」湯村 翼＆塚谷 浩司</title>
+      <description>&lt;p&gt;Maker Faire Tokyo 2023の振り返りをしました。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tEP52cVFPs4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/mft2023/&quot;&gt;Maker Faire Tokyo 2023 - Make: Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://switch-education.com/events/microbit-contest/&quot;&gt;たのしいmicro:bitコンテスト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/4169&quot;&gt;月齢ドーナツ - ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/event/mouser-awards-2023&quot;&gt;Mouser Make Awards 2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/3877&quot;&gt;Type-C 危機一発 - ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/4036&quot;&gt;180面体球形LEDディスプレイ - ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/3818&quot;&gt;サーボアレイを用いた一軸ジンバルによるメカニカルディスプレイあるいはインスタレーション（仮称） - ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/yumu19/status/1713386619200557309&quot;&gt;テクノそうめん、めっちゃ良い #MFTokyo2023 / @yumu19&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://magazine.cainz.com/article/169428&quot;&gt;【発明】これで寝落ちスマホも安心！ 「顔面スマホシールド」を作ってみた - となりのカインズさん&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/3857&quot;&gt;ショップバリュー ~長さを売る自販機~ - ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://protopedia.net/prototype/4662&quot;&gt;みちびきライト - ProtoPedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://dailyportalz.jp/kiji/AI-created-fictitious-award-certificates&quot;&gt;AIが作った架空の賞状で表彰する (&amp;frac12;) :: デイリーポータルZ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://robotstart.info/2020/11/06/programming-cuisine-panasonic.html&quot;&gt;パナソニックのプログラミング対応トースター 温度・時間を制御してクッキーを焼く くらしが題材の新しいSTEAM教育を開発 - ロボスタ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=pdgsNr718UI&quot;&gt;Maker Faire Tokyo2023「アブライダー」 - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2023/m0195/&quot;&gt;独立行政法人情報処理推進機構 - Maker Faire Tokyo 2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/yumu19/status/1713387295188091113&quot;&gt;エンジニア行動展示😂 #MFTokyo2023 / @yumu19&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.switch-science.com/pages/m5stack-creativity-contest-2023&quot;&gt;M5Stack Japan Creativity Contest 2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2023/m0077/&quot;&gt;ｽﾀｯｸﾁｬﾝコミュニティ - Maker Faire Tokyo 2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2023/m0121/&quot;&gt;卓上MRI顕微鏡&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2023/m0176/&quot;&gt;東芝 共創センター Creative Circuit® - Maker Faire Tokyo 2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://mhlabo.web.fc2.com/&quot;&gt;超小型ホバークラフトについて - 超小型ホバークラフト研究室&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/event/makers-mft2023/m0153/&quot;&gt;結合振動子モデルでライブ会場を再現してみた - Maker Faire Tokyo 2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://heroes-league.net/&quot;&gt;ヒーローズリーグ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.nicotech.jp/nico_tech/?NT%E6%9D%B1%E4%BA%AC2023&quot;&gt;NT東京(2023/11/05-05)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.shenzhenmakerfaire.com/&quot;&gt;Maker Faire (2023/11/11-12)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.shenzhenmakerfaire.com/&quot;&gt;Maker Faire Taipei(2023/11/18-19)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.nicotech.jp/nico_tech/?NT%E5%90%8D%E5%8F%A4%E5%B1%8B2023&quot;&gt;NT名古屋(2023/11/18-19)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makezine.jp/blog/2023/09/hmmf2023_and_kmmf2024_announce.html&quot;&gt;Make: Japan - 「Hamamatsu Micro Maker Faire 2023」（静岡県浜松市）を12月2日（土）に、初開催の「Kariya Micro Maker Faire 2024」（愛知県刈谷市）を2024年3月2日（土）、3日（日）に開催します！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/books/9784814400492/&quot;&gt;O&#39;Reilly Japan - 雑に作る&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tokyonode.jp/sp/syn/&quot;&gt;Syn:身体感覚の新たな地平 by Rhizomatiks x ELEVENPLAY&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ccbt.rekibun.or.jp/events/mplusplus-embodiment&quot;&gt;MPLUSPLUS「Embodiment++」&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link href="http://shinamonoradio.github.io/blog/2023/10/21/065/"/>
+      <pubDate>Sat, 21 Oct 2023 20:15:00 +0900</pubDate>
+      <updated>2023-10-21T20:15:00+09:00</updated>
+      <guid>http://shinamonoradio.github.io/blog/2023/10/21/065</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Maker Faire Tokyo 2023の振り返りをしました。</itunes:summary>
+      <itunes:subtitle>Maker Faire Tokyo 2023の振り返りをしました。</itunes:subtitle>
+      <itunes:duration>1:40:22</itunes:duration>
+      <enclosure url="https://s3-ap-northeast-1.amazonaws.com/shinamonoradio/episodes/065.mp3" type="audio/mpeg" length="144530332" />
+    </item>
     
     <item>
       <title>064 「思いついたアイデアは即カタチに」小林 竜太＆湯村 翼＆塚谷 浩司</title>
